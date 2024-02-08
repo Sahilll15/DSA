@@ -2,20 +2,18 @@ class Solution {
 public:
     int singleNumber(vector<int>& nums) {
         int n = nums.size();
-        int ans = 0;
-        unordered_map<int, int> hash;
+        map<int, int> hash;
+        int ans;
 
         for (int i = 0; i < n; i++) {
             hash[nums[i]]++;
         }
 
-        for (int i = 0; i < n; i++) {
-            if (hash[nums[i]] == 1) {
-                ans = nums[i];
-                break;
+        for(auto it: hash){
+            if(it.second == 1){
+                ans=it.first;
             }
         }
-
-        return ans;
-    }
+    return ans;
+    }   
 };
