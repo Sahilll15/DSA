@@ -11,10 +11,10 @@ public:
                 ans.append("G");
             } else if (command[i] == '(' && i + 1 < command.size() && command[i + 1] == ')') {
                 ans.append("o");
-                i++; // Skip the next character as it's ')'
+                i++; 
             } else {
                 ans.append("al");
-                i += 3; // Skip the next two characters as they're '(' and ')'
+                i += 3; 
             }
         }
         return ans;
