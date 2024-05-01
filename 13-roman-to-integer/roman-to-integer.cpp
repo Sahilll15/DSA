@@ -12,6 +12,7 @@ public:
     mp['M']=1000;
 
     for(int i=0;i<s.length();i++){
+        //IV -> becomes 6 but is 4 so V - I i.e 5-1 =4
        if(mp[s[i]]<mp[s[i+1]]){
          ans-=mp[s[i]];
        }else{
