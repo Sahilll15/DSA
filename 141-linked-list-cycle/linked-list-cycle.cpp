@@ -13,19 +13,23 @@ public:
             return false;
         }
 
-        map<ListNode*,int> mp;
-        ListNode* temp=head;
 
-        while(temp!=NULL){
+    ListNode* slow = head;
+    ListNode* fast = head;
 
-            if(mp.find(temp)!=mp.end()){
-                return true;
-            }
 
-            mp[temp]=1;
-            temp=temp->next;
+    while (fast != nullptr && fast->next != nullptr) {
+     
+        slow = slow->next;
+        fast = fast->next->next;
+
+
+        if (slow == fast) {
+            return true;  
         }
+    }
 
-        return false;
+
+    return false;
     }
 };
