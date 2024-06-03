@@ -1,4 +1,4 @@
-<h2><a href="https://leetcode.com/problems/count-number-of-nice-subarrays">1370. Count Number of Nice Subarrays</a></h2><h3>Medium</h3><hr><p>Given an array of integers <code>nums</code> and an integer <code>k</code>. A continuous subarray is called <strong>nice</strong> if there are <code>k</code> odd numbers on it.</p>
+<h2><a href="https://leetcode.com/problems/count-number-of-nice-subarrays">Count Number of Nice Subarrays</a></h2> <img src='https://img.shields.io/badge/Difficulty-Medium-orange' alt='Difficulty: Medium' /><hr><p>Given an array of integers <code>nums</code> and an integer <code>k</code>. A continuous subarray is called <strong>nice</strong> if there are <code>k</code> odd numbers on it.</p>
 
 <p>Return <em>the number of <strong>nice</strong> sub-arrays</em>.</p>
 
