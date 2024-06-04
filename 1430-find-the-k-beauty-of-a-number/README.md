@@ -1,4 +1,4 @@
-<h2><a href="https://leetcode.com/problems/find-the-k-beauty-of-a-number">1430. Find the K-Beauty of a Number</a></h2><h3>Easy</h3><hr><p>The <strong>k-beauty</strong> of an integer <code>num</code> is defined as the number of <strong>substrings</strong> of <code>num</code> when it is read as a string that meet the following conditions:</p>
+<h2><a href="https://leetcode.com/problems/find-the-k-beauty-of-a-number">Find the K-Beauty of a Number</a></h2> <img src='https://img.shields.io/badge/Difficulty-Easy-brightgreen' alt='Difficulty: Easy' /><hr><p>The <strong>k-beauty</strong> of an integer <code>num</code> is defined as the number of <strong>substrings</strong> of <code>num</code> when it is read as a string that meet the following conditions:</p>
 
 <ul>
 	<li>It has a length of <code>k</code>.</li>
