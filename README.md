@@ -22,11 +22,13 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0966-binary-subarrays-with-sum](https://github.com/Sahilll15/DSA/tree/master/0966-binary-subarrays-with-sum) |
 | [1370-count-number-of-nice-subarrays](https://github.com/Sahilll15/DSA/tree/master/1370-count-number-of-nice-subarrays) |
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/Sahilll15/DSA/tree/master/1460-number-of-substrings-containing-all-three-characters) |
+| [1755-defuse-the-bomb](https://github.com/Sahilll15/DSA/tree/master/1755-defuse-the-bomb) |
 # Array
 |  |
 | ------- |
 | [0966-binary-subarrays-with-sum](https://github.com/Sahilll15/DSA/tree/master/0966-binary-subarrays-with-sum) |
 | [1370-count-number-of-nice-subarrays](https://github.com/Sahilll15/DSA/tree/master/1370-count-number-of-nice-subarrays) |
+| [1755-defuse-the-bomb](https://github.com/Sahilll15/DSA/tree/master/1755-defuse-the-bomb) |
 # Prefix Sum
 |  |
 | ------- |
