@@ -5,7 +5,7 @@
 class Solution {
 public:
     int numberOfSubstrings(std::string s) {
-        std::vector<int> lastSeen(3, -1); // To store the last seen index of 'a', 'b', and 'c'
+        std::vector<int> lastSeen(3, -1); 
         int cnt = 0;
 
         for (int i = 0; i < s.size(); i++) {
