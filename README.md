@@ -13,6 +13,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 # String
 |  |
 | ------- |
+| [0067-add-binary](https://github.com/Sahilll15/DSA/tree/master/0067-add-binary) |
 | [0424-longest-repeating-character-replacement](https://github.com/Sahilll15/DSA/tree/master/0424-longest-repeating-character-replacement) |
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/Sahilll15/DSA/tree/master/1460-number-of-substrings-containing-all-three-characters) |
 # Sliding Window
@@ -36,6 +37,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 # Math
 |  |
 | ------- |
+| [0067-add-binary](https://github.com/Sahilll15/DSA/tree/master/0067-add-binary) |
 | [1370-count-number-of-nice-subarrays](https://github.com/Sahilll15/DSA/tree/master/1370-count-number-of-nice-subarrays) |
 # Stack
 |  |
@@ -57,3 +59,11 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/Sahilll15/DSA/tree/master/0094-binary-tree-inorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/Sahilll15/DSA/tree/master/0145-binary-tree-postorder-traversal) |
+# Bit Manipulation
+|  |
+| ------- |
+| [0067-add-binary](https://github.com/Sahilll15/DSA/tree/master/0067-add-binary) |
+# Simulation
+|  |
+| ------- |
+| [0067-add-binary](https://github.com/Sahilll15/DSA/tree/master/0067-add-binary) |
