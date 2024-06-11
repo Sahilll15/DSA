@@ -1,4 +1,4 @@
-<h2><a href="https://leetcode.com/problems/evaluate-boolean-binary-tree">2416. Evaluate Boolean Binary Tree</a></h2><h3>Easy</h3><hr><p>You are given the <code>root</code> of a <strong>full binary tree</strong> with the following properties:</p>
+<h2><a href="https://leetcode.com/problems/evaluate-boolean-binary-tree">Evaluate Boolean Binary Tree</a></h2> <img src='https://img.shields.io/badge/Difficulty-Easy-brightgreen' alt='Difficulty: Easy' /><hr><p>You are given the <code>root</code> of a <strong>full binary tree</strong> with the following properties:</p>
 
 <ul>
 	<li><strong>Leaf nodes</strong> have either the value <code>0</code> or <code>1</code>, where <code>0</code> represents <code>False</code> and <code>1</code> represents <code>True</code>.</li>
