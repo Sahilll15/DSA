@@ -5,7 +5,7 @@ public:
 
     vector<int> findMode(TreeNode* root) {
         if (root == nullptr) {
-            return {}; // Corrected the return statement
+            return {};
         }
 
         traverse(root);
