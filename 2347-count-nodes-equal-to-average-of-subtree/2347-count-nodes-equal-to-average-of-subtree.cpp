@@ -1,0 +1,22 @@
+
+class Solution {
+public:
+    pair<int,int> avgCount(TreeNode* root,int &count){
+        if(root==NULL){
+            return {0,0};
+        }
+        pair<int,int> lh = avgCount(root->left,count);
+        pair<int,int> rh= avgCount(root->right,count);
+
+        int sum = lh.first + rh.first + root->val ;
+        int ele = lh.second +rh.second + 1;
+
+        if(sum/ele==root->val) count++;
+        return {sum,ele};
+    }
+    int averageOfSubtree(TreeNode* root) {
+        int count = 0;
+        pair<int,int> cnt = avgCount(root,count);
+        return count;
+    }
+};
