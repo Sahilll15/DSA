@@ -1,4 +1,4 @@
-<h2><a href="https://leetcode.com/problems/binary-search-tree-to-greater-sum-tree">1114. Binary Search Tree to Greater Sum Tree</a></h2><h3>Medium</h3><hr><p>Given the <code>root</code> of a Binary Search Tree (BST), convert it to a Greater Tree such that every key of the original BST is changed to the original key plus the sum of all keys greater than the original key in BST.</p>
+<h2><a href="https://leetcode.com/problems/binary-search-tree-to-greater-sum-tree">Binary Search Tree to Greater Sum Tree</a></h2> <img src='https://img.shields.io/badge/Difficulty-Medium-orange' alt='Difficulty: Medium' /><hr><p>Given the <code>root</code> of a Binary Search Tree (BST), convert it to a Greater Tree such that every key of the original BST is changed to the original key plus the sum of all keys greater than the original key in BST.</p>
 
 <p>As a reminder, a <em>binary search tree</em> is a tree that satisfies these constraints:</p>
 
