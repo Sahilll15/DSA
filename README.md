@@ -80,6 +80,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1005-univalued-binary-tree](https://github.com/Sahilll15/DSA/tree/master/1005-univalued-binary-tree) |
 | [1035-cousins-in-binary-tree](https://github.com/Sahilll15/DSA/tree/master/1035-cousins-in-binary-tree) |
 | [1079-sum-of-root-to-leaf-binary-numbers](https://github.com/Sahilll15/DSA/tree/master/1079-sum-of-root-to-leaf-binary-numbers) |
+| [1254-deepest-leaves-sum](https://github.com/Sahilll15/DSA/tree/master/1254-deepest-leaves-sum) |
 | [1498-find-a-corresponding-node-of-a-binary-tree-in-a-clone-of-that-tree](https://github.com/Sahilll15/DSA/tree/master/1498-find-a-corresponding-node-of-a-binary-tree-in-a-clone-of-that-tree) |
 | [2416-evaluate-boolean-binary-tree](https://github.com/Sahilll15/DSA/tree/master/2416-evaluate-boolean-binary-tree) |
 # Depth-First Search
@@ -108,6 +109,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1005-univalued-binary-tree](https://github.com/Sahilll15/DSA/tree/master/1005-univalued-binary-tree) |
 | [1035-cousins-in-binary-tree](https://github.com/Sahilll15/DSA/tree/master/1035-cousins-in-binary-tree) |
 | [1079-sum-of-root-to-leaf-binary-numbers](https://github.com/Sahilll15/DSA/tree/master/1079-sum-of-root-to-leaf-binary-numbers) |
+| [1254-deepest-leaves-sum](https://github.com/Sahilll15/DSA/tree/master/1254-deepest-leaves-sum) |
 | [1498-find-a-corresponding-node-of-a-binary-tree-in-a-clone-of-that-tree](https://github.com/Sahilll15/DSA/tree/master/1498-find-a-corresponding-node-of-a-binary-tree-in-a-clone-of-that-tree) |
 | [2416-evaluate-boolean-binary-tree](https://github.com/Sahilll15/DSA/tree/master/2416-evaluate-boolean-binary-tree) |
 # Binary Tree
@@ -140,6 +142,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1005-univalued-binary-tree](https://github.com/Sahilll15/DSA/tree/master/1005-univalued-binary-tree) |
 | [1035-cousins-in-binary-tree](https://github.com/Sahilll15/DSA/tree/master/1035-cousins-in-binary-tree) |
 | [1079-sum-of-root-to-leaf-binary-numbers](https://github.com/Sahilll15/DSA/tree/master/1079-sum-of-root-to-leaf-binary-numbers) |
+| [1254-deepest-leaves-sum](https://github.com/Sahilll15/DSA/tree/master/1254-deepest-leaves-sum) |
 | [1498-find-a-corresponding-node-of-a-binary-tree-in-a-clone-of-that-tree](https://github.com/Sahilll15/DSA/tree/master/1498-find-a-corresponding-node-of-a-binary-tree-in-a-clone-of-that-tree) |
 | [2416-evaluate-boolean-binary-tree](https://github.com/Sahilll15/DSA/tree/master/2416-evaluate-boolean-binary-tree) |
 # Bit Manipulation
@@ -166,6 +169,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0799-minimum-distance-between-bst-nodes](https://github.com/Sahilll15/DSA/tree/master/0799-minimum-distance-between-bst-nodes) |
 | [1005-univalued-binary-tree](https://github.com/Sahilll15/DSA/tree/master/1005-univalued-binary-tree) |
 | [1035-cousins-in-binary-tree](https://github.com/Sahilll15/DSA/tree/master/1035-cousins-in-binary-tree) |
+| [1254-deepest-leaves-sum](https://github.com/Sahilll15/DSA/tree/master/1254-deepest-leaves-sum) |
 | [1498-find-a-corresponding-node-of-a-binary-tree-in-a-clone-of-that-tree](https://github.com/Sahilll15/DSA/tree/master/1498-find-a-corresponding-node-of-a-binary-tree-in-a-clone-of-that-tree) |
 # Binary Search
 |  |
