@@ -31,6 +31,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/Sahilll15/DSA/tree/master/0004-median-of-two-sorted-arrays) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Sahilll15/DSA/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
+| [0118-pascals-triangle](https://github.com/Sahilll15/DSA/tree/master/0118-pascals-triangle) |
 | [0966-binary-subarrays-with-sum](https://github.com/Sahilll15/DSA/tree/master/0966-binary-subarrays-with-sum) |
 | [1370-count-number-of-nice-subarrays](https://github.com/Sahilll15/DSA/tree/master/1370-count-number-of-nice-subarrays) |
 | [1755-defuse-the-bomb](https://github.com/Sahilll15/DSA/tree/master/1755-defuse-the-bomb) |
@@ -229,3 +230,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0572-subtree-of-another-tree](https://github.com/Sahilll15/DSA/tree/master/0572-subtree-of-another-tree) |
+# Dynamic Programming
+|  |
+| ------- |
+| [0118-pascals-triangle](https://github.com/Sahilll15/DSA/tree/master/0118-pascals-triangle) |
