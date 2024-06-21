@@ -11,30 +11,26 @@
  */
 class Solution {
 public:
-    vector<int>values;
-    void traversal(TreeNode* root)
-    {
-        if(root==nullptr){
-            return;
-        }
 
-        values.push_back(root->val);
-        traversal(root->left);
-        traversal(root->right);
-    }   
- int getMinimumDifference(TreeNode* root) {
-        traversal(root);
-        int min=INT_MAX;
+    int ans = INT_MAX; 
 
-        for(int i=0;i<values.size();i++){
-            for(int j=i+1;j<values.size();j++){
-                int diff=abs(values[i]-values[j]);
-                if(diff<min){
-                    min=diff;
-                }
-            }
-        }
+    void helper(TreeNode* root, int &prev) {
+        if(not root) return; 
 
-        return min;
+        helper(root->left, prev);
+
+        if(prev != -1) {
+            ans = min(ans, abs(root->val - prev));
+        } 
+        prev = root->val;
+
+        helper(root->right, prev);
+
+    }
+
+    int getMinimumDifference(TreeNode* root) {
+        int prev = -1;
+        helper(root, prev);
+        return ans;
     }
 };
