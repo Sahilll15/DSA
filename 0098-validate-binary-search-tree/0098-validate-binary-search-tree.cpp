@@ -11,15 +11,32 @@
  */
 class Solution {
 public:
-    bool isValidBST(TreeNode* root, TreeNode* minNode = nullptr, TreeNode* maxNode = nullptr) {
+    bool isValidBST(TreeNode* root) {
+        return inorderTraversal(root);
+    }
+    
+private:
+    TreeNode* prev = nullptr;
+    
+    bool inorderTraversal(TreeNode* root) {
         if (root == nullptr) {
             return true;
         }
         
-        if ((minNode && root->val <= minNode->val) || (maxNode && root->val >= maxNode->val)) {
+        // Traverse the left subtree
+        if (!inorderTraversal(root->left)) {
             return false;
         }
         
-        return isValidBST(root->left, minNode, root) && isValidBST(root->right, root, maxNode);
+        // Check if the current node's value is greater than the previous node's value
+        if (prev != nullptr && root->val <= prev->val) {
+            return false;
+        }
+        
+        // Update the previous node to the current node
+        prev = root;
+        
+        // Traverse the right subtree
+        return inorderTraversal(root->right);
     }
 };
