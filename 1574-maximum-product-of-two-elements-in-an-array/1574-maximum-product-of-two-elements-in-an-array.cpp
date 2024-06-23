@@ -1,16 +1,17 @@
 class Solution {
 public:
     int maxProduct(vector<int>& nums) {
-        int maxValue=INT_MIN;
+        std::priority_queue<int> maxHeap;
 
-        for(int i=0;i<nums.size();i++){
-            for(int j=i+1;j<nums.size();j++){
-                int value=( (nums[i]-1) * (nums[j]-1) );
-                if(value>maxValue){
-                    maxValue=value;
-                }
-            }
+        for (auto num : nums) {
+            maxHeap.push(num);
         }
-        return maxValue;
+
+        int ele1 = maxHeap.top();
+        maxHeap.pop();
+        int ele2 = maxHeap.top();
+        maxHeap.pop();
+
+        return (ele1 - 1) * (ele2 - 1);
     }
 };
