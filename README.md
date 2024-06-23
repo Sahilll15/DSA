@@ -35,6 +35,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0215-kth-largest-element-in-an-array](https://github.com/Sahilll15/DSA/tree/master/0215-kth-largest-element-in-an-array) |
 | [0966-binary-subarrays-with-sum](https://github.com/Sahilll15/DSA/tree/master/0966-binary-subarrays-with-sum) |
 | [1370-count-number-of-nice-subarrays](https://github.com/Sahilll15/DSA/tree/master/1370-count-number-of-nice-subarrays) |
+| [1574-maximum-product-of-two-elements-in-an-array](https://github.com/Sahilll15/DSA/tree/master/1574-maximum-product-of-two-elements-in-an-array) |
 | [1755-defuse-the-bomb](https://github.com/Sahilll15/DSA/tree/master/1755-defuse-the-bomb) |
 # Prefix Sum
 |  |
@@ -248,10 +249,12 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/Sahilll15/DSA/tree/master/0215-kth-largest-element-in-an-array) |
+| [1574-maximum-product-of-two-elements-in-an-array](https://github.com/Sahilll15/DSA/tree/master/1574-maximum-product-of-two-elements-in-an-array) |
 # Heap (Priority Queue)
 |  |
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/Sahilll15/DSA/tree/master/0215-kth-largest-element-in-an-array) |
+| [1574-maximum-product-of-two-elements-in-an-array](https://github.com/Sahilll15/DSA/tree/master/1574-maximum-product-of-two-elements-in-an-array) |
 # Quickselect
 |  |
 | ------- |
