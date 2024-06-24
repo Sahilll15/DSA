@@ -1,4 +1,4 @@
-<h2><a href="https://leetcode.com/problems/minimum-average-of-smallest-and-largest-elements">Minimum Average of Smallest and Largest Elements</a></h2> <img src='https://img.shields.io/badge/Difficulty-Easy-brightgreen' alt='Difficulty: Easy' /><hr><p>You have an array of floating point numbers <code>averages</code> which is initially empty. You are given an array <code>nums</code> of <code>n</code> integers where <code>n</code> is even.</p>
+<h2><a href="https://leetcode.com/problems/minimum-average-of-smallest-and-largest-elements">3471. Minimum Average of Smallest and Largest Elements</a></h2><h3>Easy</h3><hr><p>You have an array of floating point numbers <code>averages</code> which is initially empty. You are given an array <code>nums</code> of <code>n</code> integers where <code>n</code> is even.</p>
 
 <p>You repeat the following procedure <code>n / 2</code> times:</p>
 
