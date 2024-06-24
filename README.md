@@ -9,6 +9,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0347-top-k-frequent-elements](https://github.com/Sahilll15/DSA/tree/master/0347-top-k-frequent-elements) |
 | [0424-longest-repeating-character-replacement](https://github.com/Sahilll15/DSA/tree/master/0424-longest-repeating-character-replacement) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/Sahilll15/DSA/tree/master/0653-two-sum-iv-input-is-a-bst) |
+| [0876-hand-of-straights](https://github.com/Sahilll15/DSA/tree/master/0876-hand-of-straights) |
 | [0966-binary-subarrays-with-sum](https://github.com/Sahilll15/DSA/tree/master/0966-binary-subarrays-with-sum) |
 | [1370-count-number-of-nice-subarrays](https://github.com/Sahilll15/DSA/tree/master/1370-count-number-of-nice-subarrays) |
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/Sahilll15/DSA/tree/master/1460-number-of-substrings-containing-all-three-characters) |
@@ -37,6 +38,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0215-kth-largest-element-in-an-array](https://github.com/Sahilll15/DSA/tree/master/0215-kth-largest-element-in-an-array) |
 | [0347-top-k-frequent-elements](https://github.com/Sahilll15/DSA/tree/master/0347-top-k-frequent-elements) |
 | [0658-find-k-closest-elements](https://github.com/Sahilll15/DSA/tree/master/0658-find-k-closest-elements) |
+| [0876-hand-of-straights](https://github.com/Sahilll15/DSA/tree/master/0876-hand-of-straights) |
 | [0966-binary-subarrays-with-sum](https://github.com/Sahilll15/DSA/tree/master/0966-binary-subarrays-with-sum) |
 | [1014-k-closest-points-to-origin](https://github.com/Sahilll15/DSA/tree/master/1014-k-closest-points-to-origin) |
 | [1370-count-number-of-nice-subarrays](https://github.com/Sahilll15/DSA/tree/master/1370-count-number-of-nice-subarrays) |
@@ -264,6 +266,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0215-kth-largest-element-in-an-array](https://github.com/Sahilll15/DSA/tree/master/0215-kth-largest-element-in-an-array) |
 | [0347-top-k-frequent-elements](https://github.com/Sahilll15/DSA/tree/master/0347-top-k-frequent-elements) |
 | [0658-find-k-closest-elements](https://github.com/Sahilll15/DSA/tree/master/0658-find-k-closest-elements) |
+| [0876-hand-of-straights](https://github.com/Sahilll15/DSA/tree/master/0876-hand-of-straights) |
 | [1014-k-closest-points-to-origin](https://github.com/Sahilll15/DSA/tree/master/1014-k-closest-points-to-origin) |
 | [1574-maximum-product-of-two-elements-in-an-array](https://github.com/Sahilll15/DSA/tree/master/1574-maximum-product-of-two-elements-in-an-array) |
 # Heap (Priority Queue)
@@ -301,3 +304,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0789-kth-largest-element-in-a-stream](https://github.com/Sahilll15/DSA/tree/master/0789-kth-largest-element-in-a-stream) |
+# Greedy
+|  |
+| ------- |
+| [0876-hand-of-straights](https://github.com/Sahilll15/DSA/tree/master/0876-hand-of-straights) |
