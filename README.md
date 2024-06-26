@@ -35,6 +35,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/Sahilll15/DSA/tree/master/0004-median-of-two-sorted-arrays) |
+| [0015-3sum](https://github.com/Sahilll15/DSA/tree/master/0015-3sum) |
 | [0049-group-anagrams](https://github.com/Sahilll15/DSA/tree/master/0049-group-anagrams) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Sahilll15/DSA/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0118-pascals-triangle](https://github.com/Sahilll15/DSA/tree/master/0118-pascals-triangle) |
@@ -262,6 +263,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 # Two Pointers
 |  |
 | ------- |
+| [0015-3sum](https://github.com/Sahilll15/DSA/tree/master/0015-3sum) |
 | [0125-valid-palindrome](https://github.com/Sahilll15/DSA/tree/master/0125-valid-palindrome) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Sahilll15/DSA/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0455-assign-cookies](https://github.com/Sahilll15/DSA/tree/master/0455-assign-cookies) |
@@ -284,6 +286,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 # Sorting
 |  |
 | ------- |
+| [0015-3sum](https://github.com/Sahilll15/DSA/tree/master/0015-3sum) |
 | [0049-group-anagrams](https://github.com/Sahilll15/DSA/tree/master/0049-group-anagrams) |
 | [0215-kth-largest-element-in-an-array](https://github.com/Sahilll15/DSA/tree/master/0215-kth-largest-element-in-an-array) |
 | [0347-top-k-frequent-elements](https://github.com/Sahilll15/DSA/tree/master/0347-top-k-frequent-elements) |
