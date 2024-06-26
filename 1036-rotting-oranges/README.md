@@ -1,4 +1,4 @@
-<h2><a href="https://leetcode.com/problems/rotting-oranges">1036. Rotting Oranges</a></h2><h3>Medium</h3><hr><p>You are given an <code>m x n</code> <code>grid</code> where each cell can have one of three values:</p>
+<h2><a href="https://leetcode.com/problems/rotting-oranges">Rotting Oranges</a></h2> <img src='https://img.shields.io/badge/Difficulty-Medium-orange' alt='Difficulty: Medium' /><hr><p>You are given an <code>m x n</code> <code>grid</code> where each cell can have one of three values:</p>
 
 <ul>
 	<li><code>0</code> representing an empty cell,</li>
