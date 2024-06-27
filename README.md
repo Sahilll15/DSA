@@ -49,6 +49,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0658-find-k-closest-elements](https://github.com/Sahilll15/DSA/tree/master/0658-find-k-closest-elements) |
 | [0733-flood-fill](https://github.com/Sahilll15/DSA/tree/master/0733-flood-fill) |
 | [0739-daily-temperatures](https://github.com/Sahilll15/DSA/tree/master/0739-daily-temperatures) |
+| [0792-binary-search](https://github.com/Sahilll15/DSA/tree/master/0792-binary-search) |
 | [0876-hand-of-straights](https://github.com/Sahilll15/DSA/tree/master/0876-hand-of-straights) |
 | [0966-binary-subarrays-with-sum](https://github.com/Sahilll15/DSA/tree/master/0966-binary-subarrays-with-sum) |
 | [1014-k-closest-points-to-origin](https://github.com/Sahilll15/DSA/tree/master/1014-k-closest-points-to-origin) |
@@ -257,6 +258,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0658-find-k-closest-elements](https://github.com/Sahilll15/DSA/tree/master/0658-find-k-closest-elements) |
 | [0783-search-in-a-binary-search-tree](https://github.com/Sahilll15/DSA/tree/master/0783-search-in-a-binary-search-tree) |
 | [0789-kth-largest-element-in-a-stream](https://github.com/Sahilll15/DSA/tree/master/0789-kth-largest-element-in-a-stream) |
+| [0792-binary-search](https://github.com/Sahilll15/DSA/tree/master/0792-binary-search) |
 | [0799-minimum-distance-between-bst-nodes](https://github.com/Sahilll15/DSA/tree/master/0799-minimum-distance-between-bst-nodes) |
 | [0933-increasing-order-search-tree](https://github.com/Sahilll15/DSA/tree/master/0933-increasing-order-search-tree) |
 | [1114-binary-search-tree-to-greater-sum-tree](https://github.com/Sahilll15/DSA/tree/master/1114-binary-search-tree-to-greater-sum-tree) |
