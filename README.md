@@ -48,6 +48,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0455-assign-cookies](https://github.com/Sahilll15/DSA/tree/master/0455-assign-cookies) |
 | [0658-find-k-closest-elements](https://github.com/Sahilll15/DSA/tree/master/0658-find-k-closest-elements) |
 | [0733-flood-fill](https://github.com/Sahilll15/DSA/tree/master/0733-flood-fill) |
+| [0739-daily-temperatures](https://github.com/Sahilll15/DSA/tree/master/0739-daily-temperatures) |
 | [0876-hand-of-straights](https://github.com/Sahilll15/DSA/tree/master/0876-hand-of-straights) |
 | [0966-binary-subarrays-with-sum](https://github.com/Sahilll15/DSA/tree/master/0966-binary-subarrays-with-sum) |
 | [1014-k-closest-points-to-origin](https://github.com/Sahilll15/DSA/tree/master/1014-k-closest-points-to-origin) |
@@ -73,6 +74,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0094-binary-tree-inorder-traversal](https://github.com/Sahilll15/DSA/tree/master/0094-binary-tree-inorder-traversal) |
 | [0144-binary-tree-preorder-traversal](https://github.com/Sahilll15/DSA/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/Sahilll15/DSA/tree/master/0145-binary-tree-postorder-traversal) |
+| [0739-daily-temperatures](https://github.com/Sahilll15/DSA/tree/master/0739-daily-temperatures) |
 | [0933-increasing-order-search-tree](https://github.com/Sahilll15/DSA/tree/master/0933-increasing-order-search-tree) |
 # Tree
 |  |
@@ -354,3 +356,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0733-flood-fill](https://github.com/Sahilll15/DSA/tree/master/0733-flood-fill) |
 | [1036-rotting-oranges](https://github.com/Sahilll15/DSA/tree/master/1036-rotting-oranges) |
+# Monotonic Stack
+|  |
+| ------- |
+| [0739-daily-temperatures](https://github.com/Sahilll15/DSA/tree/master/0739-daily-temperatures) |
