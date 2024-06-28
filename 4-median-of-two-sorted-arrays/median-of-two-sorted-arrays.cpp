@@ -21,7 +21,8 @@ public:
             int mid1 = n / 2 - 1;
             int mid2 = n / 2;
             return (merged[mid1] + merged[mid2]) / 2.0;
-        } else { 
+        } 
+        else { 
             int mid = n / 2;
             return merged[mid];
         }
