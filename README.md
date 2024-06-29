@@ -419,6 +419,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Sahilll15/DSA/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0567-permutation-in-string](https://github.com/Sahilll15/DSA/tree/master/0567-permutation-in-string) |
+| [2128-reverse-prefix-of-word](https://github.com/Sahilll15/DSA/tree/master/2128-reverse-prefix-of-word) |
 ## Sliding Window
 |  |
 | ------- |
@@ -440,4 +441,5 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0567-permutation-in-string](https://github.com/Sahilll15/DSA/tree/master/0567-permutation-in-string) |
+| [2128-reverse-prefix-of-word](https://github.com/Sahilll15/DSA/tree/master/2128-reverse-prefix-of-word) |
 <!---LeetCode Topics End-->
