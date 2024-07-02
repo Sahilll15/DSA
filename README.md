@@ -379,6 +379,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Sahilll15/DSA/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0200-number-of-islands](https://github.com/Sahilll15/DSA/tree/master/0200-number-of-islands) |
 | [0239-sliding-window-maximum](https://github.com/Sahilll15/DSA/tree/master/0239-sliding-window-maximum) |
+| [0260-single-number-iii](https://github.com/Sahilll15/DSA/tree/master/0260-single-number-iii) |
 | [0695-max-area-of-island](https://github.com/Sahilll15/DSA/tree/master/0695-max-area-of-island) |
 | [0883-car-fleet](https://github.com/Sahilll15/DSA/tree/master/0883-car-fleet) |
 | [1073-number-of-enclaves](https://github.com/Sahilll15/DSA/tree/master/1073-number-of-enclaves) |
@@ -513,4 +514,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [1544-count-good-nodes-in-binary-tree](https://github.com/Sahilll15/DSA/tree/master/1544-count-good-nodes-in-binary-tree) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0260-single-number-iii](https://github.com/Sahilll15/DSA/tree/master/0260-single-number-iii) |
 <!---LeetCode Topics End-->
