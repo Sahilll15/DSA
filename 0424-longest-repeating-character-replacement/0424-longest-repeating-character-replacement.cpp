@@ -1,19 +1,24 @@
 class Solution {
 public:
-    int characterReplacement(string s, int k) {
-        vector<int> count(26, 0);
-        int i = 0, j = 0, maxCount = 0;
-        int result = 0;
-        while (i < s.length()) {
-            count[s[i] - 'A']++;
-            maxCount = max(maxCount, count[s[i] - 'A']);
-            if (i - j + 1 - maxCount > k) {
-                count[s[j] - 'A']--;
-                j++;
+    int characterReplacement(std::string s, int k) {
+        int left = 0;
+        int maxCount = 0; 
+        int maxLength = 0;
+        std::unordered_map<char, int> count;
+
+        for (int right = 0; right < s.size(); ++right) {
+            count[s[right]]++;
+            maxCount = std::max(maxCount, count[s[right]]);
+            
+           
+            if (right - left + 1 - maxCount > k) {
+                count[s[left]]--;
+                left++;
             }
-            result = max(result, i - j + 1);
-            i++;
+            
+            maxLength = std::max(maxLength, right - left + 1);
         }
-        return result;
+
+        return maxLength;
     }
 };
