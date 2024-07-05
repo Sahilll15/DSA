@@ -12,7 +12,8 @@ public:
                 mpp[nums[i]]++;
 
                 if(mpp[nums[i]]<=2){
-                    nums[j++]=nums[i];
+                    nums[j]=nums[i];
+                    j++;
                 }
         }
 
