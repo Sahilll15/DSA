@@ -383,6 +383,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0200-number-of-islands](https://github.com/Sahilll15/DSA/tree/master/0200-number-of-islands) |
 | [0239-sliding-window-maximum](https://github.com/Sahilll15/DSA/tree/master/0239-sliding-window-maximum) |
 | [0260-single-number-iii](https://github.com/Sahilll15/DSA/tree/master/0260-single-number-iii) |
+| [0380-insert-delete-getrandom-o1](https://github.com/Sahilll15/DSA/tree/master/0380-insert-delete-getrandom-o1) |
 | [0695-max-area-of-island](https://github.com/Sahilll15/DSA/tree/master/0695-max-area-of-island) |
 | [0883-car-fleet](https://github.com/Sahilll15/DSA/tree/master/0883-car-fleet) |
 | [1073-number-of-enclaves](https://github.com/Sahilll15/DSA/tree/master/1073-number-of-enclaves) |
@@ -435,6 +436,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0003-longest-substring-without-repeating-characters](https://github.com/Sahilll15/DSA/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0076-minimum-window-substring](https://github.com/Sahilll15/DSA/tree/master/0076-minimum-window-substring) |
 | [0138-copy-list-with-random-pointer](https://github.com/Sahilll15/DSA/tree/master/0138-copy-list-with-random-pointer) |
+| [0380-insert-delete-getrandom-o1](https://github.com/Sahilll15/DSA/tree/master/0380-insert-delete-getrandom-o1) |
 | [0424-longest-repeating-character-replacement](https://github.com/Sahilll15/DSA/tree/master/0424-longest-repeating-character-replacement) |
 | [0567-permutation-in-string](https://github.com/Sahilll15/DSA/tree/master/0567-permutation-in-string) |
 ## String
@@ -537,6 +539,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/Sahilll15/DSA/tree/master/0002-add-two-numbers) |
+| [0380-insert-delete-getrandom-o1](https://github.com/Sahilll15/DSA/tree/master/0380-insert-delete-getrandom-o1) |
 ## String Matching
 |  |
 | ------- |
@@ -554,4 +557,12 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0055-jump-game](https://github.com/Sahilll15/DSA/tree/master/0055-jump-game) |
+## Design
+|  |
+| ------- |
+| [0380-insert-delete-getrandom-o1](https://github.com/Sahilll15/DSA/tree/master/0380-insert-delete-getrandom-o1) |
+## Randomized
+|  |
+| ------- |
+| [0380-insert-delete-getrandom-o1](https://github.com/Sahilll15/DSA/tree/master/0380-insert-delete-getrandom-o1) |
 <!---LeetCode Topics End-->
