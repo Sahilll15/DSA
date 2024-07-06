@@ -539,4 +539,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Sahilll15/DSA/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+## Database
+|  |
+| ------- |
+| [0584-find-customer-referee](https://github.com/Sahilll15/DSA/tree/master/0584-find-customer-referee) |
 <!---LeetCode Topics End-->
