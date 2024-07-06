@@ -382,6 +382,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0134-gas-station](https://github.com/Sahilll15/DSA/tree/master/0134-gas-station) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Sahilll15/DSA/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0200-number-of-islands](https://github.com/Sahilll15/DSA/tree/master/0200-number-of-islands) |
+| [0209-minimum-size-subarray-sum](https://github.com/Sahilll15/DSA/tree/master/0209-minimum-size-subarray-sum) |
 | [0239-sliding-window-maximum](https://github.com/Sahilll15/DSA/tree/master/0239-sliding-window-maximum) |
 | [0260-single-number-iii](https://github.com/Sahilll15/DSA/tree/master/0260-single-number-iii) |
 | [0380-insert-delete-getrandom-o1](https://github.com/Sahilll15/DSA/tree/master/0380-insert-delete-getrandom-o1) |
@@ -411,6 +412,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0033-search-in-rotated-sorted-array](https://github.com/Sahilll15/DSA/tree/master/0033-search-in-rotated-sorted-array) |
 | [0074-search-a-2d-matrix](https://github.com/Sahilll15/DSA/tree/master/0074-search-a-2d-matrix) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Sahilll15/DSA/tree/master/0153-find-minimum-in-rotated-sorted-array) |
+| [0209-minimum-size-subarray-sum](https://github.com/Sahilll15/DSA/tree/master/0209-minimum-size-subarray-sum) |
 | [1476-count-negative-numbers-in-a-sorted-matrix](https://github.com/Sahilll15/DSA/tree/master/1476-count-negative-numbers-in-a-sorted-matrix) |
 ## Matrix
 |  |
@@ -454,6 +456,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Sahilll15/DSA/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0076-minimum-window-substring](https://github.com/Sahilll15/DSA/tree/master/0076-minimum-window-substring) |
+| [0209-minimum-size-subarray-sum](https://github.com/Sahilll15/DSA/tree/master/0209-minimum-size-subarray-sum) |
 | [0239-sliding-window-maximum](https://github.com/Sahilll15/DSA/tree/master/0239-sliding-window-maximum) |
 | [0424-longest-repeating-character-replacement](https://github.com/Sahilll15/DSA/tree/master/0424-longest-repeating-character-replacement) |
 | [0567-permutation-in-string](https://github.com/Sahilll15/DSA/tree/master/0567-permutation-in-string) |
@@ -567,4 +570,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0380-insert-delete-getrandom-o1](https://github.com/Sahilll15/DSA/tree/master/0380-insert-delete-getrandom-o1) |
+## Prefix Sum
+|  |
+| ------- |
+| [0209-minimum-size-subarray-sum](https://github.com/Sahilll15/DSA/tree/master/0209-minimum-size-subarray-sum) |
 <!---LeetCode Topics End-->
