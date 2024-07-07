@@ -1,4 +1,4 @@
-<h2><a href="https://leetcode.com/problems/find-the-encrypted-string">3468. Find the Encrypted String</a></h2><h3>Easy</h3><hr><p>You are given a string <code>s</code> and an integer <code>k</code>. Encrypt the string using the following algorithm:</p>
+<h2><a href="https://leetcode.com/problems/find-the-encrypted-string">Find the Encrypted String</a></h2> <img src='https://img.shields.io/badge/Difficulty-Easy-brightgreen' alt='Difficulty: Easy' /><hr><p>You are given a string <code>s</code> and an integer <code>k</code>. Encrypt the string using the following algorithm:</p>
 
 <ul>
 	<li>For each character <code>c</code> in <code>s</code>, replace <code>c</code> with the <code>k<sup>th</sup></code> character after <code>c</code> in the string (in a cyclic manner).</li>
