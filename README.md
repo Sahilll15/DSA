@@ -544,6 +544,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0002-add-two-numbers](https://github.com/Sahilll15/DSA/tree/master/0002-add-two-numbers) |
 | [0380-insert-delete-getrandom-o1](https://github.com/Sahilll15/DSA/tree/master/0380-insert-delete-getrandom-o1) |
+| [1642-water-bottles](https://github.com/Sahilll15/DSA/tree/master/1642-water-bottles) |
 ## String Matching
 |  |
 | ------- |
@@ -574,4 +575,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/Sahilll15/DSA/tree/master/0209-minimum-size-subarray-sum) |
+## Simulation
+|  |
+| ------- |
+| [1642-water-bottles](https://github.com/Sahilll15/DSA/tree/master/1642-water-bottles) |
 <!---LeetCode Topics End-->
