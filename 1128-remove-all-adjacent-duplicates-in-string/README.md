@@ -1,4 +1,4 @@
-<h2><a href="https://leetcode.com/problems/remove-all-adjacent-duplicates-in-string">1128. Remove All Adjacent Duplicates In String</a></h2><h3>Easy</h3><hr><p>You are given a string <code>s</code> consisting of lowercase English letters. A <strong>duplicate removal</strong> consists of choosing two <strong>adjacent</strong> and <strong>equal</strong> letters and removing them.</p>
+<h2><a href="https://leetcode.com/problems/remove-all-adjacent-duplicates-in-string">Remove All Adjacent Duplicates In String</a></h2> <img src='https://img.shields.io/badge/Difficulty-Easy-brightgreen' alt='Difficulty: Easy' /><hr><p>You are given a string <code>s</code> consisting of lowercase English letters. A <strong>duplicate removal</strong> consists of choosing two <strong>adjacent</strong> and <strong>equal</strong> letters and removing them.</p>
 
 <p>We repeatedly make <strong>duplicate removals</strong> on <code>s</code> until we no longer can.</p>
 
