@@ -396,6 +396,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0143-reorder-list](https://github.com/Sahilll15/DSA/tree/master/0143-reorder-list) |
 | [0883-car-fleet](https://github.com/Sahilll15/DSA/tree/master/0883-car-fleet) |
+| [1128-remove-all-adjacent-duplicates-in-string](https://github.com/Sahilll15/DSA/tree/master/1128-remove-all-adjacent-duplicates-in-string) |
 ## Sorting
 |  |
 | ------- |
@@ -451,6 +452,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0076-minimum-window-substring](https://github.com/Sahilll15/DSA/tree/master/0076-minimum-window-substring) |
 | [0424-longest-repeating-character-replacement](https://github.com/Sahilll15/DSA/tree/master/0424-longest-repeating-character-replacement) |
 | [0567-permutation-in-string](https://github.com/Sahilll15/DSA/tree/master/0567-permutation-in-string) |
+| [1128-remove-all-adjacent-duplicates-in-string](https://github.com/Sahilll15/DSA/tree/master/1128-remove-all-adjacent-duplicates-in-string) |
 | [2128-reverse-prefix-of-word](https://github.com/Sahilll15/DSA/tree/master/2128-reverse-prefix-of-word) |
 ## Sliding Window
 |  |
