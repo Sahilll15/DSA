@@ -1,4 +1,4 @@
-<h2><a href="https://leetcode.com/problems/immediate-food-delivery-ii">1292. Immediate Food Delivery II</a></h2><h3>Medium</h3><hr><p>Table: <code>Delivery</code></p>
+<h2><a href="https://leetcode.com/problems/immediate-food-delivery-ii">Immediate Food Delivery II</a></h2> <img src='https://img.shields.io/badge/Difficulty-Medium-orange' alt='Difficulty: Medium' /><hr><p>Table: <code>Delivery</code></p>
 
 <pre>
 +-----------------------------+---------+
