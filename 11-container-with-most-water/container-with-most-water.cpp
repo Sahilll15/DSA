@@ -6,20 +6,22 @@ public:
         int left=0;
         int right=height.size()-1;
 
-        while(left<right){
-            int Length=min(height[left],height[right]);
+        while(left<=right){
+            int Height=min(height[left],height[right]);
+
             int breadth=right-left;
 
-            int area=Length*breadth;
+            int area=Height*breadth;
 
             if(area>maxarea){
                 maxarea=area;
-            }else if(height[left]>height[right]){
-                right--;
-            }else{
+            }else if(height[left]<height[right]){
                 left++;
+            }else{
+                right--;
             }
         }
+
         return maxarea;
     }
 };
