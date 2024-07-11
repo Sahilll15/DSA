@@ -1,34 +1,35 @@
-#include <vector>
-#include <unordered_map>
-
-using namespace std;
-
 class Solution {
 public:
     int longestConsecutive(vector<int>& nums) {
-        if (nums.empty()) return 0;
+            int n=nums.size();
 
-        unordered_map<int, int> mpp;
-        for (auto num : nums) {
-            mpp[num]++;
-        }
-
-        int maxCnt = 0;
-
-        for (auto num : nums) {
-            if (mpp.find(num - 1) == mpp.end()) {
-                int current = num;
-                int cnt = 1;
-
-                while (mpp.find(current + 1) != mpp.end()) {
-                    current++;
-                    cnt++;
-                }
-
-                maxCnt = max(maxCnt, cnt);
+            if(n==0){
+                return 0;
             }
-        }
+            int longest=1;
 
-        return maxCnt;
+            unordered_set<int>st;
+
+            for(int i=0;i<nums.size();i++){
+                st.insert(nums[i]);
+            }
+
+
+            for(auto it:st){
+
+                if(st.find(it-1)==st.end()){
+                    int cnt=1;
+                    int x=it;
+
+                    while(st.find(x+1)!=st.end()){
+                        cnt++;
+                        x=x+1;
+                    }
+                longest=max(longest,cnt);
+                    
+                }
+            }
+
+            return longest;
     }
 };
