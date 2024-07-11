@@ -1,4 +1,4 @@
-<h2><a href="https://leetcode.com/problems/group-sold-products-by-the-date">Group Sold Products By The Date</a></h2> <img src='https://img.shields.io/badge/Difficulty-Easy-brightgreen' alt='Difficulty: Easy' /><hr><p>Table <code>Activities</code>:</p>
+<h2><a href="https://leetcode.com/problems/group-sold-products-by-the-date">1625. Group Sold Products By The Date</a></h2><h3>Easy</h3><hr><p>Table <code>Activities</code>:</p>
 
 <pre>
 +-------------+---------+
