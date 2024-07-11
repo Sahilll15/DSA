@@ -581,6 +581,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1338-queries-quality-and-percentage](https://github.com/Sahilll15/DSA/tree/master/1338-queries-quality-and-percentage) |
 | [1390-average-selling-price](https://github.com/Sahilll15/DSA/tree/master/1390-average-selling-price) |
 | [1415-students-and-examinations](https://github.com/Sahilll15/DSA/tree/master/1415-students-and-examinations) |
+| [1462-list-the-products-ordered-in-a-period](https://github.com/Sahilll15/DSA/tree/master/1462-list-the-products-ordered-in-a-period) |
 | [1480-movie-rating](https://github.com/Sahilll15/DSA/tree/master/1480-movie-rating) |
 | [1509-replace-employee-id-with-the-unique-identifier](https://github.com/Sahilll15/DSA/tree/master/1509-replace-employee-id-with-the-unique-identifier) |
 | [1625-group-sold-products-by-the-date](https://github.com/Sahilll15/DSA/tree/master/1625-group-sold-products-by-the-date) |
