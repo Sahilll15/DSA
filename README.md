@@ -583,6 +583,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1415-students-and-examinations](https://github.com/Sahilll15/DSA/tree/master/1415-students-and-examinations) |
 | [1480-movie-rating](https://github.com/Sahilll15/DSA/tree/master/1480-movie-rating) |
 | [1509-replace-employee-id-with-the-unique-identifier](https://github.com/Sahilll15/DSA/tree/master/1509-replace-employee-id-with-the-unique-identifier) |
+| [1670-patients-with-a-condition](https://github.com/Sahilll15/DSA/tree/master/1670-patients-with-a-condition) |
 | [1724-customer-who-visited-but-did-not-make-any-transactions](https://github.com/Sahilll15/DSA/tree/master/1724-customer-who-visited-but-did-not-make-any-transactions) |
 | [1773-percentage-of-users-attended-a-contest](https://github.com/Sahilll15/DSA/tree/master/1773-percentage-of-users-attended-a-contest) |
 | [1811-fix-names-in-a-table](https://github.com/Sahilll15/DSA/tree/master/1811-fix-names-in-a-table) |
