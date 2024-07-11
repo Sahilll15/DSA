@@ -570,6 +570,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0595-big-countries](https://github.com/Sahilll15/DSA/tree/master/0595-big-countries) |
 | [0619-biggest-single-number](https://github.com/Sahilll15/DSA/tree/master/0619-biggest-single-number) |
 | [0620-not-boring-movies](https://github.com/Sahilll15/DSA/tree/master/0620-not-boring-movies) |
+| [0626-exchange-seats](https://github.com/Sahilll15/DSA/tree/master/0626-exchange-seats) |
 | [1135-customers-who-bought-all-products](https://github.com/Sahilll15/DSA/tree/master/1135-customers-who-bought-all-products) |
 | [1153-product-sales-analysis-i](https://github.com/Sahilll15/DSA/tree/master/1153-product-sales-analysis-i) |
 | [1155-product-sales-analysis-iii](https://github.com/Sahilll15/DSA/tree/master/1155-product-sales-analysis-iii) |
