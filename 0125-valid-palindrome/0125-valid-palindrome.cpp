@@ -1,10 +1,13 @@
 class Solution {
 public:
     bool isPalindrome(string s) {
-        vector<char> chars;
         
-   for (char c : s) {
-            if (isalnum(c)) chars.push_back(tolower(c));
+        vector<char> chars;
+
+        for(auto c:s){
+            if(isalnum(c)){
+                chars.push_back(tolower(c));
+            }
         }
 
         int left=0;
@@ -14,11 +17,10 @@ public:
             if(chars[left]!=chars[right]){
                 return false;
             }
-
             left++;
             right--;
         }
 
-        return true;
+    return true;
     }
 };
