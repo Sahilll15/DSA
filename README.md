@@ -377,6 +377,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0033-search-in-rotated-sorted-array](https://github.com/Sahilll15/DSA/tree/master/0033-search-in-rotated-sorted-array) |
 | [0049-group-anagrams](https://github.com/Sahilll15/DSA/tree/master/0049-group-anagrams) |
 | [0055-jump-game](https://github.com/Sahilll15/DSA/tree/master/0055-jump-game) |
+| [0073-set-matrix-zeroes](https://github.com/Sahilll15/DSA/tree/master/0073-set-matrix-zeroes) |
 | [0074-search-a-2d-matrix](https://github.com/Sahilll15/DSA/tree/master/0074-search-a-2d-matrix) |
 | [0075-sort-colors](https://github.com/Sahilll15/DSA/tree/master/0075-sort-colors) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/Sahilll15/DSA/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
@@ -442,6 +443,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Matrix
 |  |
 | ------- |
+| [0073-set-matrix-zeroes](https://github.com/Sahilll15/DSA/tree/master/0073-set-matrix-zeroes) |
 | [0074-search-a-2d-matrix](https://github.com/Sahilll15/DSA/tree/master/0074-search-a-2d-matrix) |
 | [0130-surrounded-regions](https://github.com/Sahilll15/DSA/tree/master/0130-surrounded-regions) |
 | [0200-number-of-islands](https://github.com/Sahilll15/DSA/tree/master/0200-number-of-islands) |
@@ -464,6 +466,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0001-two-sum](https://github.com/Sahilll15/DSA/tree/master/0001-two-sum) |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Sahilll15/DSA/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0049-group-anagrams](https://github.com/Sahilll15/DSA/tree/master/0049-group-anagrams) |
+| [0073-set-matrix-zeroes](https://github.com/Sahilll15/DSA/tree/master/0073-set-matrix-zeroes) |
 | [0076-minimum-window-substring](https://github.com/Sahilll15/DSA/tree/master/0076-minimum-window-substring) |
 | [0128-longest-consecutive-sequence](https://github.com/Sahilll15/DSA/tree/master/0128-longest-consecutive-sequence) |
 | [0138-copy-list-with-random-pointer](https://github.com/Sahilll15/DSA/tree/master/0138-copy-list-with-random-pointer) |
