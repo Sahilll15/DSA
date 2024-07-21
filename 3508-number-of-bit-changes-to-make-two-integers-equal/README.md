@@ -1,4 +1,4 @@
-<h2><a href="https://leetcode.com/problems/number-of-bit-changes-to-make-two-integers-equal">3508. Number of Bit Changes to Make Two Integers Equal</a></h2><h3>Easy</h3><hr><p>You are given two positive integers <code>n</code> and <code>k</code>.</p>
+<h2><a href="https://leetcode.com/problems/number-of-bit-changes-to-make-two-integers-equal">Number of Bit Changes to Make Two Integers Equal</a></h2> <img src='https://img.shields.io/badge/Difficulty-Easy-brightgreen' alt='Difficulty: Easy' /><hr><p>You are given two positive integers <code>n</code> and <code>k</code>.</p>
 
 <p>You can choose <strong>any</strong> bit in the <strong>binary representation</strong> of <code>n</code> that is equal to 1 and change it to 0.</p>
 
