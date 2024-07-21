@@ -1,4 +1,4 @@
-<h2><a href="https://leetcode.com/problems/maximum-number-of-operations-to-move-ones-to-the-end">3493. Maximum Number of Operations to Move Ones to the End</a></h2><h3>Medium</h3><hr><p>You are given a <span data-keyword="binary-string">binary string</span> <code>s</code>.</p>
+<h2><a href="https://leetcode.com/problems/maximum-number-of-operations-to-move-ones-to-the-end">Maximum Number of Operations to Move Ones to the End</a></h2> <img src='https://img.shields.io/badge/Difficulty-Medium-orange' alt='Difficulty: Medium' /><hr><p>You are given a <span data-keyword="binary-string">binary string</span> <code>s</code>.</p>
 
 <p>You can perform the following operation on the string <strong>any</strong> number of times:</p>
 
