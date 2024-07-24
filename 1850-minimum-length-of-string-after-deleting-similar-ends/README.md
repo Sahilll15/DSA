@@ -1,4 +1,4 @@
-<h2><a href="https://leetcode.com/problems/minimum-length-of-string-after-deleting-similar-ends">1850. Minimum Length of String After Deleting Similar Ends</a></h2><h3>Medium</h3><hr><p>Given a string <code>s</code> consisting only of characters <code>&#39;a&#39;</code>, <code>&#39;b&#39;</code>, and <code>&#39;c&#39;</code>. You are asked to apply the following algorithm on the string any number of times:</p>
+<h2><a href="https://leetcode.com/problems/minimum-length-of-string-after-deleting-similar-ends">Minimum Length of String After Deleting Similar Ends</a></h2> <img src='https://img.shields.io/badge/Difficulty-Medium-orange' alt='Difficulty: Medium' /><hr><p>Given a string <code>s</code> consisting only of characters <code>&#39;a&#39;</code>, <code>&#39;b&#39;</code>, and <code>&#39;c&#39;</code>. You are asked to apply the following algorithm on the string any number of times:</p>
 
 <ol>
 	<li>Pick a <strong>non-empty</strong> prefix from the string <code>s</code> where all the characters in the prefix are equal.</li>
