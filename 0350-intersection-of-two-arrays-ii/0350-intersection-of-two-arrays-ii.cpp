@@ -1,21 +1,13 @@
-#include <vector>
-#include <unordered_map>
-using namespace std;
-
 class Solution {
 public:
     vector<int> intersect(vector<int>& nums1, vector<int>& nums2) {
-        unordered_map<int, int> countMap;
         vector<int> ans;
 
-        for (int num : nums1) {
-            countMap[num]++;
-        }
-
-        for (int num : nums2) {
-            if (countMap[num] > 0) {
-                ans.push_back(num);
-                countMap[num]--;
+        for (int i = 0; i < nums1.size(); ++i) {
+            auto it = find(nums2.begin(), nums2.end(), nums1[i]);
+            if (it != nums2.end()) {
+                ans.push_back(nums1[i]);
+                nums2.erase(it); // Erase the found element
             }
         }
 
