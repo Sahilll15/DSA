@@ -1,4 +1,4 @@
-<h2><a href="https://leetcode.com/problems/lucky-numbers-in-a-matrix">1496. Lucky Numbers in a Matrix</a></h2><h3>Easy</h3><hr><p>Given an <code>m x n</code> matrix of <strong>distinct </strong>numbers, return <em>all <strong>lucky numbers</strong> in the matrix in <strong>any </strong>order</em>.</p>
+<h2><a href="https://leetcode.com/problems/lucky-numbers-in-a-matrix">Lucky Numbers in a Matrix</a></h2> <img src='https://img.shields.io/badge/Difficulty-Easy-brightgreen' alt='Difficulty: Easy' /><hr><p>Given an <code>m x n</code> matrix of <strong>distinct </strong>numbers, return <em>all <strong>lucky numbers</strong> in the matrix in <strong>any </strong>order</em>.</p>
 
 <p>A <strong>lucky number</strong> is an element of the matrix such that it is the minimum element in its row and maximum in its column.</p>
 
