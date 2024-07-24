@@ -412,6 +412,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1951-find-the-winner-of-the-circular-game](https://github.com/Sahilll15/DSA/tree/master/1951-find-the-winner-of-the-circular-game) |
 | [2195-time-needed-to-buy-tickets](https://github.com/Sahilll15/DSA/tree/master/2195-time-needed-to-buy-tickets) |
 | [2502-sort-the-people](https://github.com/Sahilll15/DSA/tree/master/2502-sort-the-people) |
+| [2524-largest-positive-integer-that-exists-with-its-negative](https://github.com/Sahilll15/DSA/tree/master/2524-largest-positive-integer-that-exists-with-its-negative) |
 | [2634-minimum-common-value](https://github.com/Sahilll15/DSA/tree/master/2634-minimum-common-value) |
 | [3242-count-elements-with-maximum-frequency](https://github.com/Sahilll15/DSA/tree/master/3242-count-elements-with-maximum-frequency) |
 ## Stack
@@ -441,6 +442,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1333-sort-the-jumbled-numbers](https://github.com/Sahilll15/DSA/tree/master/1333-sort-the-jumbled-numbers) |
 | [1741-sort-array-by-increasing-frequency](https://github.com/Sahilll15/DSA/tree/master/1741-sort-array-by-increasing-frequency) |
 | [2502-sort-the-people](https://github.com/Sahilll15/DSA/tree/master/2502-sort-the-people) |
+| [2524-largest-positive-integer-that-exists-with-its-negative](https://github.com/Sahilll15/DSA/tree/master/2524-largest-positive-integer-that-exists-with-its-negative) |
 ## Monotonic Stack
 |  |
 | ------- |
@@ -500,6 +502,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0567-permutation-in-string](https://github.com/Sahilll15/DSA/tree/master/0567-permutation-in-string) |
 | [1741-sort-array-by-increasing-frequency](https://github.com/Sahilll15/DSA/tree/master/1741-sort-array-by-increasing-frequency) |
 | [2502-sort-the-people](https://github.com/Sahilll15/DSA/tree/master/2502-sort-the-people) |
+| [2524-largest-positive-integer-that-exists-with-its-negative](https://github.com/Sahilll15/DSA/tree/master/2524-largest-positive-integer-that-exists-with-its-negative) |
 | [2634-minimum-common-value](https://github.com/Sahilll15/DSA/tree/master/2634-minimum-common-value) |
 | [3242-count-elements-with-maximum-frequency](https://github.com/Sahilll15/DSA/tree/master/3242-count-elements-with-maximum-frequency) |
 ## String
@@ -578,6 +581,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1019-squares-of-a-sorted-array](https://github.com/Sahilll15/DSA/tree/master/1019-squares-of-a-sorted-array) |
 | [1850-minimum-length-of-string-after-deleting-similar-ends](https://github.com/Sahilll15/DSA/tree/master/1850-minimum-length-of-string-after-deleting-similar-ends) |
 | [2128-reverse-prefix-of-word](https://github.com/Sahilll15/DSA/tree/master/2128-reverse-prefix-of-word) |
+| [2524-largest-positive-integer-that-exists-with-its-negative](https://github.com/Sahilll15/DSA/tree/master/2524-largest-positive-integer-that-exists-with-its-negative) |
 | [2634-minimum-common-value](https://github.com/Sahilll15/DSA/tree/master/2634-minimum-common-value) |
 ## Queue
 |  |
