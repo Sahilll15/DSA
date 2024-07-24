@@ -409,6 +409,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1951-find-the-winner-of-the-circular-game](https://github.com/Sahilll15/DSA/tree/master/1951-find-the-winner-of-the-circular-game) |
 | [2502-sort-the-people](https://github.com/Sahilll15/DSA/tree/master/2502-sort-the-people) |
 | [2634-minimum-common-value](https://github.com/Sahilll15/DSA/tree/master/2634-minimum-common-value) |
+| [3242-count-elements-with-maximum-frequency](https://github.com/Sahilll15/DSA/tree/master/3242-count-elements-with-maximum-frequency) |
 ## Stack
 |  |
 | ------- |
@@ -489,6 +490,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1741-sort-array-by-increasing-frequency](https://github.com/Sahilll15/DSA/tree/master/1741-sort-array-by-increasing-frequency) |
 | [2502-sort-the-people](https://github.com/Sahilll15/DSA/tree/master/2502-sort-the-people) |
 | [2634-minimum-common-value](https://github.com/Sahilll15/DSA/tree/master/2634-minimum-common-value) |
+| [3242-count-elements-with-maximum-frequency](https://github.com/Sahilll15/DSA/tree/master/3242-count-elements-with-maximum-frequency) |
 ## String
 |  |
 | ------- |
@@ -688,6 +690,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0347-top-k-frequent-elements](https://github.com/Sahilll15/DSA/tree/master/0347-top-k-frequent-elements) |
+| [3242-count-elements-with-maximum-frequency](https://github.com/Sahilll15/DSA/tree/master/3242-count-elements-with-maximum-frequency) |
 ## Quickselect
 |  |
 | ------- |
