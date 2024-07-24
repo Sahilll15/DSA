@@ -408,6 +408,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1741-sort-array-by-increasing-frequency](https://github.com/Sahilll15/DSA/tree/master/1741-sort-array-by-increasing-frequency) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/Sahilll15/DSA/tree/master/1951-find-the-winner-of-the-circular-game) |
 | [2502-sort-the-people](https://github.com/Sahilll15/DSA/tree/master/2502-sort-the-people) |
+| [2634-minimum-common-value](https://github.com/Sahilll15/DSA/tree/master/2634-minimum-common-value) |
 ## Stack
 |  |
 | ------- |
@@ -448,6 +449,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0209-minimum-size-subarray-sum](https://github.com/Sahilll15/DSA/tree/master/0209-minimum-size-subarray-sum) |
 | [0792-binary-search](https://github.com/Sahilll15/DSA/tree/master/0792-binary-search) |
 | [1476-count-negative-numbers-in-a-sorted-matrix](https://github.com/Sahilll15/DSA/tree/master/1476-count-negative-numbers-in-a-sorted-matrix) |
+| [2634-minimum-common-value](https://github.com/Sahilll15/DSA/tree/master/2634-minimum-common-value) |
 ## Matrix
 |  |
 | ------- |
@@ -486,6 +488,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0567-permutation-in-string](https://github.com/Sahilll15/DSA/tree/master/0567-permutation-in-string) |
 | [1741-sort-array-by-increasing-frequency](https://github.com/Sahilll15/DSA/tree/master/1741-sort-array-by-increasing-frequency) |
 | [2502-sort-the-people](https://github.com/Sahilll15/DSA/tree/master/2502-sort-the-people) |
+| [2634-minimum-common-value](https://github.com/Sahilll15/DSA/tree/master/2634-minimum-common-value) |
 ## String
 |  |
 | ------- |
@@ -558,6 +561,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0567-permutation-in-string](https://github.com/Sahilll15/DSA/tree/master/0567-permutation-in-string) |
 | [1019-squares-of-a-sorted-array](https://github.com/Sahilll15/DSA/tree/master/1019-squares-of-a-sorted-array) |
 | [2128-reverse-prefix-of-word](https://github.com/Sahilll15/DSA/tree/master/2128-reverse-prefix-of-word) |
+| [2634-minimum-common-value](https://github.com/Sahilll15/DSA/tree/master/2634-minimum-common-value) |
 ## Queue
 |  |
 | ------- |
