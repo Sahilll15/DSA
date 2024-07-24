@@ -407,6 +407,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1073-number-of-enclaves](https://github.com/Sahilll15/DSA/tree/master/1073-number-of-enclaves) |
 | [1333-sort-the-jumbled-numbers](https://github.com/Sahilll15/DSA/tree/master/1333-sort-the-jumbled-numbers) |
 | [1476-count-negative-numbers-in-a-sorted-matrix](https://github.com/Sahilll15/DSA/tree/master/1476-count-negative-numbers-in-a-sorted-matrix) |
+| [1496-lucky-numbers-in-a-matrix](https://github.com/Sahilll15/DSA/tree/master/1496-lucky-numbers-in-a-matrix) |
 | [1720-crawler-log-folder](https://github.com/Sahilll15/DSA/tree/master/1720-crawler-log-folder) |
 | [1741-sort-array-by-increasing-frequency](https://github.com/Sahilll15/DSA/tree/master/1741-sort-array-by-increasing-frequency) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/Sahilll15/DSA/tree/master/1951-find-the-winner-of-the-circular-game) |
@@ -471,6 +472,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0695-max-area-of-island](https://github.com/Sahilll15/DSA/tree/master/0695-max-area-of-island) |
 | [1073-number-of-enclaves](https://github.com/Sahilll15/DSA/tree/master/1073-number-of-enclaves) |
 | [1476-count-negative-numbers-in-a-sorted-matrix](https://github.com/Sahilll15/DSA/tree/master/1476-count-negative-numbers-in-a-sorted-matrix) |
+| [1496-lucky-numbers-in-a-matrix](https://github.com/Sahilll15/DSA/tree/master/1496-lucky-numbers-in-a-matrix) |
 ## Divide and Conquer
 |  |
 | ------- |
