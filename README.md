@@ -483,6 +483,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0055-jump-game](https://github.com/Sahilll15/DSA/tree/master/0055-jump-game) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Sahilll15/DSA/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [1456-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance](https://github.com/Sahilll15/DSA/tree/master/1456-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance) |
 ## Hash Table
 |  |
 | ------- |
@@ -618,6 +619,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0801-is-graph-bipartite](https://github.com/Sahilll15/DSA/tree/master/0801-is-graph-bipartite) |
+| [1456-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance](https://github.com/Sahilll15/DSA/tree/master/1456-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance) |
 ## Tree
 |  |
 | ------- |
@@ -718,4 +720,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0347-top-k-frequent-elements](https://github.com/Sahilll15/DSA/tree/master/0347-top-k-frequent-elements) |
+## Shortest Path
+|  |
+| ------- |
+| [1456-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance](https://github.com/Sahilll15/DSA/tree/master/1456-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance) |
 <!---LeetCode Topics End-->
