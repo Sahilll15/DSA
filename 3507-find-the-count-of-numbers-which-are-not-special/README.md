@@ -1,4 +1,4 @@
-<h2><a href="https://leetcode.com/problems/find-the-count-of-numbers-which-are-not-special">Find the Count of Numbers Which Are Not Special</a></h2> <img src='https://img.shields.io/badge/Difficulty-Medium-orange' alt='Difficulty: Medium' /><hr><p>You are given 2 <strong>positive</strong> integers <code>l</code> and <code>r</code>. For any number <code>x</code>, all positive divisors of <code>x</code> <em>except</em> <code>x</code> are called the <strong>proper divisors</strong> of <code>x</code>.</p>
+<h2><a href="https://leetcode.com/problems/find-the-count-of-numbers-which-are-not-special">3507. Find the Count of Numbers Which Are Not Special</a></h2><h3>Medium</h3><hr><p>You are given 2 <strong>positive</strong> integers <code>l</code> and <code>r</code>. For any number <code>x</code>, all positive divisors of <code>x</code> <em>except</em> <code>x</code> are called the <strong>proper divisors</strong> of <code>x</code>.</p>
 
 <p>A number is called <strong>special</strong> if it has exactly 2 <strong>proper divisors</strong>. For example:</p>
 
