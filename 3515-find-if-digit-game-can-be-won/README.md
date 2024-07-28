@@ -1,4 +1,4 @@
-<h2><a href="https://leetcode.com/problems/find-if-digit-game-can-be-won">3515. Find if Digit Game Can Be Won</a></h2><h3>Easy</h3><hr><p>You are given an array of <strong>positive</strong> integers <code>nums</code>.</p>
+<h2><a href="https://leetcode.com/problems/find-if-digit-game-can-be-won">Find if Digit Game Can Be Won</a></h2> <img src='https://img.shields.io/badge/Difficulty-Easy-brightgreen' alt='Difficulty: Easy' /><hr><p>You are given an array of <strong>positive</strong> integers <code>nums</code>.</p>
 
 <p>Alice and Bob are playing a game. In the game, Alice can choose <strong>either</strong> all single-digit numbers or all double-digit numbers from <code>nums</code>, and the rest of the numbers are given to Bob. Alice wins if the sum of her numbers is <strong>strictly greater</strong> than the sum of Bob&#39;s numbers.</p>
 
