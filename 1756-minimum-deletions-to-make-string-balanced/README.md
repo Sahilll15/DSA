@@ -1,4 +1,4 @@
-<h2><a href="https://leetcode.com/problems/minimum-deletions-to-make-string-balanced">1756. Minimum Deletions to Make String Balanced</a></h2><h3>Medium</h3><hr><p>You are given a string <code>s</code> consisting only of characters <code>&#39;a&#39;</code> and <code>&#39;b&#39;</code>​​​​.</p>
+<h2><a href="https://leetcode.com/problems/minimum-deletions-to-make-string-balanced">Minimum Deletions to Make String Balanced</a></h2> <img src='https://img.shields.io/badge/Difficulty-Medium-orange' alt='Difficulty: Medium' /><hr><p>You are given a string <code>s</code> consisting only of characters <code>&#39;a&#39;</code> and <code>&#39;b&#39;</code>​​​​.</p>
 
 <p>You can delete any number of characters in <code>s</code> to make <code>s</code> <strong>balanced</strong>. <code>s</code> is <strong>balanced</strong> if there is no pair of indices <code>(i,j)</code> such that <code>i &lt; j</code> and <code>s[i] = &#39;b&#39;</code> and <code>s[j]= &#39;a&#39;</code>.</p>
 
