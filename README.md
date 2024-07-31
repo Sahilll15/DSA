@@ -380,6 +380,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0073-set-matrix-zeroes](https://github.com/Sahilll15/DSA/tree/master/0073-set-matrix-zeroes) |
 | [0074-search-a-2d-matrix](https://github.com/Sahilll15/DSA/tree/master/0074-search-a-2d-matrix) |
 | [0075-sort-colors](https://github.com/Sahilll15/DSA/tree/master/0075-sort-colors) |
+| [0078-subsets](https://github.com/Sahilll15/DSA/tree/master/0078-subsets) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/Sahilll15/DSA/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0088-merge-sorted-array](https://github.com/Sahilll15/DSA/tree/master/0088-merge-sorted-array) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Sahilll15/DSA/tree/master/0121-best-time-to-buy-and-sell-stock) |
@@ -641,6 +642,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Bit Manipulation
 |  |
 | ------- |
+| [0078-subsets](https://github.com/Sahilll15/DSA/tree/master/0078-subsets) |
 | [0260-single-number-iii](https://github.com/Sahilll15/DSA/tree/master/0260-single-number-iii) |
 ## Math
 |  |
@@ -738,4 +740,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [1511-count-number-of-teams](https://github.com/Sahilll15/DSA/tree/master/1511-count-number-of-teams) |
+## Backtracking
+|  |
+| ------- |
+| [0078-subsets](https://github.com/Sahilll15/DSA/tree/master/0078-subsets) |
 <!---LeetCode Topics End-->
