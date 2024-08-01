@@ -1,4 +1,4 @@
-<h2><a href="https://leetcode.com/problems/number-of-senior-citizens">2727. Number of Senior Citizens</a></h2><h3>Easy</h3><hr><p>You are given a <strong>0-indexed</strong> array of strings <code>details</code>. Each element of <code>details</code> provides information about a given passenger compressed into a string of length <code>15</code>. The system is such that:</p>
+<h2><a href="https://leetcode.com/problems/number-of-senior-citizens">Number of Senior Citizens</a></h2> <img src='https://img.shields.io/badge/Difficulty-Easy-brightgreen' alt='Difficulty: Easy' /><hr><p>You are given a <strong>0-indexed</strong> array of strings <code>details</code>. Each element of <code>details</code> provides information about a given passenger compressed into a string of length <code>15</code>. The system is such that:</p>
 
 <ul>
 	<li>The first ten characters consist of the phone number of passengers.</li>
