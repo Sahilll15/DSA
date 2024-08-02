@@ -1,4 +1,4 @@
-<h2><a href="https://leetcode.com/problems/minimum-swaps-to-group-all-1s-together-ii">2255. Minimum Swaps to Group All 1's Together II</a></h2><h3>Medium</h3><hr><p>A <strong>swap</strong> is defined as taking two <strong>distinct</strong> positions in an array and swapping the values in them.</p>
+<h2><a href="https://leetcode.com/problems/minimum-swaps-to-group-all-1s-together-ii">Minimum Swaps to Group All 1's Together II</a></h2> <img src='https://img.shields.io/badge/Difficulty-Medium-orange' alt='Difficulty: Medium' /><hr><p>A <strong>swap</strong> is defined as taking two <strong>distinct</strong> positions in an array and swapping the values in them.</p>
 
 <p>A <strong>circular</strong> array is defined as an array where we consider the <strong>first</strong> element and the <strong>last</strong> element to be <strong>adjacent</strong>.</p>
 
