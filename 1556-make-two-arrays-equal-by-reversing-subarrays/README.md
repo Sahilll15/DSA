@@ -1,4 +1,4 @@
-<h2><a href="https://leetcode.com/problems/make-two-arrays-equal-by-reversing-subarrays">1556. Make Two Arrays Equal by Reversing Subarrays</a></h2><h3>Easy</h3><hr><p>You are given two integer arrays of equal length <code>target</code> and <code>arr</code>. In one step, you can select any <strong>non-empty subarray</strong> of <code>arr</code> and reverse it. You are allowed to make any number of steps.</p>
+<h2><a href="https://leetcode.com/problems/make-two-arrays-equal-by-reversing-subarrays">Make Two Arrays Equal by Reversing Subarrays</a></h2> <img src='https://img.shields.io/badge/Difficulty-Easy-brightgreen' alt='Difficulty: Easy' /><hr><p>You are given two integer arrays of equal length <code>target</code> and <code>arr</code>. In one step, you can select any <strong>non-empty subarray</strong> of <code>arr</code> and reverse it. You are allowed to make any number of steps.</p>
 
 <p>Return <code>true</code> <em>if you can make </em><code>arr</code><em> equal to </em><code>target</code><em>&nbsp;or </em><code>false</code><em> otherwise</em>.</p>
 
