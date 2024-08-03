@@ -1,4 +1,4 @@
-<h2><a href="https://leetcode.com/problems/fibonacci-number">1013. Fibonacci Number</a></h2><h3>Easy</h3><hr><p>The <b>Fibonacci numbers</b>, commonly denoted <code>F(n)</code> form a sequence, called the <b>Fibonacci sequence</b>, such that each number is the sum of the two preceding ones, starting from <code>0</code> and <code>1</code>. That is,</p>
+<h2><a href="https://leetcode.com/problems/fibonacci-number">Fibonacci Number</a></h2> <img src='https://img.shields.io/badge/Difficulty-Easy-brightgreen' alt='Difficulty: Easy' /><hr><p>The <b>Fibonacci numbers</b>, commonly denoted <code>F(n)</code> form a sequence, called the <b>Fibonacci sequence</b>, such that each number is the sum of the two preceding ones, starting from <code>0</code> and <code>1</code>. That is,</p>
 
 <pre>
 F(0) = 0, F(1) = 1
