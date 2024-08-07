@@ -1,4 +1,4 @@
-<h2><a href="https://leetcode.com/problems/count-number-of-pairs-with-absolute-difference-k">2116. Count Number of Pairs With Absolute Difference K</a></h2><h3>Easy</h3><hr><p>Given an integer array <code>nums</code> and an integer <code>k</code>, return <em>the number of pairs</em> <code>(i, j)</code> <em>where</em> <code>i &lt; j</code> <em>such that</em> <code>|nums[i] - nums[j]| == k</code>.</p>
+<h2><a href="https://leetcode.com/problems/count-number-of-pairs-with-absolute-difference-k">Count Number of Pairs With Absolute Difference K</a></h2> <img src='https://img.shields.io/badge/Difficulty-Easy-brightgreen' alt='Difficulty: Easy' /><hr><p>Given an integer array <code>nums</code> and an integer <code>k</code>, return <em>the number of pairs</em> <code>(i, j)</code> <em>where</em> <code>i &lt; j</code> <em>such that</em> <code>|nums[i] - nums[j]| == k</code>.</p>
 
 <p>The value of <code>|x|</code> is defined as:</p>
 
