@@ -1,4 +1,4 @@
-<h2><a href="https://leetcode.com/problems/find-maximum-number-of-string-pairs">2847. Find Maximum Number of String Pairs</a></h2><h3>Easy</h3><hr><p>You are given a <strong>0-indexed</strong> array <code>words</code> consisting of <strong>distinct</strong> strings.</p>
+<h2><a href="https://leetcode.com/problems/find-maximum-number-of-string-pairs">Find Maximum Number of String Pairs</a></h2> <img src='https://img.shields.io/badge/Difficulty-Easy-brightgreen' alt='Difficulty: Easy' /><hr><p>You are given a <strong>0-indexed</strong> array <code>words</code> consisting of <strong>distinct</strong> strings.</p>
 
 <p>The string <code>words[i]</code> can be paired with the string <code>words[j]</code> if:</p>
 
