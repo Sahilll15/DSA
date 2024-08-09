@@ -438,6 +438,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0143-reorder-list](https://github.com/Sahilll15/DSA/tree/master/0143-reorder-list) |
 | [0883-car-fleet](https://github.com/Sahilll15/DSA/tree/master/0883-car-fleet) |
 | [1128-remove-all-adjacent-duplicates-in-string](https://github.com/Sahilll15/DSA/tree/master/1128-remove-all-adjacent-duplicates-in-string) |
+| [1298-reverse-substrings-between-each-pair-of-parentheses](https://github.com/Sahilll15/DSA/tree/master/1298-reverse-substrings-between-each-pair-of-parentheses) |
 | [1320-remove-all-adjacent-duplicates-in-string-ii](https://github.com/Sahilll15/DSA/tree/master/1320-remove-all-adjacent-duplicates-in-string-ii) |
 | [1720-crawler-log-folder](https://github.com/Sahilll15/DSA/tree/master/1720-crawler-log-folder) |
 | [1756-minimum-deletions-to-make-string-balanced](https://github.com/Sahilll15/DSA/tree/master/1756-minimum-deletions-to-make-string-balanced) |
@@ -558,6 +559,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0424-longest-repeating-character-replacement](https://github.com/Sahilll15/DSA/tree/master/0424-longest-repeating-character-replacement) |
 | [0567-permutation-in-string](https://github.com/Sahilll15/DSA/tree/master/0567-permutation-in-string) |
 | [1128-remove-all-adjacent-duplicates-in-string](https://github.com/Sahilll15/DSA/tree/master/1128-remove-all-adjacent-duplicates-in-string) |
+| [1298-reverse-substrings-between-each-pair-of-parentheses](https://github.com/Sahilll15/DSA/tree/master/1298-reverse-substrings-between-each-pair-of-parentheses) |
 | [1320-remove-all-adjacent-duplicates-in-string-ii](https://github.com/Sahilll15/DSA/tree/master/1320-remove-all-adjacent-duplicates-in-string-ii) |
 | [1720-crawler-log-folder](https://github.com/Sahilll15/DSA/tree/master/1720-crawler-log-folder) |
 | [1756-minimum-deletions-to-make-string-balanced](https://github.com/Sahilll15/DSA/tree/master/1756-minimum-deletions-to-make-string-balanced) |
