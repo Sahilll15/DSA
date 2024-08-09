@@ -65,19 +65,24 @@ public:
         int rows = grid.size();
         int cols = grid[0].size();
 
-        for (int i = 0; i <= rows - 3; ++i) {
-            for (int j = 0; j <= cols - 3; ++j) {
+    
+
+
+        for(int i=0;i<=rows-3;++i){
+            for(int j=0;j<=cols-3;++j){
                 vector<vector<int>> tempGrid(3, vector<int>(3));
-                for (int x = 0; x < 3; ++x) {
-                    for (int y = 0; y < 3; ++y) {
-                        tempGrid[x][y] = grid[i + x][j + y];
+                for(int x=0;x<3;++x){
+                    for(int y=0;y<3;++y){
+                        tempGrid[x][y]=grid[i+x][j+y];
                     }
                 }
-                if (checkMagic(tempGrid)) {
+                 if (checkMagic(tempGrid)) {
                     ++count;
                 }
             }
         }
+
+
         return count;
     }
 };
