@@ -406,6 +406,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0870-magic-squares-in-grid](https://github.com/Sahilll15/DSA/tree/master/0870-magic-squares-in-grid) |
 | [0883-car-fleet](https://github.com/Sahilll15/DSA/tree/master/0883-car-fleet) |
 | [0921-spiral-matrix-iii](https://github.com/Sahilll15/DSA/tree/master/0921-spiral-matrix-iii) |
+| [0999-regions-cut-by-slashes](https://github.com/Sahilll15/DSA/tree/master/0999-regions-cut-by-slashes) |
 | [1019-squares-of-a-sorted-array](https://github.com/Sahilll15/DSA/tree/master/1019-squares-of-a-sorted-array) |
 | [1073-number-of-enclaves](https://github.com/Sahilll15/DSA/tree/master/1073-number-of-enclaves) |
 | [1196-filling-bookcase-shelves](https://github.com/Sahilll15/DSA/tree/master/1196-filling-bookcase-shelves) |
@@ -493,6 +494,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0695-max-area-of-island](https://github.com/Sahilll15/DSA/tree/master/0695-max-area-of-island) |
 | [0870-magic-squares-in-grid](https://github.com/Sahilll15/DSA/tree/master/0870-magic-squares-in-grid) |
 | [0921-spiral-matrix-iii](https://github.com/Sahilll15/DSA/tree/master/0921-spiral-matrix-iii) |
+| [0999-regions-cut-by-slashes](https://github.com/Sahilll15/DSA/tree/master/0999-regions-cut-by-slashes) |
 | [1073-number-of-enclaves](https://github.com/Sahilll15/DSA/tree/master/1073-number-of-enclaves) |
 | [1476-count-negative-numbers-in-a-sorted-matrix](https://github.com/Sahilll15/DSA/tree/master/1476-count-negative-numbers-in-a-sorted-matrix) |
 | [1496-lucky-numbers-in-a-matrix](https://github.com/Sahilll15/DSA/tree/master/1496-lucky-numbers-in-a-matrix) |
@@ -533,6 +535,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0442-find-all-duplicates-in-an-array](https://github.com/Sahilll15/DSA/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0567-permutation-in-string](https://github.com/Sahilll15/DSA/tree/master/0567-permutation-in-string) |
 | [0870-magic-squares-in-grid](https://github.com/Sahilll15/DSA/tree/master/0870-magic-squares-in-grid) |
+| [0999-regions-cut-by-slashes](https://github.com/Sahilll15/DSA/tree/master/0999-regions-cut-by-slashes) |
 | [1556-make-two-arrays-equal-by-reversing-subarrays](https://github.com/Sahilll15/DSA/tree/master/1556-make-two-arrays-equal-by-reversing-subarrays) |
 | [1741-sort-array-by-increasing-frequency](https://github.com/Sahilll15/DSA/tree/master/1741-sort-array-by-increasing-frequency) |
 | [2116-count-number-of-pairs-with-absolute-difference-k](https://github.com/Sahilll15/DSA/tree/master/2116-count-number-of-pairs-with-absolute-difference-k) |
@@ -588,6 +591,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0200-number-of-islands](https://github.com/Sahilll15/DSA/tree/master/0200-number-of-islands) |
 | [0695-max-area-of-island](https://github.com/Sahilll15/DSA/tree/master/0695-max-area-of-island) |
 | [0801-is-graph-bipartite](https://github.com/Sahilll15/DSA/tree/master/0801-is-graph-bipartite) |
+| [0999-regions-cut-by-slashes](https://github.com/Sahilll15/DSA/tree/master/0999-regions-cut-by-slashes) |
 | [1073-number-of-enclaves](https://github.com/Sahilll15/DSA/tree/master/1073-number-of-enclaves) |
 | [1544-count-good-nodes-in-binary-tree](https://github.com/Sahilll15/DSA/tree/master/1544-count-good-nodes-in-binary-tree) |
 ## Breadth-First Search
@@ -597,6 +601,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0200-number-of-islands](https://github.com/Sahilll15/DSA/tree/master/0200-number-of-islands) |
 | [0695-max-area-of-island](https://github.com/Sahilll15/DSA/tree/master/0695-max-area-of-island) |
 | [0801-is-graph-bipartite](https://github.com/Sahilll15/DSA/tree/master/0801-is-graph-bipartite) |
+| [0999-regions-cut-by-slashes](https://github.com/Sahilll15/DSA/tree/master/0999-regions-cut-by-slashes) |
 | [1073-number-of-enclaves](https://github.com/Sahilll15/DSA/tree/master/1073-number-of-enclaves) |
 | [1544-count-good-nodes-in-binary-tree](https://github.com/Sahilll15/DSA/tree/master/1544-count-good-nodes-in-binary-tree) |
 ## Union Find
@@ -607,6 +612,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0200-number-of-islands](https://github.com/Sahilll15/DSA/tree/master/0200-number-of-islands) |
 | [0695-max-area-of-island](https://github.com/Sahilll15/DSA/tree/master/0695-max-area-of-island) |
 | [0801-is-graph-bipartite](https://github.com/Sahilll15/DSA/tree/master/0801-is-graph-bipartite) |
+| [0999-regions-cut-by-slashes](https://github.com/Sahilll15/DSA/tree/master/0999-regions-cut-by-slashes) |
 | [1073-number-of-enclaves](https://github.com/Sahilll15/DSA/tree/master/1073-number-of-enclaves) |
 ## Two Pointers
 |  |
