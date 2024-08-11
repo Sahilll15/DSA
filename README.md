@@ -698,6 +698,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0002-add-two-numbers](https://github.com/Sahilll15/DSA/tree/master/0002-add-two-numbers) |
 | [0007-reverse-integer](https://github.com/Sahilll15/DSA/tree/master/0007-reverse-integer) |
+| [0009-palindrome-number](https://github.com/Sahilll15/DSA/tree/master/0009-palindrome-number) |
 | [0273-integer-to-english-words](https://github.com/Sahilll15/DSA/tree/master/0273-integer-to-english-words) |
 | [0380-insert-delete-getrandom-o1](https://github.com/Sahilll15/DSA/tree/master/0380-insert-delete-getrandom-o1) |
 | [0870-magic-squares-in-grid](https://github.com/Sahilll15/DSA/tree/master/0870-magic-squares-in-grid) |
