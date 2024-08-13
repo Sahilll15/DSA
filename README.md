@@ -375,6 +375,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Sahilll15/DSA/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/Sahilll15/DSA/tree/master/0027-remove-element) |
 | [0033-search-in-rotated-sorted-array](https://github.com/Sahilll15/DSA/tree/master/0033-search-in-rotated-sorted-array) |
+| [0040-combination-sum-ii](https://github.com/Sahilll15/DSA/tree/master/0040-combination-sum-ii) |
 | [0049-group-anagrams](https://github.com/Sahilll15/DSA/tree/master/0049-group-anagrams) |
 | [0055-jump-game](https://github.com/Sahilll15/DSA/tree/master/0055-jump-game) |
 | [0073-set-matrix-zeroes](https://github.com/Sahilll15/DSA/tree/master/0073-set-matrix-zeroes) |
@@ -809,6 +810,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Backtracking
 |  |
 | ------- |
+| [0040-combination-sum-ii](https://github.com/Sahilll15/DSA/tree/master/0040-combination-sum-ii) |
 | [0078-subsets](https://github.com/Sahilll15/DSA/tree/master/0078-subsets) |
 ## Memoization
 |  |
