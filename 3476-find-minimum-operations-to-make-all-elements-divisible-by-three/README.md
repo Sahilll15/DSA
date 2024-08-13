@@ -1,4 +1,4 @@
-<h2><a href="https://leetcode.com/problems/find-minimum-operations-to-make-all-elements-divisible-by-three">3476. Find Minimum Operations to Make All Elements Divisible by Three</a></h2><h3>Easy</h3><hr><p>You are given an integer array <code>nums</code>. In one operation, you can add or subtract 1 from <strong>any</strong> element of <code>nums</code>.</p>
+<h2><a href="https://leetcode.com/problems/find-minimum-operations-to-make-all-elements-divisible-by-three">Find Minimum Operations to Make All Elements Divisible by Three</a></h2> <img src='https://img.shields.io/badge/Difficulty-Easy-brightgreen' alt='Difficulty: Easy' /><hr><p>You are given an integer array <code>nums</code>. In one operation, you can add or subtract 1 from <strong>any</strong> element of <code>nums</code>.</p>
 
 <p>Return the <strong>minimum</strong> number of operations to make all elements of <code>nums</code> divisible by 3.</p>
 
