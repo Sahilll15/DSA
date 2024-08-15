@@ -407,6 +407,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0792-binary-search](https://github.com/Sahilll15/DSA/tree/master/0792-binary-search) |
 | [0870-magic-squares-in-grid](https://github.com/Sahilll15/DSA/tree/master/0870-magic-squares-in-grid) |
 | [0883-car-fleet](https://github.com/Sahilll15/DSA/tree/master/0883-car-fleet) |
+| [0890-lemonade-change](https://github.com/Sahilll15/DSA/tree/master/0890-lemonade-change) |
 | [0921-spiral-matrix-iii](https://github.com/Sahilll15/DSA/tree/master/0921-spiral-matrix-iii) |
 | [0999-regions-cut-by-slashes](https://github.com/Sahilll15/DSA/tree/master/0999-regions-cut-by-slashes) |
 | [1019-squares-of-a-sorted-array](https://github.com/Sahilll15/DSA/tree/master/1019-squares-of-a-sorted-array) |
@@ -767,6 +768,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0011-container-with-most-water](https://github.com/Sahilll15/DSA/tree/master/0011-container-with-most-water) |
 | [0055-jump-game](https://github.com/Sahilll15/DSA/tree/master/0055-jump-game) |
 | [0134-gas-station](https://github.com/Sahilll15/DSA/tree/master/0134-gas-station) |
+| [0890-lemonade-change](https://github.com/Sahilll15/DSA/tree/master/0890-lemonade-change) |
 | [3275-minimum-number-of-pushes-to-type-word-i](https://github.com/Sahilll15/DSA/tree/master/3275-minimum-number-of-pushes-to-type-word-i) |
 | [3276-minimum-number-of-pushes-to-type-word-ii](https://github.com/Sahilll15/DSA/tree/master/3276-minimum-number-of-pushes-to-type-word-ii) |
 ## Design
