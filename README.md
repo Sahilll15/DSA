@@ -402,6 +402,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0350-intersection-of-two-arrays-ii](https://github.com/Sahilll15/DSA/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0380-insert-delete-getrandom-o1](https://github.com/Sahilll15/DSA/tree/master/0380-insert-delete-getrandom-o1) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/Sahilll15/DSA/tree/master/0442-find-all-duplicates-in-an-array) |
+| [0624-maximum-distance-in-arrays](https://github.com/Sahilll15/DSA/tree/master/0624-maximum-distance-in-arrays) |
 | [0695-max-area-of-island](https://github.com/Sahilll15/DSA/tree/master/0695-max-area-of-island) |
 | [0719-find-k-th-smallest-pair-distance](https://github.com/Sahilll15/DSA/tree/master/0719-find-k-th-smallest-pair-distance) |
 | [0792-binary-search](https://github.com/Sahilll15/DSA/tree/master/0792-binary-search) |
@@ -768,6 +769,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0011-container-with-most-water](https://github.com/Sahilll15/DSA/tree/master/0011-container-with-most-water) |
 | [0055-jump-game](https://github.com/Sahilll15/DSA/tree/master/0055-jump-game) |
 | [0134-gas-station](https://github.com/Sahilll15/DSA/tree/master/0134-gas-station) |
+| [0624-maximum-distance-in-arrays](https://github.com/Sahilll15/DSA/tree/master/0624-maximum-distance-in-arrays) |
 | [0890-lemonade-change](https://github.com/Sahilll15/DSA/tree/master/0890-lemonade-change) |
 | [3275-minimum-number-of-pushes-to-type-word-i](https://github.com/Sahilll15/DSA/tree/master/3275-minimum-number-of-pushes-to-type-word-i) |
 | [3276-minimum-number-of-pushes-to-type-word-ii](https://github.com/Sahilll15/DSA/tree/master/3276-minimum-number-of-pushes-to-type-word-ii) |
