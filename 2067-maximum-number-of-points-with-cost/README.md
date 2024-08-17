@@ -1,4 +1,4 @@
-<h2><a href="https://leetcode.com/problems/maximum-number-of-points-with-cost">2067. Maximum Number of Points with Cost</a></h2><h3>Medium</h3><hr><p>You are given an <code>m x n</code> integer matrix <code>points</code> (<strong>0-indexed</strong>). Starting with <code>0</code> points, you want to <strong>maximize</strong> the number of points you can get from the matrix.</p>
+<h2><a href="https://leetcode.com/problems/maximum-number-of-points-with-cost">Maximum Number of Points with Cost</a></h2> <img src='https://img.shields.io/badge/Difficulty-Medium-orange' alt='Difficulty: Medium' /><hr><p>You are given an <code>m x n</code> integer matrix <code>points</code> (<strong>0-indexed</strong>). Starting with <code>0</code> points, you want to <strong>maximize</strong> the number of points you can get from the matrix.</p>
 
 <p>To gain points, you must pick one cell in <strong>each row</strong>. Picking the cell at coordinates <code>(r, c)</code> will <strong>add</strong> <code>points[r][c]</code> to your score.</p>
 
