@@ -439,6 +439,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2727-number-of-senior-citizens](https://github.com/Sahilll15/DSA/tree/master/2727-number-of-senior-citizens) |
 | [2847-find-maximum-number-of-string-pairs](https://github.com/Sahilll15/DSA/tree/master/2847-find-maximum-number-of-string-pairs) |
 | [3242-count-elements-with-maximum-frequency](https://github.com/Sahilll15/DSA/tree/master/3242-count-elements-with-maximum-frequency) |
+| [3469-maximum-height-of-a-triangle](https://github.com/Sahilll15/DSA/tree/master/3469-maximum-height-of-a-triangle) |
 | [3476-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/Sahilll15/DSA/tree/master/3476-find-minimum-operations-to-make-all-elements-divisible-by-three) |
 ## Stack
 |  |
@@ -843,6 +844,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [2122-count-special-quadruplets](https://github.com/Sahilll15/DSA/tree/master/2122-count-special-quadruplets) |
+| [3469-maximum-height-of-a-triangle](https://github.com/Sahilll15/DSA/tree/master/3469-maximum-height-of-a-triangle) |
 ## Strongly Connected Component
 |  |
 | ------- |
