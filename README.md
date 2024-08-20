@@ -415,6 +415,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1019-squares-of-a-sorted-array](https://github.com/Sahilll15/DSA/tree/master/1019-squares-of-a-sorted-array) |
 | [1073-number-of-enclaves](https://github.com/Sahilll15/DSA/tree/master/1073-number-of-enclaves) |
 | [1196-filling-bookcase-shelves](https://github.com/Sahilll15/DSA/tree/master/1196-filling-bookcase-shelves) |
+| [1240-stone-game-ii](https://github.com/Sahilll15/DSA/tree/master/1240-stone-game-ii) |
 | [1293-three-consecutive-odds](https://github.com/Sahilll15/DSA/tree/master/1293-three-consecutive-odds) |
 | [1333-sort-the-jumbled-numbers](https://github.com/Sahilll15/DSA/tree/master/1333-sort-the-jumbled-numbers) |
 | [1476-count-negative-numbers-in-a-sorted-matrix](https://github.com/Sahilll15/DSA/tree/master/1476-count-negative-numbers-in-a-sorted-matrix) |
@@ -526,6 +527,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0650-2-keys-keyboard](https://github.com/Sahilll15/DSA/tree/master/0650-2-keys-keyboard) |
 | [1013-fibonacci-number](https://github.com/Sahilll15/DSA/tree/master/1013-fibonacci-number) |
 | [1196-filling-bookcase-shelves](https://github.com/Sahilll15/DSA/tree/master/1196-filling-bookcase-shelves) |
+| [1240-stone-game-ii](https://github.com/Sahilll15/DSA/tree/master/1240-stone-game-ii) |
 | [1456-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance](https://github.com/Sahilll15/DSA/tree/master/1456-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance) |
 | [1511-count-number-of-teams](https://github.com/Sahilll15/DSA/tree/master/1511-count-number-of-teams) |
 | [1756-minimum-deletions-to-make-string-balanced](https://github.com/Sahilll15/DSA/tree/master/1756-minimum-deletions-to-make-string-balanced) |
@@ -728,6 +730,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0650-2-keys-keyboard](https://github.com/Sahilll15/DSA/tree/master/0650-2-keys-keyboard) |
 | [0870-magic-squares-in-grid](https://github.com/Sahilll15/DSA/tree/master/0870-magic-squares-in-grid) |
 | [1013-fibonacci-number](https://github.com/Sahilll15/DSA/tree/master/1013-fibonacci-number) |
+| [1240-stone-game-ii](https://github.com/Sahilll15/DSA/tree/master/1240-stone-game-ii) |
 | [1642-water-bottles](https://github.com/Sahilll15/DSA/tree/master/1642-water-bottles) |
 | [1889-check-if-number-is-a-sum-of-powers-of-three](https://github.com/Sahilll15/DSA/tree/master/1889-check-if-number-is-a-sum-of-powers-of-three) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/Sahilll15/DSA/tree/master/1951-find-the-winner-of-the-circular-game) |
@@ -799,6 +802,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/Sahilll15/DSA/tree/master/0209-minimum-size-subarray-sum) |
 | [0238-product-of-array-except-self](https://github.com/Sahilll15/DSA/tree/master/0238-product-of-array-except-self) |
+| [1240-stone-game-ii](https://github.com/Sahilll15/DSA/tree/master/1240-stone-game-ii) |
 ## Simulation
 |  |
 | ------- |
@@ -859,4 +863,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0789-kth-largest-element-in-a-stream](https://github.com/Sahilll15/DSA/tree/master/0789-kth-largest-element-in-a-stream) |
+## Game Theory
+|  |
+| ------- |
+| [1240-stone-game-ii](https://github.com/Sahilll15/DSA/tree/master/1240-stone-game-ii) |
 <!---LeetCode Topics End-->
