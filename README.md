@@ -429,6 +429,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1720-crawler-log-folder](https://github.com/Sahilll15/DSA/tree/master/1720-crawler-log-folder) |
 | [1741-sort-array-by-increasing-frequency](https://github.com/Sahilll15/DSA/tree/master/1741-sort-array-by-increasing-frequency) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/Sahilll15/DSA/tree/master/1951-find-the-winner-of-the-circular-game) |
+| [2035-count-sub-islands](https://github.com/Sahilll15/DSA/tree/master/2035-count-sub-islands) |
 | [2067-maximum-number-of-points-with-cost](https://github.com/Sahilll15/DSA/tree/master/2067-maximum-number-of-points-with-cost) |
 | [2116-count-number-of-pairs-with-absolute-difference-k](https://github.com/Sahilll15/DSA/tree/master/2116-count-number-of-pairs-with-absolute-difference-k) |
 | [2122-count-special-quadruplets](https://github.com/Sahilll15/DSA/tree/master/2122-count-special-quadruplets) |
@@ -515,6 +516,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1496-lucky-numbers-in-a-matrix](https://github.com/Sahilll15/DSA/tree/master/1496-lucky-numbers-in-a-matrix) |
 | [1677-matrix-diagonal-sum](https://github.com/Sahilll15/DSA/tree/master/1677-matrix-diagonal-sum) |
 | [1691-minimum-number-of-days-to-disconnect-island](https://github.com/Sahilll15/DSA/tree/master/1691-minimum-number-of-days-to-disconnect-island) |
+| [2035-count-sub-islands](https://github.com/Sahilll15/DSA/tree/master/2035-count-sub-islands) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -620,6 +622,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1073-number-of-enclaves](https://github.com/Sahilll15/DSA/tree/master/1073-number-of-enclaves) |
 | [1544-count-good-nodes-in-binary-tree](https://github.com/Sahilll15/DSA/tree/master/1544-count-good-nodes-in-binary-tree) |
 | [1691-minimum-number-of-days-to-disconnect-island](https://github.com/Sahilll15/DSA/tree/master/1691-minimum-number-of-days-to-disconnect-island) |
+| [2035-count-sub-islands](https://github.com/Sahilll15/DSA/tree/master/2035-count-sub-islands) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -631,6 +634,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1073-number-of-enclaves](https://github.com/Sahilll15/DSA/tree/master/1073-number-of-enclaves) |
 | [1544-count-good-nodes-in-binary-tree](https://github.com/Sahilll15/DSA/tree/master/1544-count-good-nodes-in-binary-tree) |
 | [1691-minimum-number-of-days-to-disconnect-island](https://github.com/Sahilll15/DSA/tree/master/1691-minimum-number-of-days-to-disconnect-island) |
+| [2035-count-sub-islands](https://github.com/Sahilll15/DSA/tree/master/2035-count-sub-islands) |
 ## Union Find
 |  |
 | ------- |
@@ -641,6 +645,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0801-is-graph-bipartite](https://github.com/Sahilll15/DSA/tree/master/0801-is-graph-bipartite) |
 | [0999-regions-cut-by-slashes](https://github.com/Sahilll15/DSA/tree/master/0999-regions-cut-by-slashes) |
 | [1073-number-of-enclaves](https://github.com/Sahilll15/DSA/tree/master/1073-number-of-enclaves) |
+| [2035-count-sub-islands](https://github.com/Sahilll15/DSA/tree/master/2035-count-sub-islands) |
 ## Two Pointers
 |  |
 | ------- |
