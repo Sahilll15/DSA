@@ -7,6 +7,7 @@ public:
         }
         
         k = k % totalChalk;
+        cout<<k<<endl;
         
         for (int i = 0; i < chalk.size(); i++) {
             if (k < chalk[i]) {
