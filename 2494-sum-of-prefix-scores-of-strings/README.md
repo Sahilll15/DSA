@@ -1,4 +1,4 @@
-<h2><a href="https://leetcode.com/problems/sum-of-prefix-scores-of-strings">2494. Sum of Prefix Scores of Strings</a></h2><h3>Hard</h3><hr><p>You are given an array <code>words</code> of size <code>n</code> consisting of <strong>non-empty</strong> strings.</p>
+<h2><a href="https://leetcode.com/problems/sum-of-prefix-scores-of-strings">Sum of Prefix Scores of Strings</a></h2> <img src='https://img.shields.io/badge/Difficulty-Hard-red' alt='Difficulty: Hard' /><hr><p>You are given an array <code>words</code> of size <code>n</code> consisting of <strong>non-empty</strong> strings.</p>
 
 <p>We define the <strong>score</strong> of a string <code>word</code> as the <strong>number</strong> of strings <code>words[i]</code> such that <code>word</code> is a <strong>prefix</strong> of <code>words[i]</code>.</p>
 
