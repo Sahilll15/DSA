@@ -1,4 +1,4 @@
-<h2><a href="https://leetcode.com/problems/counter-ii">2789. Counter II</a></h2><h3>Easy</h3><hr><p>Write a function&nbsp;<code>createCounter</code>. It should accept an initial integer&nbsp;<code>init</code>. It should return an object with three functions.</p>
+<h2><a href="https://leetcode.com/problems/counter-ii">Counter II</a></h2> <img src='https://img.shields.io/badge/Difficulty-Easy-brightgreen' alt='Difficulty: Easy' /><hr><p>Write a function&nbsp;<code>createCounter</code>. It should accept an initial integer&nbsp;<code>init</code>. It should return an object with three functions.</p>
 
 <p>The three functions are:</p>
 
