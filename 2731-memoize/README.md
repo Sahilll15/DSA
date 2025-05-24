@@ -1,4 +1,4 @@
-<h2><a href="https://leetcode.com/problems/memoize">2731. Memoize</a></h2><h3>Medium</h3><hr><p>Given a function <code>fn</code>, return a&nbsp;<strong>memoized</strong>&nbsp;version of that function.</p>
+<h2><a href="https://leetcode.com/problems/memoize">Memoize</a></h2> <img src='https://img.shields.io/badge/Difficulty-Medium-orange' alt='Difficulty: Medium' /><hr><p>Given a function <code>fn</code>, return a&nbsp;<strong>memoized</strong>&nbsp;version of that function.</p>
 
 <p>A&nbsp;<strong>memoized&nbsp;</strong>function is a function that will never be called twice with&nbsp;the same inputs. Instead it will return&nbsp;a cached value.</p>
 
