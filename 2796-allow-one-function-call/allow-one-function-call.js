@@ -3,22 +3,21 @@
  * @return {Function}
  */
 var once = function(fn) {
-    let called = 0;
-
-    return function(...args) {
-        if (called>=1) {
+    let count=0;
+    return function(...args){
+        if(count >= 1){
             return undefined;
+        }else{
+            count++;
+            return fn.apply(this,args);
         }
-        called++;
-        return fn.apply(this, args);
-    };
+    }
 };
 
 /**
- * Example usage:
- * let fn = (a, b, c) => (a + b + c);
- * let onceFn = once(fn);
+ * let fn = (a,b,c) => (a + b + c)
+ * let onceFn = once(fn)
  *
- * console.log(onceFn(1, 2, 3)); // 6
- * console.log(onceFn(2, 3, 6)); // undefined
+ * onceFn(1,2,3); // 6
+ * onceFn(2,3,6); // returns undefined without calling fn
  */
