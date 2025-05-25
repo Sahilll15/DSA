@@ -1,4 +1,4 @@
-<h2><a href="https://leetcode.com/problems/allow-one-function-call">2796. Allow One Function Call</a></h2><h3>Easy</h3><hr><p>Given a function <code>fn</code>, return a new function that is identical to the original function except that it ensures&nbsp;<code>fn</code>&nbsp;is&nbsp;called at most once.</p>
+<h2><a href="https://leetcode.com/problems/allow-one-function-call">Allow One Function Call</a></h2> <img src='https://img.shields.io/badge/Difficulty-Easy-brightgreen' alt='Difficulty: Easy' /><hr><p>Given a function <code>fn</code>, return a new function that is identical to the original function except that it ensures&nbsp;<code>fn</code>&nbsp;is&nbsp;called at most once.</p>
 
 <ul>
 	<li>The first time the returned function is called, it should return the same result as&nbsp;<code>fn</code>.</li>
