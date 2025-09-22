@@ -1,25 +1,22 @@
 class Solution {
 public:
     int maxFrequencyElements(vector<int>& nums) {
-        unordered_map<int, int> frequencyMap;
-        
-        for (int num : nums) {
-            frequencyMap[num]++;
-        }
-        
-        priority_queue<pair<int, int>> maxHeap;
-        for (auto& entry : frequencyMap) {
-            maxHeap.push({entry.second, entry.first});
-        }
-        
-        int maxFrequency = maxHeap.top().first;
-        int total = 0;
+        unordered_map<int,int> freq;
+        int maxFreq=0;
+        int result=0;
 
-        while (!maxHeap.empty() && maxHeap.top().first == maxFrequency) {
-            total += maxHeap.top().first;
-            maxHeap.pop();
+        for(int i=0;i<nums.size();i++){
+
+            freq[nums[i]]++;  
+
+            if(freq[nums[i]]>maxFreq){
+                maxFreq=freq[nums[i]];
+                result=maxFreq;
+            }else if(maxFreq == freq[nums[i]]){
+                result+=maxFreq;
+            }
         }
 
-        return total;
+        return result;
     }
 };
