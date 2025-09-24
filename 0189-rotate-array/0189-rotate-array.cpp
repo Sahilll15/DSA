@@ -7,8 +7,6 @@ public:
             mid[(i+k) % nums.size()]=nums[i];
         }
 
-          for(int i=0;i<mid.size();i++){
-            nums[i]=mid[i];
-          }
+         nums = mid;
     }
 };
