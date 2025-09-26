@@ -467,6 +467,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3469-maximum-height-of-a-triangle](https://github.com/Sahilll15/DSA/tree/master/3469-maximum-height-of-a-triangle) |
 | [3476-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/Sahilll15/DSA/tree/master/3476-find-minimum-operations-to-make-all-elements-divisible-by-three) |
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/Sahilll15/DSA/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
+| [4009-bitwise-or-of-even-numbers-in-an-array](https://github.com/Sahilll15/DSA/tree/master/4009-bitwise-or-of-even-numbers-in-an-array) |
 ## Stack
 |  |
 | ------- |
@@ -812,6 +813,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1786-count-the-number-of-consistent-strings](https://github.com/Sahilll15/DSA/tree/master/1786-count-the-number-of-consistent-strings) |
 | [2323-minimum-bit-flips-to-convert-number](https://github.com/Sahilll15/DSA/tree/master/2323-minimum-bit-flips-to-convert-number) |
 | [2503-longest-subarray-with-maximum-bitwise-and](https://github.com/Sahilll15/DSA/tree/master/2503-longest-subarray-with-maximum-bitwise-and) |
+| [4009-bitwise-or-of-even-numbers-in-an-array](https://github.com/Sahilll15/DSA/tree/master/4009-bitwise-or-of-even-numbers-in-an-array) |
 ## Math
 |  |
 | ------- |
@@ -932,6 +934,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2411-spiral-matrix-iv](https://github.com/Sahilll15/DSA/tree/master/2411-spiral-matrix-iv) |
 | [2645-pass-the-pillow](https://github.com/Sahilll15/DSA/tree/master/2645-pass-the-pillow) |
 | [2847-find-maximum-number-of-string-pairs](https://github.com/Sahilll15/DSA/tree/master/2847-find-maximum-number-of-string-pairs) |
+| [4009-bitwise-or-of-even-numbers-in-an-array](https://github.com/Sahilll15/DSA/tree/master/4009-bitwise-or-of-even-numbers-in-an-array) |
 ## Bucket Sort
 |  |
 | ------- |
