@@ -1,4 +1,4 @@
-<h2><a href="https://leetcode.com/problems/sum-of-all-odd-length-subarrays">1693. Sum of All Odd Length Subarrays</a></h2><h3>Easy</h3><hr><p>Given an array of positive integers <code>arr</code>, return <em>the sum of all possible <strong>odd-length subarrays</strong> of </em><code>arr</code>.</p>
+<h2><a href="https://leetcode.com/problems/sum-of-all-odd-length-subarrays">Sum of All Odd Length Subarrays</a></h2> <img src='https://img.shields.io/badge/Difficulty-Easy-brightgreen' alt='Difficulty: Easy' /><hr><p>Given an array of positive integers <code>arr</code>, return <em>the sum of all possible <strong>odd-length subarrays</strong> of </em><code>arr</code>.</p>
 
 <p>A <strong>subarray</strong> is a contiguous subsequence of the array.</p>
 
