@@ -1,14 +1,18 @@
 class Solution {
 public:
     int singleNumber(vector<int>& nums) {
-        //basically xor1 ^ xor1 =0
-        //xor of the same number gives zero
-        int n=nums.size();
-        int xor1=0;
-        for(int i=0;i<n;i++){
-            xor1=xor1 ^ nums[i];
+        unordered_map<int,int> map;
+        int ans;
+        for(int num:nums){
+            map[num]++;
+        }   
+
+        for(auto it:map){
+            if(it.second == 1){
+                ans= it.first;
+            }
         }
 
-        return xor1;
-    }   
+        return ans;
+    }
 };
