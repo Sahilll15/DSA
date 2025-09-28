@@ -413,6 +413,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0539-minimum-time-difference](https://github.com/Sahilll15/DSA/tree/master/0539-minimum-time-difference) |
 | [0560-subarray-sum-equals-k](https://github.com/Sahilll15/DSA/tree/master/0560-subarray-sum-equals-k) |
 | [0624-maximum-distance-in-arrays](https://github.com/Sahilll15/DSA/tree/master/0624-maximum-distance-in-arrays) |
+| [0643-maximum-average-subarray-i](https://github.com/Sahilll15/DSA/tree/master/0643-maximum-average-subarray-i) |
 | [0695-max-area-of-island](https://github.com/Sahilll15/DSA/tree/master/0695-max-area-of-island) |
 | [0719-find-k-th-smallest-pair-distance](https://github.com/Sahilll15/DSA/tree/master/0719-find-k-th-smallest-pair-distance) |
 | [0729-my-calendar-i](https://github.com/Sahilll15/DSA/tree/master/0729-my-calendar-i) |
@@ -669,6 +670,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0239-sliding-window-maximum](https://github.com/Sahilll15/DSA/tree/master/0239-sliding-window-maximum) |
 | [0424-longest-repeating-character-replacement](https://github.com/Sahilll15/DSA/tree/master/0424-longest-repeating-character-replacement) |
 | [0567-permutation-in-string](https://github.com/Sahilll15/DSA/tree/master/0567-permutation-in-string) |
+| [0643-maximum-average-subarray-i](https://github.com/Sahilll15/DSA/tree/master/0643-maximum-average-subarray-i) |
 | [2255-minimum-swaps-to-group-all-1s-together-ii](https://github.com/Sahilll15/DSA/tree/master/2255-minimum-swaps-to-group-all-1s-together-ii) |
 ## Depth-First Search
 |  |
