@@ -1,18 +1,27 @@
 class Solution {
 public:
     int divisorSubstrings(int num, int k) {
-        int l,r=0;
-        int ans=0;
-        string numStr = to_string(num);
-        int n = numStr.length();
-        
-        for (int i = 0; i <= n - k; i++) {
-            string substr = numStr.substr(i, k);
-            int divisor = stoi(substr);
-            if (divisor != 0 && num % divisor == 0) {
+        string numberStr = to_string(num);
+        int ans = 0;
+
+        string number = "";
+        for (int i = 0; i < k; i++) {
+            number += numberStr[i];
+        }
+        int current = stoi(number);
+
+        if (current != 0 && num % current == 0) {
+            ans++;
+        }
+
+        for (int i = k; i < numberStr.size(); i++) {
+            current = (current % (int)pow(10, k - 1)) * 10 + (numberStr[i] - '0');
+
+            if (current != 0 && num % current == 0) {
                 ans++;
             }
         }
-        return ans;
+
+        return ans;  
     }
 };
