@@ -461,6 +461,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2195-time-needed-to-buy-tickets](https://github.com/Sahilll15/DSA/tree/master/2195-time-needed-to-buy-tickets) |
 | [2211-k-radius-subarray-averages](https://github.com/Sahilll15/DSA/tree/master/2211-k-radius-subarray-averages) |
 | [2255-minimum-swaps-to-group-all-1s-together-ii](https://github.com/Sahilll15/DSA/tree/master/2255-minimum-swaps-to-group-all-1s-together-ii) |
+| [2324-find-triangular-sum-of-an-array](https://github.com/Sahilll15/DSA/tree/master/2324-find-triangular-sum-of-an-array) |
 | [2411-spiral-matrix-iv](https://github.com/Sahilll15/DSA/tree/master/2411-spiral-matrix-iv) |
 | [2494-sum-of-prefix-scores-of-strings](https://github.com/Sahilll15/DSA/tree/master/2494-sum-of-prefix-scores-of-strings) |
 | [2502-sort-the-people](https://github.com/Sahilll15/DSA/tree/master/2502-sort-the-people) |
@@ -856,6 +857,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1889-check-if-number-is-a-sum-of-powers-of-three](https://github.com/Sahilll15/DSA/tree/master/1889-check-if-number-is-a-sum-of-powers-of-three) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/Sahilll15/DSA/tree/master/1951-find-the-winner-of-the-circular-game) |
 | [2155-find-missing-observations](https://github.com/Sahilll15/DSA/tree/master/2155-find-missing-observations) |
+| [2324-find-triangular-sum-of-an-array](https://github.com/Sahilll15/DSA/tree/master/2324-find-triangular-sum-of-an-array) |
 | [2645-pass-the-pillow](https://github.com/Sahilll15/DSA/tree/master/2645-pass-the-pillow) |
 | [2903-insert-greatest-common-divisors-in-linked-list](https://github.com/Sahilll15/DSA/tree/master/2903-insert-greatest-common-divisors-in-linked-list) |
 | [3275-minimum-number-of-pushes-to-type-word-i](https://github.com/Sahilll15/DSA/tree/master/3275-minimum-number-of-pushes-to-type-word-i) |
@@ -952,6 +954,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2132-convert-1d-array-into-2d-array](https://github.com/Sahilll15/DSA/tree/master/2132-convert-1d-array-into-2d-array) |
 | [2155-find-missing-observations](https://github.com/Sahilll15/DSA/tree/master/2155-find-missing-observations) |
 | [2195-time-needed-to-buy-tickets](https://github.com/Sahilll15/DSA/tree/master/2195-time-needed-to-buy-tickets) |
+| [2324-find-triangular-sum-of-an-array](https://github.com/Sahilll15/DSA/tree/master/2324-find-triangular-sum-of-an-array) |
 | [2411-spiral-matrix-iv](https://github.com/Sahilll15/DSA/tree/master/2411-spiral-matrix-iv) |
 | [2645-pass-the-pillow](https://github.com/Sahilll15/DSA/tree/master/2645-pass-the-pillow) |
 | [2847-find-maximum-number-of-string-pairs](https://github.com/Sahilll15/DSA/tree/master/2847-find-maximum-number-of-string-pairs) |
@@ -1051,4 +1054,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0729-my-calendar-i](https://github.com/Sahilll15/DSA/tree/master/0729-my-calendar-i) |
 | [0731-my-calendar-ii](https://github.com/Sahilll15/DSA/tree/master/0731-my-calendar-ii) |
+## Combinatorics
+|  |
+| ------- |
+| [2324-find-triangular-sum-of-an-array](https://github.com/Sahilll15/DSA/tree/master/2324-find-triangular-sum-of-an-array) |
 <!---LeetCode Topics End-->
