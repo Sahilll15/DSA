@@ -413,6 +413,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0442-find-all-duplicates-in-an-array](https://github.com/Sahilll15/DSA/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0485-max-consecutive-ones](https://github.com/Sahilll15/DSA/tree/master/0485-max-consecutive-ones) |
 | [0539-minimum-time-difference](https://github.com/Sahilll15/DSA/tree/master/0539-minimum-time-difference) |
+| [0540-single-element-in-a-sorted-array](https://github.com/Sahilll15/DSA/tree/master/0540-single-element-in-a-sorted-array) |
 | [0560-subarray-sum-equals-k](https://github.com/Sahilll15/DSA/tree/master/0560-subarray-sum-equals-k) |
 | [0624-maximum-distance-in-arrays](https://github.com/Sahilll15/DSA/tree/master/0624-maximum-distance-in-arrays) |
 | [0643-maximum-average-subarray-i](https://github.com/Sahilll15/DSA/tree/master/0643-maximum-average-subarray-i) |
@@ -537,6 +538,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0268-missing-number](https://github.com/Sahilll15/DSA/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/Sahilll15/DSA/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Sahilll15/DSA/tree/master/0350-intersection-of-two-arrays-ii) |
+| [0540-single-element-in-a-sorted-array](https://github.com/Sahilll15/DSA/tree/master/0540-single-element-in-a-sorted-array) |
 | [0719-find-k-th-smallest-pair-distance](https://github.com/Sahilll15/DSA/tree/master/0719-find-k-th-smallest-pair-distance) |
 | [0729-my-calendar-i](https://github.com/Sahilll15/DSA/tree/master/0729-my-calendar-i) |
 | [0731-my-calendar-ii](https://github.com/Sahilll15/DSA/tree/master/0731-my-calendar-ii) |
