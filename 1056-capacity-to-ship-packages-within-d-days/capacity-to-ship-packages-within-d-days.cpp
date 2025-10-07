@@ -5,7 +5,7 @@ public:
         int end = accumulate(weights.begin(), weights.end(), 0);
         int ans = end;
 
-        while (start <= end) {
+        while (start < end) {
             int mid = start + (end - start) / 2;
 
             
@@ -20,7 +20,7 @@ public:
 
             if (daysNeeded <= days) {
                 ans = mid;
-                end = mid - 1; 
+                end = mid ; 
             } else {
                 start = mid + 1; 
             }
