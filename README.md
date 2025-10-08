@@ -450,6 +450,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1538-maximum-points-you-can-obtain-from-cards](https://github.com/Sahilll15/DSA/tree/master/1538-maximum-points-you-can-obtain-from-cards) |
 | [1556-make-two-arrays-equal-by-reversing-subarrays](https://github.com/Sahilll15/DSA/tree/master/1556-make-two-arrays-equal-by-reversing-subarrays) |
 | [1615-range-sum-of-sorted-subarray-sums](https://github.com/Sahilll15/DSA/tree/master/1615-range-sum-of-sorted-subarray-sums) |
+| [1646-kth-missing-positive-number](https://github.com/Sahilll15/DSA/tree/master/1646-kth-missing-positive-number) |
 | [1677-matrix-diagonal-sum](https://github.com/Sahilll15/DSA/tree/master/1677-matrix-diagonal-sum) |
 | [1691-minimum-number-of-days-to-disconnect-island](https://github.com/Sahilll15/DSA/tree/master/1691-minimum-number-of-days-to-disconnect-island) |
 | [1693-sum-of-all-odd-length-subarrays](https://github.com/Sahilll15/DSA/tree/master/1693-sum-of-all-odd-length-subarrays) |
@@ -555,6 +556,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1408-find-the-smallest-divisor-given-a-threshold](https://github.com/Sahilll15/DSA/tree/master/1408-find-the-smallest-divisor-given-a-threshold) |
 | [1476-count-negative-numbers-in-a-sorted-matrix](https://github.com/Sahilll15/DSA/tree/master/1476-count-negative-numbers-in-a-sorted-matrix) |
 | [1615-range-sum-of-sorted-subarray-sums](https://github.com/Sahilll15/DSA/tree/master/1615-range-sum-of-sorted-subarray-sums) |
+| [1646-kth-missing-positive-number](https://github.com/Sahilll15/DSA/tree/master/1646-kth-missing-positive-number) |
 | [2006-find-the-student-that-will-replace-the-chalk](https://github.com/Sahilll15/DSA/tree/master/2006-find-the-student-that-will-replace-the-chalk) |
 | [2634-minimum-common-value](https://github.com/Sahilll15/DSA/tree/master/2634-minimum-common-value) |
 ## Matrix
