@@ -1,4 +1,4 @@
-<h2><a href="https://leetcode.com/problems/kth-missing-positive-number">1646. Kth Missing Positive Number</a></h2><h3>Easy</h3><hr><p>Given an array <code>arr</code> of positive integers sorted in a <strong>strictly increasing order</strong>, and an integer <code>k</code>.</p>
+<h2><a href="https://leetcode.com/problems/kth-missing-positive-number">Kth Missing Positive Number</a></h2> <img src='https://img.shields.io/badge/Difficulty-Easy-brightgreen' alt='Difficulty: Easy' /><hr><p>Given an array <code>arr</code> of positive integers sorted in a <strong>strictly increasing order</strong>, and an integer <code>k</code>.</p>
 
 <p>Return <em>the</em> <code>k<sup>th</sup></code> <em><strong>positive</strong> integer that is <strong>missing</strong> from this array.</em></p>
 
