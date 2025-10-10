@@ -1,34 +1,32 @@
 class Solution {
 public:
-    bool bs(vector<int> arr, int target) {
-        int left = 0;
-        int right = arr.size() - 1;
+    bool searchMatrix(vector<vector<int>>& matrix, int target) {
+        int ans = 0;
+        int m = matrix.size();
+        int n = matrix[0].size();
+        for (int i = 0; i < m; i++) {
 
-        while (left <= right) {
-            int mid = left + (right - left) / 2;
-
-            if (arr[mid] == target) {
-                return true;
-            } else if (target > arr[mid]) {
-                left = mid + 1;
-            } else {
-                right = mid - 1;
+            if (target >= matrix[i][0] && target <= matrix[i][n - 1]) {
+                ans = binary_search(matrix[i], target);
             }
         }
-        return false;
+
+        return ans;
     }
 
-    bool searchMatrix(vector<vector<int>>& matrix, int target) {
-        int n = matrix.size();
-        int m = matrix[0].size();
+    bool binary_search(vector<int>& matrix, int target) {
+        int start = 0;
+        int end = matrix.size() - 1;
 
-        for (int i = 0; i < n; i++) {
-            if (target > matrix[i][m - 1]) {
-                continue;  
-            } else if (target <= matrix[i][m - 1]) {
-                if (bs(matrix[i], target) == true) {
-                    return true;
-                }
+        while (start <= end) {
+            int mid = start + (end - start) / 2;
+
+            if (matrix[mid] == target) {
+                return true;
+            } else if (matrix[mid] > target) {
+                end = mid - 1;
+            } else {
+                start = mid + 1;
             }
         }
 
