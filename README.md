@@ -620,6 +620,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0076-minimum-window-substring](https://github.com/Sahilll15/DSA/tree/master/0076-minimum-window-substring) |
 | [0128-longest-consecutive-sequence](https://github.com/Sahilll15/DSA/tree/master/0128-longest-consecutive-sequence) |
 | [0138-copy-list-with-random-pointer](https://github.com/Sahilll15/DSA/tree/master/0138-copy-list-with-random-pointer) |
+| [0160-intersection-of-two-linked-lists](https://github.com/Sahilll15/DSA/tree/master/0160-intersection-of-two-linked-lists) |
 | [0217-contains-duplicate](https://github.com/Sahilll15/DSA/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/Sahilll15/DSA/tree/master/0242-valid-anagram) |
 | [0264-ugly-number-ii](https://github.com/Sahilll15/DSA/tree/master/0264-ugly-number-ii) |
@@ -769,6 +770,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0088-merge-sorted-array](https://github.com/Sahilll15/DSA/tree/master/0088-merge-sorted-array) |
 | [0125-valid-palindrome](https://github.com/Sahilll15/DSA/tree/master/0125-valid-palindrome) |
 | [0143-reorder-list](https://github.com/Sahilll15/DSA/tree/master/0143-reorder-list) |
+| [0160-intersection-of-two-linked-lists](https://github.com/Sahilll15/DSA/tree/master/0160-intersection-of-two-linked-lists) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Sahilll15/DSA/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0189-rotate-array](https://github.com/Sahilll15/DSA/tree/master/0189-rotate-array) |
 | [0234-palindrome-linked-list](https://github.com/Sahilll15/DSA/tree/master/0234-palindrome-linked-list) |
@@ -814,6 +816,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0083-remove-duplicates-from-sorted-list](https://github.com/Sahilll15/DSA/tree/master/0083-remove-duplicates-from-sorted-list) |
 | [0138-copy-list-with-random-pointer](https://github.com/Sahilll15/DSA/tree/master/0138-copy-list-with-random-pointer) |
 | [0143-reorder-list](https://github.com/Sahilll15/DSA/tree/master/0143-reorder-list) |
+| [0160-intersection-of-two-linked-lists](https://github.com/Sahilll15/DSA/tree/master/0160-intersection-of-two-linked-lists) |
 | [0206-reverse-linked-list](https://github.com/Sahilll15/DSA/tree/master/0206-reverse-linked-list) |
 | [0234-palindrome-linked-list](https://github.com/Sahilll15/DSA/tree/master/0234-palindrome-linked-list) |
 | [0859-design-circular-deque](https://github.com/Sahilll15/DSA/tree/master/0859-design-circular-deque) |
