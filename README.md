@@ -450,6 +450,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1511-count-number-of-teams](https://github.com/Sahilll15/DSA/tree/master/1511-count-number-of-teams) |
 | [1538-maximum-points-you-can-obtain-from-cards](https://github.com/Sahilll15/DSA/tree/master/1538-maximum-points-you-can-obtain-from-cards) |
 | [1556-make-two-arrays-equal-by-reversing-subarrays](https://github.com/Sahilll15/DSA/tree/master/1556-make-two-arrays-equal-by-reversing-subarrays) |
+| [1582-design-browser-history](https://github.com/Sahilll15/DSA/tree/master/1582-design-browser-history) |
 | [1615-range-sum-of-sorted-subarray-sums](https://github.com/Sahilll15/DSA/tree/master/1615-range-sum-of-sorted-subarray-sums) |
 | [1646-kth-missing-positive-number](https://github.com/Sahilll15/DSA/tree/master/1646-kth-missing-positive-number) |
 | [1677-matrix-diagonal-sum](https://github.com/Sahilll15/DSA/tree/master/1677-matrix-diagonal-sum) |
@@ -502,6 +503,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1298-reverse-substrings-between-each-pair-of-parentheses](https://github.com/Sahilll15/DSA/tree/master/1298-reverse-substrings-between-each-pair-of-parentheses) |
 | [1320-remove-all-adjacent-duplicates-in-string-ii](https://github.com/Sahilll15/DSA/tree/master/1320-remove-all-adjacent-duplicates-in-string-ii) |
 | [1497-design-a-stack-with-increment-operation](https://github.com/Sahilll15/DSA/tree/master/1497-design-a-stack-with-increment-operation) |
+| [1582-design-browser-history](https://github.com/Sahilll15/DSA/tree/master/1582-design-browser-history) |
 | [1720-crawler-log-folder](https://github.com/Sahilll15/DSA/tree/master/1720-crawler-log-folder) |
 | [1756-minimum-deletions-to-make-string-balanced](https://github.com/Sahilll15/DSA/tree/master/1756-minimum-deletions-to-make-string-balanced) |
 ## Sorting
@@ -822,6 +824,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0859-design-circular-deque](https://github.com/Sahilll15/DSA/tree/master/0859-design-circular-deque) |
 | [0908-middle-of-the-linked-list](https://github.com/Sahilll15/DSA/tree/master/0908-middle-of-the-linked-list) |
 | [1484-linked-list-in-binary-tree](https://github.com/Sahilll15/DSA/tree/master/1484-linked-list-in-binary-tree) |
+| [1582-design-browser-history](https://github.com/Sahilll15/DSA/tree/master/1582-design-browser-history) |
 | [2411-spiral-matrix-iv](https://github.com/Sahilll15/DSA/tree/master/2411-spiral-matrix-iv) |
 | [2903-insert-greatest-common-divisors-in-linked-list](https://github.com/Sahilll15/DSA/tree/master/2903-insert-greatest-common-divisors-in-linked-list) |
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/Sahilll15/DSA/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
@@ -968,6 +971,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0789-kth-largest-element-in-a-stream](https://github.com/Sahilll15/DSA/tree/master/0789-kth-largest-element-in-a-stream) |
 | [0859-design-circular-deque](https://github.com/Sahilll15/DSA/tree/master/0859-design-circular-deque) |
 | [1497-design-a-stack-with-increment-operation](https://github.com/Sahilll15/DSA/tree/master/1497-design-a-stack-with-increment-operation) |
+| [1582-design-browser-history](https://github.com/Sahilll15/DSA/tree/master/1582-design-browser-history) |
 ## Randomized
 |  |
 | ------- |
@@ -1060,6 +1064,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0789-kth-largest-element-in-a-stream](https://github.com/Sahilll15/DSA/tree/master/0789-kth-largest-element-in-a-stream) |
+| [1582-design-browser-history](https://github.com/Sahilll15/DSA/tree/master/1582-design-browser-history) |
 ## Game Theory
 |  |
 | ------- |
@@ -1103,4 +1108,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [2324-find-triangular-sum-of-an-array](https://github.com/Sahilll15/DSA/tree/master/2324-find-triangular-sum-of-an-array) |
+## Doubly-Linked List
+|  |
+| ------- |
+| [1582-design-browser-history](https://github.com/Sahilll15/DSA/tree/master/1582-design-browser-history) |
 <!---LeetCode Topics End-->
