@@ -499,6 +499,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0145-binary-tree-postorder-traversal](https://github.com/Sahilll15/DSA/tree/master/0145-binary-tree-postorder-traversal) |
 | [0234-palindrome-linked-list](https://github.com/Sahilll15/DSA/tree/master/0234-palindrome-linked-list) |
 | [0776-n-ary-tree-postorder-traversal](https://github.com/Sahilll15/DSA/tree/master/0776-n-ary-tree-postorder-traversal) |
+| [0874-backspace-string-compare](https://github.com/Sahilll15/DSA/tree/master/0874-backspace-string-compare) |
 | [0883-car-fleet](https://github.com/Sahilll15/DSA/tree/master/0883-car-fleet) |
 | [1128-remove-all-adjacent-duplicates-in-string](https://github.com/Sahilll15/DSA/tree/master/1128-remove-all-adjacent-duplicates-in-string) |
 | [1298-reverse-substrings-between-each-pair-of-parentheses](https://github.com/Sahilll15/DSA/tree/master/1298-reverse-substrings-between-each-pair-of-parentheses) |
@@ -679,6 +680,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0564-find-the-closest-palindrome](https://github.com/Sahilll15/DSA/tree/master/0564-find-the-closest-palindrome) |
 | [0567-permutation-in-string](https://github.com/Sahilll15/DSA/tree/master/0567-permutation-in-string) |
 | [0592-fraction-addition-and-subtraction](https://github.com/Sahilll15/DSA/tree/master/0592-fraction-addition-and-subtraction) |
+| [0874-backspace-string-compare](https://github.com/Sahilll15/DSA/tree/master/0874-backspace-string-compare) |
 | [0920-uncommon-words-from-two-sentences](https://github.com/Sahilll15/DSA/tree/master/0920-uncommon-words-from-two-sentences) |
 | [1128-remove-all-adjacent-duplicates-in-string](https://github.com/Sahilll15/DSA/tree/master/1128-remove-all-adjacent-duplicates-in-string) |
 | [1298-reverse-substrings-between-each-pair-of-parentheses](https://github.com/Sahilll15/DSA/tree/master/1298-reverse-substrings-between-each-pair-of-parentheses) |
@@ -782,6 +784,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0350-intersection-of-two-arrays-ii](https://github.com/Sahilll15/DSA/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0567-permutation-in-string](https://github.com/Sahilll15/DSA/tree/master/0567-permutation-in-string) |
 | [0719-find-k-th-smallest-pair-distance](https://github.com/Sahilll15/DSA/tree/master/0719-find-k-th-smallest-pair-distance) |
+| [0874-backspace-string-compare](https://github.com/Sahilll15/DSA/tree/master/0874-backspace-string-compare) |
 | [0908-middle-of-the-linked-list](https://github.com/Sahilll15/DSA/tree/master/0908-middle-of-the-linked-list) |
 | [1019-squares-of-a-sorted-array](https://github.com/Sahilll15/DSA/tree/master/1019-squares-of-a-sorted-array) |
 | [1615-range-sum-of-sorted-subarray-sums](https://github.com/Sahilll15/DSA/tree/master/1615-range-sum-of-sorted-subarray-sums) |
@@ -997,6 +1000,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0592-fraction-addition-and-subtraction](https://github.com/Sahilll15/DSA/tree/master/0592-fraction-addition-and-subtraction) |
+| [0874-backspace-string-compare](https://github.com/Sahilll15/DSA/tree/master/0874-backspace-string-compare) |
 | [0906-walking-robot-simulation](https://github.com/Sahilll15/DSA/tree/master/0906-walking-robot-simulation) |
 | [0921-spiral-matrix-iii](https://github.com/Sahilll15/DSA/tree/master/0921-spiral-matrix-iii) |
 | [1642-water-bottles](https://github.com/Sahilll15/DSA/tree/master/1642-water-bottles) |
