@@ -426,6 +426,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0745-find-smallest-letter-greater-than-target](https://github.com/Sahilll15/DSA/tree/master/0745-find-smallest-letter-greater-than-target) |
 | [0792-binary-search](https://github.com/Sahilll15/DSA/tree/master/0792-binary-search) |
 | [0859-design-circular-deque](https://github.com/Sahilll15/DSA/tree/master/0859-design-circular-deque) |
+| [0860-design-circular-queue](https://github.com/Sahilll15/DSA/tree/master/0860-design-circular-queue) |
 | [0870-magic-squares-in-grid](https://github.com/Sahilll15/DSA/tree/master/0870-magic-squares-in-grid) |
 | [0882-peak-index-in-a-mountain-array](https://github.com/Sahilll15/DSA/tree/master/0882-peak-index-in-a-mountain-array) |
 | [0883-car-fleet](https://github.com/Sahilll15/DSA/tree/master/0883-car-fleet) |
@@ -794,6 +795,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0239-sliding-window-maximum](https://github.com/Sahilll15/DSA/tree/master/0239-sliding-window-maximum) |
 | [0387-first-unique-character-in-a-string](https://github.com/Sahilll15/DSA/tree/master/0387-first-unique-character-in-a-string) |
 | [0859-design-circular-deque](https://github.com/Sahilll15/DSA/tree/master/0859-design-circular-deque) |
+| [0860-design-circular-queue](https://github.com/Sahilll15/DSA/tree/master/0860-design-circular-queue) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/Sahilll15/DSA/tree/master/1951-find-the-winner-of-the-circular-game) |
 | [2195-time-needed-to-buy-tickets](https://github.com/Sahilll15/DSA/tree/master/2195-time-needed-to-buy-tickets) |
 ## Heap (Priority Queue)
@@ -822,6 +824,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0206-reverse-linked-list](https://github.com/Sahilll15/DSA/tree/master/0206-reverse-linked-list) |
 | [0234-palindrome-linked-list](https://github.com/Sahilll15/DSA/tree/master/0234-palindrome-linked-list) |
 | [0859-design-circular-deque](https://github.com/Sahilll15/DSA/tree/master/0859-design-circular-deque) |
+| [0860-design-circular-queue](https://github.com/Sahilll15/DSA/tree/master/0860-design-circular-queue) |
 | [0908-middle-of-the-linked-list](https://github.com/Sahilll15/DSA/tree/master/0908-middle-of-the-linked-list) |
 | [1484-linked-list-in-binary-tree](https://github.com/Sahilll15/DSA/tree/master/1484-linked-list-in-binary-tree) |
 | [1582-design-browser-history](https://github.com/Sahilll15/DSA/tree/master/1582-design-browser-history) |
@@ -970,6 +973,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0731-my-calendar-ii](https://github.com/Sahilll15/DSA/tree/master/0731-my-calendar-ii) |
 | [0789-kth-largest-element-in-a-stream](https://github.com/Sahilll15/DSA/tree/master/0789-kth-largest-element-in-a-stream) |
 | [0859-design-circular-deque](https://github.com/Sahilll15/DSA/tree/master/0859-design-circular-deque) |
+| [0860-design-circular-queue](https://github.com/Sahilll15/DSA/tree/master/0860-design-circular-queue) |
 | [1497-design-a-stack-with-increment-operation](https://github.com/Sahilll15/DSA/tree/master/1497-design-a-stack-with-increment-operation) |
 | [1582-design-browser-history](https://github.com/Sahilll15/DSA/tree/master/1582-design-browser-history) |
 ## Randomized
