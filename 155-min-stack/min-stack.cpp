@@ -1,36 +1,32 @@
-#include <stack>
-#include <utility>
-
 class MinStack {
-private:
-    std::stack<std::pair<int, int>> st;
-
 public:
-    MinStack() {}
-
+    std::stack<std::pair<int, int>> main_stack;
+    MinStack() {
+        
+    }
+    
     void push(int val) {
-        int minVal = st.empty() ? val : std::min(val, st.top().second);
-        st.push(std::make_pair(val, minVal));
-    }
+        if(main_stack.empty()){
+            main_stack.push({val,val});
+        }else{
+            int current_min=main_stack.top().second;
 
+            main_stack.push({val,min(current_min,val)});
+        }
+    }
+    
     void pop() {
-        if (!st.empty()) {
-            st.pop();
+        if(!main_stack.empty()){
+            main_stack.pop();
         }
     }
-
+    
     int top() {
-        if (!st.empty()) {
-            return st.top().first;
-        }
-        throw std::out_of_range("Stack is empty");
+        return main_stack.top().first;
     }
-
+    
     int getMin() {
-        if (!st.empty()) {
-            return st.top().second;
-        }
-        throw std::out_of_range("Stack is empty");
+        return main_stack.top().second;
     }
 };
 
