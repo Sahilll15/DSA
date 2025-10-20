@@ -507,6 +507,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0155-min-stack](https://github.com/Sahilll15/DSA/tree/master/0155-min-stack) |
 | [0234-palindrome-linked-list](https://github.com/Sahilll15/DSA/tree/master/0234-palindrome-linked-list) |
 | [0394-decode-string](https://github.com/Sahilll15/DSA/tree/master/0394-decode-string) |
+| [0402-remove-k-digits](https://github.com/Sahilll15/DSA/tree/master/0402-remove-k-digits) |
 | [0496-next-greater-element-i](https://github.com/Sahilll15/DSA/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/Sahilll15/DSA/tree/master/0503-next-greater-element-ii) |
 | [0739-daily-temperatures](https://github.com/Sahilll15/DSA/tree/master/0739-daily-temperatures) |
@@ -551,6 +552,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0042-trapping-rain-water](https://github.com/Sahilll15/DSA/tree/master/0042-trapping-rain-water) |
 | [0084-largest-rectangle-in-histogram](https://github.com/Sahilll15/DSA/tree/master/0084-largest-rectangle-in-histogram) |
+| [0402-remove-k-digits](https://github.com/Sahilll15/DSA/tree/master/0402-remove-k-digits) |
 | [0496-next-greater-element-i](https://github.com/Sahilll15/DSA/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/Sahilll15/DSA/tree/master/0503-next-greater-element-ii) |
 | [0739-daily-temperatures](https://github.com/Sahilll15/DSA/tree/master/0739-daily-temperatures) |
@@ -695,6 +697,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0273-integer-to-english-words](https://github.com/Sahilll15/DSA/tree/master/0273-integer-to-english-words) |
 | [0387-first-unique-character-in-a-string](https://github.com/Sahilll15/DSA/tree/master/0387-first-unique-character-in-a-string) |
 | [0394-decode-string](https://github.com/Sahilll15/DSA/tree/master/0394-decode-string) |
+| [0402-remove-k-digits](https://github.com/Sahilll15/DSA/tree/master/0402-remove-k-digits) |
 | [0424-longest-repeating-character-replacement](https://github.com/Sahilll15/DSA/tree/master/0424-longest-repeating-character-replacement) |
 | [0539-minimum-time-difference](https://github.com/Sahilll15/DSA/tree/master/0539-minimum-time-difference) |
 | [0564-find-the-closest-palindrome](https://github.com/Sahilll15/DSA/tree/master/0564-find-the-closest-palindrome) |
@@ -986,6 +989,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0055-jump-game](https://github.com/Sahilll15/DSA/tree/master/0055-jump-game) |
 | [0134-gas-station](https://github.com/Sahilll15/DSA/tree/master/0134-gas-station) |
 | [0179-largest-number](https://github.com/Sahilll15/DSA/tree/master/0179-largest-number) |
+| [0402-remove-k-digits](https://github.com/Sahilll15/DSA/tree/master/0402-remove-k-digits) |
 | [0624-maximum-distance-in-arrays](https://github.com/Sahilll15/DSA/tree/master/0624-maximum-distance-in-arrays) |
 | [0890-lemonade-change](https://github.com/Sahilll15/DSA/tree/master/0890-lemonade-change) |
 | [3275-minimum-number-of-pushes-to-type-word-i](https://github.com/Sahilll15/DSA/tree/master/3275-minimum-number-of-pushes-to-type-word-i) |
