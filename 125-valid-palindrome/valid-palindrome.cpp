@@ -1,25 +1,24 @@
 class Solution {
 public:
     bool isPalindrome(string s) {
-        
-        vector<char> chars;
+        string cleaned;
+    for(char c : s) {
+        if(isalnum(c)) {          
+            cleaned += tolower(c); 
+        }
+    }
 
-        for(auto c:s){
-            if(isalnum(c)){
-                chars.push_back(tolower(c));
-            }
+    int start=0;
+    int end=cleaned.size()-1;
+
+    while(start<end){
+        if(cleaned[start]!=cleaned[end]){
+            return false;
         }
 
-        int left=0;
-        int right=chars.size()-1;
-
-        while(left<=right){
-            if(chars[left]!=chars[right]){
-                return false;
-            }
-            left++;
-            right--;
-        }
+        start++;
+        end--;
+    }
 
     return true;
     }
