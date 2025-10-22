@@ -1,28 +1,20 @@
-#include <limits.h>
-#include <algorithm>
-
 class Solution {
 public:
-    int minSubArrayLen(int target, std::vector<int>& nums) {
-        int n = nums.size();
-        int minLength = INT_MAX;
-        int currentSum = 0;
-        int left = 0;
+    int minSubArrayLen(int target, vector<int>& nums) {
+        int left=0;
+        int minLen=INT_MAX;
+        int n=nums.size();
+        int sum=0;
+        for(int right=0;right<n;right++){
+             sum+=nums[right];
 
-        
-        for (int right = 0; right < n; right++) {
-            currentSum += nums[right];
-
-            while (currentSum >= target) {
-              
-                minLength = std::min(minLength, right - left + 1);
-                
-            
-                currentSum -= nums[left];
+            while(sum>=target){
+                minLen=min(minLen,right-left+1);
+                sum-=nums[left];
                 left++;
             }
         }
 
-        return (minLength == INT_MAX) ? 0 : minLength;
+        return (minLen == INT_MAX) ? 0 : minLen;
     }
 };
