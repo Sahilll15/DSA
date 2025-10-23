@@ -1,30 +1,22 @@
 class Solution {
 public:
-    void swap(int& ele1, int& ele2, vector<int>& nums) {
-        int temp = nums[ele1];
-        nums[ele1] = nums[ele2];
-        nums[ele2] = temp;
-    }
-    
     int removeElement(vector<int>& nums, int val) {
+        int n = nums.size();
         int left = 0;
-        int right = nums.size() - 1;
+        int right = n - 1;
 
         while (left <= right) {
-            while (left <= right && nums[left] != val) {
+            if (nums[left] == val && nums[right] != val) {
+                swap(nums[left], nums[right]);
                 left++;
-            }
-            while (left <= right && nums[right] == val) {
                 right--;
-            }
-
-            if (left < right) {
-                swap(left, right, nums);
+            } else if (nums[left] != val) {
                 left++;
+            } else { 
                 right--;
             }
         }
 
-        return left;
+        return left; 
     }
 };
