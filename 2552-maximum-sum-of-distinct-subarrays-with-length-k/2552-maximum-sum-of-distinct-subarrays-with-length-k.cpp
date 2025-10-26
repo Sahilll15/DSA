@@ -7,16 +7,14 @@ public:
 
         long long sum = 0;
         for (int j = 0; j < nums.size(); j++) {
-            if (map.count(nums[j])) {
 
-                while (map.count(nums[j])) {
-                    sum -= nums[i];
-                    map.erase(nums[i]);
-                    i++;
-                }
+            while (map.count(nums[j])) {
+                sum -= nums[i];
+                map.erase(nums[i]);
+                i++;
             }
 
-            sum = sum +(long long) nums[j];
+            sum = sum + (long long)nums[j];
             map[nums[j]] = j;
 
             while (j - i + 1 > k) {
@@ -25,8 +23,8 @@ public:
                 i++;
             }
 
-            if(j-i+1 == k){
-                maxLen = max(maxLen,(long long) sum);
+            if (j - i + 1 == k) {
+                maxLen = max(maxLen, (long long)sum);
             }
         }
 
