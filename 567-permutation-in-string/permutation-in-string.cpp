@@ -1,32 +1,24 @@
-#include <algorithm>
-#include <string>
-
 class Solution {
 public:
-    bool checkInclusion(std::string s1, std::string s2) {
-        int windowSize = s1.size();
-        
-        if (windowSize > s2.size()) {
-            return false;
+    bool checkInclusion(string s1, string s2) {
+        vector<int> s1Char(26,0);
+        vector<int> windowChar(26,0);
+
+        for(char ch:s1){
+            s1Char[ch-'a']++;
         }
-        
-        int l = 0;
-        int r = windowSize;
+        int i=0;
+        for(int j=0;j<s2.size();j++){
+            char ch=s2[j];
+            windowChar[ch-'a']++;
 
-        std::string s1Sorted = s1;
-        std::sort(s1Sorted.begin(), s1Sorted.end());
+            if(j-i+1 > s1.size()){
+                windowChar[s2[i]-'a']--;
+                i++;
+            }
 
-        while (r <= s2.size()) {
-            std::string value = s2.substr(l, windowSize);
-            
-            std::string valueSorted = value;
-            std::sort(valueSorted.begin(), valueSorted.end());
-
-            if (valueSorted == s1Sorted) {
+            if(windowChar==s1Char){
                 return true;
-            } else {
-                l++;
-                r++;
             }
         }
         return false;
