@@ -420,6 +420,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0496-next-greater-element-i](https://github.com/Sahilll15/DSA/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/Sahilll15/DSA/tree/master/0503-next-greater-element-ii) |
 | [0523-continuous-subarray-sum](https://github.com/Sahilll15/DSA/tree/master/0523-continuous-subarray-sum) |
+| [0525-contiguous-array](https://github.com/Sahilll15/DSA/tree/master/0525-contiguous-array) |
 | [0539-minimum-time-difference](https://github.com/Sahilll15/DSA/tree/master/0539-minimum-time-difference) |
 | [0540-single-element-in-a-sorted-array](https://github.com/Sahilll15/DSA/tree/master/0540-single-element-in-a-sorted-array) |
 | [0560-subarray-sum-equals-k](https://github.com/Sahilll15/DSA/tree/master/0560-subarray-sum-equals-k) |
@@ -668,6 +669,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0442-find-all-duplicates-in-an-array](https://github.com/Sahilll15/DSA/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0496-next-greater-element-i](https://github.com/Sahilll15/DSA/tree/master/0496-next-greater-element-i) |
 | [0523-continuous-subarray-sum](https://github.com/Sahilll15/DSA/tree/master/0523-continuous-subarray-sum) |
+| [0525-contiguous-array](https://github.com/Sahilll15/DSA/tree/master/0525-contiguous-array) |
 | [0560-subarray-sum-equals-k](https://github.com/Sahilll15/DSA/tree/master/0560-subarray-sum-equals-k) |
 | [0567-permutation-in-string](https://github.com/Sahilll15/DSA/tree/master/0567-permutation-in-string) |
 | [0870-magic-squares-in-grid](https://github.com/Sahilll15/DSA/tree/master/0870-magic-squares-in-grid) |
@@ -1040,6 +1042,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0238-product-of-array-except-self](https://github.com/Sahilll15/DSA/tree/master/0238-product-of-array-except-self) |
 | [0303-range-sum-query-immutable](https://github.com/Sahilll15/DSA/tree/master/0303-range-sum-query-immutable) |
 | [0523-continuous-subarray-sum](https://github.com/Sahilll15/DSA/tree/master/0523-continuous-subarray-sum) |
+| [0525-contiguous-array](https://github.com/Sahilll15/DSA/tree/master/0525-contiguous-array) |
 | [0560-subarray-sum-equals-k](https://github.com/Sahilll15/DSA/tree/master/0560-subarray-sum-equals-k) |
 | [0731-my-calendar-ii](https://github.com/Sahilll15/DSA/tree/master/0731-my-calendar-ii) |
 | [1046-max-consecutive-ones-iii](https://github.com/Sahilll15/DSA/tree/master/1046-max-consecutive-ones-iii) |
