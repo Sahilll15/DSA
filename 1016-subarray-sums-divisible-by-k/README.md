@@ -1,4 +1,4 @@
-<h2><a href="https://leetcode.com/problems/subarray-sums-divisible-by-k">1016. Subarray Sums Divisible by K</a></h2><h3>Medium</h3><hr><p>Given an integer array <code>nums</code> and an integer <code>k</code>, return <em>the number of non-empty <strong>subarrays</strong> that have a sum divisible by </em><code>k</code>.</p>
+<h2><a href="https://leetcode.com/problems/subarray-sums-divisible-by-k">Subarray Sums Divisible by K</a></h2> <img src='https://img.shields.io/badge/Difficulty-Medium-orange' alt='Difficulty: Medium' /><hr><p>Given an integer array <code>nums</code> and an integer <code>k</code>, return <em>the number of non-empty <strong>subarrays</strong> that have a sum divisible by </em><code>k</code>.</p>
 
 <p>A <strong>subarray</strong> is a <strong>contiguous</strong> part of an array.</p>
 
