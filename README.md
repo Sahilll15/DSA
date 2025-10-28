@@ -463,6 +463,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1538-maximum-points-you-can-obtain-from-cards](https://github.com/Sahilll15/DSA/tree/master/1538-maximum-points-you-can-obtain-from-cards) |
 | [1556-make-two-arrays-equal-by-reversing-subarrays](https://github.com/Sahilll15/DSA/tree/master/1556-make-two-arrays-equal-by-reversing-subarrays) |
 | [1582-design-browser-history](https://github.com/Sahilll15/DSA/tree/master/1582-design-browser-history) |
+| [1603-running-sum-of-1d-array](https://github.com/Sahilll15/DSA/tree/master/1603-running-sum-of-1d-array) |
 | [1615-range-sum-of-sorted-subarray-sums](https://github.com/Sahilll15/DSA/tree/master/1615-range-sum-of-sorted-subarray-sums) |
 | [1646-kth-missing-positive-number](https://github.com/Sahilll15/DSA/tree/master/1646-kth-missing-positive-number) |
 | [1677-matrix-diagonal-sum](https://github.com/Sahilll15/DSA/tree/master/1677-matrix-diagonal-sum) |
@@ -1050,6 +1051,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1435-xor-queries-of-a-subarray](https://github.com/Sahilll15/DSA/tree/master/1435-xor-queries-of-a-subarray) |
 | [1473-find-the-longest-substring-containing-vowels-in-even-counts](https://github.com/Sahilll15/DSA/tree/master/1473-find-the-longest-substring-containing-vowels-in-even-counts) |
 | [1538-maximum-points-you-can-obtain-from-cards](https://github.com/Sahilll15/DSA/tree/master/1538-maximum-points-you-can-obtain-from-cards) |
+| [1603-running-sum-of-1d-array](https://github.com/Sahilll15/DSA/tree/master/1603-running-sum-of-1d-array) |
 | [1693-sum-of-all-odd-length-subarrays](https://github.com/Sahilll15/DSA/tree/master/1693-sum-of-all-odd-length-subarrays) |
 | [2006-find-the-student-that-will-replace-the-chalk](https://github.com/Sahilll15/DSA/tree/master/2006-find-the-student-that-will-replace-the-chalk) |
 ## Simulation
