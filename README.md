@@ -506,6 +506,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3469-maximum-height-of-a-triangle](https://github.com/Sahilll15/DSA/tree/master/3469-maximum-height-of-a-triangle) |
 | [3476-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/Sahilll15/DSA/tree/master/3476-find-minimum-operations-to-make-all-elements-divisible-by-three) |
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/Sahilll15/DSA/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
+| [3581-the-two-sneaky-numbers-of-digitville](https://github.com/Sahilll15/DSA/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
 | [4009-bitwise-or-of-even-numbers-in-an-array](https://github.com/Sahilll15/DSA/tree/master/4009-bitwise-or-of-even-numbers-in-an-array) |
 ## Stack
 |  |
@@ -703,6 +704,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3276-minimum-number-of-pushes-to-type-word-ii](https://github.com/Sahilll15/DSA/tree/master/3276-minimum-number-of-pushes-to-type-word-ii) |
 | [3329-find-the-length-of-the-longest-common-prefix](https://github.com/Sahilll15/DSA/tree/master/3329-find-the-length-of-the-longest-common-prefix) |
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/Sahilll15/DSA/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
+| [3581-the-two-sneaky-numbers-of-digitville](https://github.com/Sahilll15/DSA/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
 ## String
 |  |
 | ------- |
@@ -972,6 +974,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2903-insert-greatest-common-divisors-in-linked-list](https://github.com/Sahilll15/DSA/tree/master/2903-insert-greatest-common-divisors-in-linked-list) |
 | [3275-minimum-number-of-pushes-to-type-word-i](https://github.com/Sahilll15/DSA/tree/master/3275-minimum-number-of-pushes-to-type-word-i) |
 | [3476-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/Sahilll15/DSA/tree/master/3476-find-minimum-operations-to-make-all-elements-divisible-by-three) |
+| [3581-the-two-sneaky-numbers-of-digitville](https://github.com/Sahilll15/DSA/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
 ## String Matching
 |  |
 | ------- |
