@@ -1,4 +1,4 @@
-<h2><a href="https://leetcode.com/problems/find-x-sum-of-all-k-long-subarrays-i">3610. Find X-Sum of All K-Long Subarrays I</a></h2><h3>Easy</h3><hr><p>You are given an array <code>nums</code> of <code>n</code> integers and two integers <code>k</code> and <code>x</code>.</p>
+<h2><a href="https://leetcode.com/problems/find-x-sum-of-all-k-long-subarrays-i">Find X-Sum of All K-Long Subarrays I</a></h2> <img src='https://img.shields.io/badge/Difficulty-Easy-brightgreen' alt='Difficulty: Easy' /><hr><p>You are given an array <code>nums</code> of <code>n</code> integers and two integers <code>k</code> and <code>x</code>.</p>
 
 <p>The <strong>x-sum</strong> of an array is calculated by the following procedure:</p>
 
