@@ -1,0 +1,27 @@
+class Solution {
+  public:
+    vector<int> subsetSums(vector<int>& nums) {
+        vector<int>ans;
+        vector<int> ds;
+
+        subSet(0,nums,ds,ans);
+
+        return ans;
+    }
+
+    void subSet(int index,vector<int>& nums,vector<int>& ds,vector<int>& ans){
+      if(index==nums.size()){
+        int sum=0;
+        for(int i=0;i<ds.size();i++){
+          sum+=ds[i];
+        }
+        ans.push_back(sum);
+        return;
+      }
+
+      ds.push_back(nums[index]);
+      subSet(index+1,nums,ds,ans);
+      ds.pop_back();
+       subSet(index+1,nums,ds,ans);
+    }
+};
