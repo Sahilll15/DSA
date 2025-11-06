@@ -1,25 +1,31 @@
 class Solution {
 public:
-    void backTrack(set<vector<int>> &ans, vector<int> temp, vector<int> &nums, int start) {
-        ans.insert(temp);  
+    vector<vector<int>> subsetsWithDup(vector<int>& nums) {
+        sort(nums.begin(), nums.end()); 
+        set<vector<int>> ansSet;
+        vector<int> ds;
 
-        for (int i = start; i < nums.size(); i++) {
-            temp.push_back(nums[i]);
-            backTrack(ans, temp, nums, i + 1);  
-            temp.pop_back();  
-        }
+        genSub(0,nums,ds,ansSet);
+
+        vector<vector<int>> ans;
+
+        for (auto &v : ansSet) {
+            ans.push_back(v);
     }
 
-    vector<vector<int>> subsetsWithDup(vector<int>& nums) {
-        set<vector<int>> currentds;  
-        vector<int> temp;
-
-        sort(nums.begin(), nums.end());  
-        backTrack(currentds, temp, nums, 0);
-
-       
-        vector<vector<int>> ans(currentds.begin(), currentds.end());
 
         return ans;
+    }
+
+    void genSub(int i,vector<int>& nums,vector<int>& ds,set<vector<int>>& ans){
+        if(i==nums.size()){
+            ans.insert(ds);
+            return;
+        }
+
+        ds.push_back(nums[i]);
+        genSub(i+1,nums,ds,ans);
+        ds.pop_back();
+        genSub(i+1,nums,ds,ans);
     }
 };
