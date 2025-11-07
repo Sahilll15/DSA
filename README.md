@@ -406,6 +406,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0189-rotate-array](https://github.com/Sahilll15/DSA/tree/master/0189-rotate-array) |
 | [0200-number-of-islands](https://github.com/Sahilll15/DSA/tree/master/0200-number-of-islands) |
 | [0209-minimum-size-subarray-sum](https://github.com/Sahilll15/DSA/tree/master/0209-minimum-size-subarray-sum) |
+| [0216-combination-sum-iii](https://github.com/Sahilll15/DSA/tree/master/0216-combination-sum-iii) |
 | [0217-contains-duplicate](https://github.com/Sahilll15/DSA/tree/master/0217-contains-duplicate) |
 | [0238-product-of-array-except-self](https://github.com/Sahilll15/DSA/tree/master/0238-product-of-array-except-self) |
 | [0239-sliding-window-maximum](https://github.com/Sahilll15/DSA/tree/master/0239-sliding-window-maximum) |
@@ -1141,6 +1142,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0040-combination-sum-ii](https://github.com/Sahilll15/DSA/tree/master/0040-combination-sum-ii) |
 | [0078-subsets](https://github.com/Sahilll15/DSA/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/Sahilll15/DSA/tree/master/0090-subsets-ii) |
+| [0216-combination-sum-iii](https://github.com/Sahilll15/DSA/tree/master/0216-combination-sum-iii) |
 ## Memoization
 |  |
 | ------- |
