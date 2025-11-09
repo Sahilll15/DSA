@@ -432,6 +432,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0560-subarray-sum-equals-k](https://github.com/Sahilll15/DSA/tree/master/0560-subarray-sum-equals-k) |
 | [0624-maximum-distance-in-arrays](https://github.com/Sahilll15/DSA/tree/master/0624-maximum-distance-in-arrays) |
 | [0643-maximum-average-subarray-i](https://github.com/Sahilll15/DSA/tree/master/0643-maximum-average-subarray-i) |
+| [0692-top-k-frequent-words](https://github.com/Sahilll15/DSA/tree/master/0692-top-k-frequent-words) |
 | [0695-max-area-of-island](https://github.com/Sahilll15/DSA/tree/master/0695-max-area-of-island) |
 | [0719-find-k-th-smallest-pair-distance](https://github.com/Sahilll15/DSA/tree/master/0719-find-k-th-smallest-pair-distance) |
 | [0729-my-calendar-i](https://github.com/Sahilll15/DSA/tree/master/0729-my-calendar-i) |
@@ -558,6 +559,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0349-intersection-of-two-arrays](https://github.com/Sahilll15/DSA/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Sahilll15/DSA/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0539-minimum-time-difference](https://github.com/Sahilll15/DSA/tree/master/0539-minimum-time-difference) |
+| [0692-top-k-frequent-words](https://github.com/Sahilll15/DSA/tree/master/0692-top-k-frequent-words) |
 | [0719-find-k-th-smallest-pair-distance](https://github.com/Sahilll15/DSA/tree/master/0719-find-k-th-smallest-pair-distance) |
 | [0883-car-fleet](https://github.com/Sahilll15/DSA/tree/master/0883-car-fleet) |
 | [0941-sort-array-by-parity](https://github.com/Sahilll15/DSA/tree/master/0941-sort-array-by-parity) |
@@ -695,6 +697,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0525-contiguous-array](https://github.com/Sahilll15/DSA/tree/master/0525-contiguous-array) |
 | [0560-subarray-sum-equals-k](https://github.com/Sahilll15/DSA/tree/master/0560-subarray-sum-equals-k) |
 | [0567-permutation-in-string](https://github.com/Sahilll15/DSA/tree/master/0567-permutation-in-string) |
+| [0692-top-k-frequent-words](https://github.com/Sahilll15/DSA/tree/master/0692-top-k-frequent-words) |
 | [0870-magic-squares-in-grid](https://github.com/Sahilll15/DSA/tree/master/0870-magic-squares-in-grid) |
 | [0906-walking-robot-simulation](https://github.com/Sahilll15/DSA/tree/master/0906-walking-robot-simulation) |
 | [0920-uncommon-words-from-two-sentences](https://github.com/Sahilll15/DSA/tree/master/0920-uncommon-words-from-two-sentences) |
@@ -751,6 +754,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0567-permutation-in-string](https://github.com/Sahilll15/DSA/tree/master/0567-permutation-in-string) |
 | [0592-fraction-addition-and-subtraction](https://github.com/Sahilll15/DSA/tree/master/0592-fraction-addition-and-subtraction) |
 | [0647-palindromic-substrings](https://github.com/Sahilll15/DSA/tree/master/0647-palindromic-substrings) |
+| [0692-top-k-frequent-words](https://github.com/Sahilll15/DSA/tree/master/0692-top-k-frequent-words) |
 | [0874-backspace-string-compare](https://github.com/Sahilll15/DSA/tree/master/0874-backspace-string-compare) |
 | [0920-uncommon-words-from-two-sentences](https://github.com/Sahilll15/DSA/tree/master/0920-uncommon-words-from-two-sentences) |
 | [1128-remove-all-adjacent-duplicates-in-string](https://github.com/Sahilll15/DSA/tree/master/1128-remove-all-adjacent-duplicates-in-string) |
@@ -894,6 +898,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0239-sliding-window-maximum](https://github.com/Sahilll15/DSA/tree/master/0239-sliding-window-maximum) |
 | [0264-ugly-number-ii](https://github.com/Sahilll15/DSA/tree/master/0264-ugly-number-ii) |
 | [0347-top-k-frequent-elements](https://github.com/Sahilll15/DSA/tree/master/0347-top-k-frequent-elements) |
+| [0692-top-k-frequent-words](https://github.com/Sahilll15/DSA/tree/master/0692-top-k-frequent-words) |
 | [0789-kth-largest-element-in-a-stream](https://github.com/Sahilll15/DSA/tree/master/0789-kth-largest-element-in-a-stream) |
 | [1325-path-with-maximum-probability](https://github.com/Sahilll15/DSA/tree/master/1325-path-with-maximum-probability) |
 | [2803-modify-graph-edge-weights](https://github.com/Sahilll15/DSA/tree/master/2803-modify-graph-edge-weights) |
@@ -1124,11 +1129,13 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0347-top-k-frequent-elements](https://github.com/Sahilll15/DSA/tree/master/0347-top-k-frequent-elements) |
+| [0692-top-k-frequent-words](https://github.com/Sahilll15/DSA/tree/master/0692-top-k-frequent-words) |
 ## Counting
 |  |
 | ------- |
 | [0347-top-k-frequent-elements](https://github.com/Sahilll15/DSA/tree/master/0347-top-k-frequent-elements) |
 | [0387-first-unique-character-in-a-string](https://github.com/Sahilll15/DSA/tree/master/0387-first-unique-character-in-a-string) |
+| [0692-top-k-frequent-words](https://github.com/Sahilll15/DSA/tree/master/0692-top-k-frequent-words) |
 | [0920-uncommon-words-from-two-sentences](https://github.com/Sahilll15/DSA/tree/master/0920-uncommon-words-from-two-sentences) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/Sahilll15/DSA/tree/master/1786-count-the-number-of-consistent-strings) |
 | [2116-count-number-of-pairs-with-absolute-difference-k](https://github.com/Sahilll15/DSA/tree/master/2116-count-number-of-pairs-with-absolute-difference-k) |
@@ -1210,6 +1217,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0014-longest-common-prefix](https://github.com/Sahilll15/DSA/tree/master/0014-longest-common-prefix) |
 | [0386-lexicographical-numbers](https://github.com/Sahilll15/DSA/tree/master/0386-lexicographical-numbers) |
 | [0440-k-th-smallest-in-lexicographical-order](https://github.com/Sahilll15/DSA/tree/master/0440-k-th-smallest-in-lexicographical-order) |
+| [0692-top-k-frequent-words](https://github.com/Sahilll15/DSA/tree/master/0692-top-k-frequent-words) |
 | [2494-sum-of-prefix-scores-of-strings](https://github.com/Sahilll15/DSA/tree/master/2494-sum-of-prefix-scores-of-strings) |
 | [2755-extra-characters-in-a-string](https://github.com/Sahilll15/DSA/tree/master/2755-extra-characters-in-a-string) |
 | [3329-find-the-length-of-the-longest-common-prefix](https://github.com/Sahilll15/DSA/tree/master/3329-find-the-length-of-the-longest-common-prefix) |
