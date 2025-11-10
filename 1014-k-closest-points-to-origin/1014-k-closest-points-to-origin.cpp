@@ -1,22 +1,27 @@
 class Solution {
 public:
+    static int squaredDis(vector<int>& points) {
+        return points[0] * points[0] + points[1] * points[1];
+    }
+
     vector<vector<int>> kClosest(vector<vector<int>>& points, int k) {
         priority_queue<pair<int, vector<int>>> maxHeap;
 
-        for (const auto& point : points) {
-            int dist = point[0] * point[0] + point[1] * point[1];
-            maxHeap.push({dist, point});
-            if (maxHeap.size() > k) {
+        for (auto& p : points) {
+            int dist = squaredDis(p);
+            if (maxHeap.size() < k)
+                maxHeap.push({dist, p});
+            else if (dist < maxHeap.top().first) {
                 maxHeap.pop();
+                maxHeap.push({dist, p});
             }
         }
 
-        vector<vector<int>> ans;
+        vector<vector<int>> res;
         while (!maxHeap.empty()) {
-            ans.push_back(maxHeap.top().second);
+            res.push_back(maxHeap.top().second);
             maxHeap.pop();
         }
-
-        return ans;
+        return res;
     }
 };
