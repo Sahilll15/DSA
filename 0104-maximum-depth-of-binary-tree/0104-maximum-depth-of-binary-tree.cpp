@@ -2,13 +2,21 @@
 class Solution {
 public:
     int maxDepth(TreeNode* root) {
-        if(root==NULL){
-            return 0;
+        int maxVal=0;
+        int ans=0;
+
+        return getDepth(root,ans+1,maxVal);
+    }
+
+    int  getDepth(TreeNode* root, int ans, int& maxVal){
+        if(root==nullptr) return maxVal;
+
+        if(ans>maxVal){
+            maxVal=ans;
         }
 
-        int lh=maxDepth(root->left);
-        int rh=maxDepth(root->right);
-
-        return 1 + std::max(lh, rh);
+        if(root->left) getDepth(root->left,ans+1,maxVal);
+        if(root->right) getDepth(root->right,ans+1,maxVal);
+        return maxVal;
     }
 };
