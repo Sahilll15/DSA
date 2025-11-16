@@ -5,11 +5,13 @@ public:
         int maxVal=0;
         int ans=0;
 
-        return getDepth(root,ans+1,maxVal);
+         getDepth(root,ans+1,maxVal);
+
+         return maxVal;
     }
 
-    int  getDepth(TreeNode* root, int ans, int& maxVal){
-        if(root==nullptr) return maxVal;
+    void  getDepth(TreeNode* root, int ans, int& maxVal){
+        if(root==nullptr) return ;
 
         if(ans>maxVal){
             maxVal=ans;
@@ -17,6 +19,5 @@ public:
 
         if(root->left) getDepth(root->left,ans+1,maxVal);
         if(root->right) getDepth(root->right,ans+1,maxVal);
-        return maxVal;
     }
 };
