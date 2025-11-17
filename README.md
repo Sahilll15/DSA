@@ -817,6 +817,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0145-binary-tree-postorder-traversal](https://github.com/Sahilll15/DSA/tree/master/0145-binary-tree-postorder-traversal) |
 | [0200-number-of-islands](https://github.com/Sahilll15/DSA/tree/master/0200-number-of-islands) |
 | [0386-lexicographical-numbers](https://github.com/Sahilll15/DSA/tree/master/0386-lexicographical-numbers) |
+| [0543-diameter-of-binary-tree](https://github.com/Sahilll15/DSA/tree/master/0543-diameter-of-binary-tree) |
 | [0695-max-area-of-island](https://github.com/Sahilll15/DSA/tree/master/0695-max-area-of-island) |
 | [0776-n-ary-tree-postorder-traversal](https://github.com/Sahilll15/DSA/tree/master/0776-n-ary-tree-postorder-traversal) |
 | [0801-is-graph-bipartite](https://github.com/Sahilll15/DSA/tree/master/0801-is-graph-bipartite) |
@@ -973,6 +974,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0110-balanced-binary-tree](https://github.com/Sahilll15/DSA/tree/master/0110-balanced-binary-tree) |
 | [0144-binary-tree-preorder-traversal](https://github.com/Sahilll15/DSA/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/Sahilll15/DSA/tree/master/0145-binary-tree-postorder-traversal) |
+| [0543-diameter-of-binary-tree](https://github.com/Sahilll15/DSA/tree/master/0543-diameter-of-binary-tree) |
 | [0776-n-ary-tree-postorder-traversal](https://github.com/Sahilll15/DSA/tree/master/0776-n-ary-tree-postorder-traversal) |
 | [0789-kth-largest-element-in-a-stream](https://github.com/Sahilll15/DSA/tree/master/0789-kth-largest-element-in-a-stream) |
 | [1484-linked-list-in-binary-tree](https://github.com/Sahilll15/DSA/tree/master/1484-linked-list-in-binary-tree) |
@@ -986,6 +988,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0110-balanced-binary-tree](https://github.com/Sahilll15/DSA/tree/master/0110-balanced-binary-tree) |
 | [0144-binary-tree-preorder-traversal](https://github.com/Sahilll15/DSA/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/Sahilll15/DSA/tree/master/0145-binary-tree-postorder-traversal) |
+| [0543-diameter-of-binary-tree](https://github.com/Sahilll15/DSA/tree/master/0543-diameter-of-binary-tree) |
 | [0789-kth-largest-element-in-a-stream](https://github.com/Sahilll15/DSA/tree/master/0789-kth-largest-element-in-a-stream) |
 | [1484-linked-list-in-binary-tree](https://github.com/Sahilll15/DSA/tree/master/1484-linked-list-in-binary-tree) |
 | [1544-count-good-nodes-in-binary-tree](https://github.com/Sahilll15/DSA/tree/master/1544-count-good-nodes-in-binary-tree) |
