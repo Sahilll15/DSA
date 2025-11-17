@@ -2,13 +2,7 @@
 class Solution {
 public:
     bool isBalanced(TreeNode* root) {
-        if(root==nullptr) return true;
-        int leftHeight=getHeight(root->left);
-        int rightHeight=getHeight(root->right);
-        if(leftHeight== -1 || rightHeight == -1){
-            return false;
-        }
-        return abs(leftHeight-rightHeight)<=1;
+    return getHeight(root) != -1;
     }   
 
     int getHeight(TreeNode* root){
