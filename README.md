@@ -897,6 +897,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1615-range-sum-of-sorted-subarray-sums](https://github.com/Sahilll15/DSA/tree/master/1615-range-sum-of-sorted-subarray-sums) |
 | [1850-minimum-length-of-string-after-deleting-similar-ends](https://github.com/Sahilll15/DSA/tree/master/1850-minimum-length-of-string-after-deleting-similar-ends) |
 | [2128-reverse-prefix-of-word](https://github.com/Sahilll15/DSA/tree/master/2128-reverse-prefix-of-word) |
+| [2481-strictly-palindromic-number](https://github.com/Sahilll15/DSA/tree/master/2481-strictly-palindromic-number) |
 | [2524-largest-positive-integer-that-exists-with-its-negative](https://github.com/Sahilll15/DSA/tree/master/2524-largest-positive-integer-that-exists-with-its-negative) |
 | [2634-minimum-common-value](https://github.com/Sahilll15/DSA/tree/master/2634-minimum-common-value) |
 ## Queue
@@ -1046,6 +1047,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1951-find-the-winner-of-the-circular-game](https://github.com/Sahilll15/DSA/tree/master/1951-find-the-winner-of-the-circular-game) |
 | [2155-find-missing-observations](https://github.com/Sahilll15/DSA/tree/master/2155-find-missing-observations) |
 | [2324-find-triangular-sum-of-an-array](https://github.com/Sahilll15/DSA/tree/master/2324-find-triangular-sum-of-an-array) |
+| [2481-strictly-palindromic-number](https://github.com/Sahilll15/DSA/tree/master/2481-strictly-palindromic-number) |
 | [2645-pass-the-pillow](https://github.com/Sahilll15/DSA/tree/master/2645-pass-the-pillow) |
 | [2903-insert-greatest-common-divisors-in-linked-list](https://github.com/Sahilll15/DSA/tree/master/2903-insert-greatest-common-divisors-in-linked-list) |
 | [3275-minimum-number-of-pushes-to-type-word-i](https://github.com/Sahilll15/DSA/tree/master/3275-minimum-number-of-pushes-to-type-word-i) |
@@ -1239,6 +1241,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Brainteaser
 |  |
 | ------- |
+| [2481-strictly-palindromic-number](https://github.com/Sahilll15/DSA/tree/master/2481-strictly-palindromic-number) |
 | [2503-longest-subarray-with-maximum-bitwise-and](https://github.com/Sahilll15/DSA/tree/master/2503-longest-subarray-with-maximum-bitwise-and) |
 ## Rolling Hash
 |  |
