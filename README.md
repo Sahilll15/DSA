@@ -568,6 +568,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0941-sort-array-by-parity](https://github.com/Sahilll15/DSA/tree/master/0941-sort-array-by-parity) |
 | [1014-k-closest-points-to-origin](https://github.com/Sahilll15/DSA/tree/master/1014-k-closest-points-to-origin) |
 | [1019-squares-of-a-sorted-array](https://github.com/Sahilll15/DSA/tree/master/1019-squares-of-a-sorted-array) |
+| [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/Sahilll15/DSA/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
 | [1333-sort-the-jumbled-numbers](https://github.com/Sahilll15/DSA/tree/master/1333-sort-the-jumbled-numbers) |
 | [1556-make-two-arrays-equal-by-reversing-subarrays](https://github.com/Sahilll15/DSA/tree/master/1556-make-two-arrays-equal-by-reversing-subarrays) |
 | [1615-range-sum-of-sorted-subarray-sums](https://github.com/Sahilll15/DSA/tree/master/1615-range-sum-of-sorted-subarray-sums) |
@@ -711,6 +712,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0984-most-stones-removed-with-same-row-or-column](https://github.com/Sahilll15/DSA/tree/master/0984-most-stones-removed-with-same-row-or-column) |
 | [0999-regions-cut-by-slashes](https://github.com/Sahilll15/DSA/tree/master/0999-regions-cut-by-slashes) |
 | [1016-subarray-sums-divisible-by-k](https://github.com/Sahilll15/DSA/tree/master/1016-subarray-sums-divisible-by-k) |
+| [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/Sahilll15/DSA/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
 | [1473-find-the-longest-substring-containing-vowels-in-even-counts](https://github.com/Sahilll15/DSA/tree/master/1473-find-the-longest-substring-containing-vowels-in-even-counts) |
 | [1556-make-two-arrays-equal-by-reversing-subarrays](https://github.com/Sahilll15/DSA/tree/master/1556-make-two-arrays-equal-by-reversing-subarrays) |
 | [1741-sort-array-by-increasing-frequency](https://github.com/Sahilll15/DSA/tree/master/1741-sort-array-by-increasing-frequency) |
@@ -826,6 +828,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0801-is-graph-bipartite](https://github.com/Sahilll15/DSA/tree/master/0801-is-graph-bipartite) |
 | [0984-most-stones-removed-with-same-row-or-column](https://github.com/Sahilll15/DSA/tree/master/0984-most-stones-removed-with-same-row-or-column) |
 | [0999-regions-cut-by-slashes](https://github.com/Sahilll15/DSA/tree/master/0999-regions-cut-by-slashes) |
+| [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/Sahilll15/DSA/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
 | [1073-number-of-enclaves](https://github.com/Sahilll15/DSA/tree/master/1073-number-of-enclaves) |
 | [1484-linked-list-in-binary-tree](https://github.com/Sahilll15/DSA/tree/master/1484-linked-list-in-binary-tree) |
 | [1544-count-good-nodes-in-binary-tree](https://github.com/Sahilll15/DSA/tree/master/1544-count-good-nodes-in-binary-tree) |
@@ -844,6 +847,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0695-max-area-of-island](https://github.com/Sahilll15/DSA/tree/master/0695-max-area-of-island) |
 | [0801-is-graph-bipartite](https://github.com/Sahilll15/DSA/tree/master/0801-is-graph-bipartite) |
 | [0999-regions-cut-by-slashes](https://github.com/Sahilll15/DSA/tree/master/0999-regions-cut-by-slashes) |
+| [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/Sahilll15/DSA/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
 | [1073-number-of-enclaves](https://github.com/Sahilll15/DSA/tree/master/1073-number-of-enclaves) |
 | [1484-linked-list-in-binary-tree](https://github.com/Sahilll15/DSA/tree/master/1484-linked-list-in-binary-tree) |
 | [1544-count-good-nodes-in-binary-tree](https://github.com/Sahilll15/DSA/tree/master/1544-count-good-nodes-in-binary-tree) |
@@ -986,6 +990,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0543-diameter-of-binary-tree](https://github.com/Sahilll15/DSA/tree/master/0543-diameter-of-binary-tree) |
 | [0776-n-ary-tree-postorder-traversal](https://github.com/Sahilll15/DSA/tree/master/0776-n-ary-tree-postorder-traversal) |
 | [0789-kth-largest-element-in-a-stream](https://github.com/Sahilll15/DSA/tree/master/0789-kth-largest-element-in-a-stream) |
+| [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/Sahilll15/DSA/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
 | [1484-linked-list-in-binary-tree](https://github.com/Sahilll15/DSA/tree/master/1484-linked-list-in-binary-tree) |
 | [1544-count-good-nodes-in-binary-tree](https://github.com/Sahilll15/DSA/tree/master/1544-count-good-nodes-in-binary-tree) |
 ## Binary Tree
@@ -1002,6 +1007,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0145-binary-tree-postorder-traversal](https://github.com/Sahilll15/DSA/tree/master/0145-binary-tree-postorder-traversal) |
 | [0543-diameter-of-binary-tree](https://github.com/Sahilll15/DSA/tree/master/0543-diameter-of-binary-tree) |
 | [0789-kth-largest-element-in-a-stream](https://github.com/Sahilll15/DSA/tree/master/0789-kth-largest-element-in-a-stream) |
+| [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/Sahilll15/DSA/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
 | [1484-linked-list-in-binary-tree](https://github.com/Sahilll15/DSA/tree/master/1484-linked-list-in-binary-tree) |
 | [1544-count-good-nodes-in-binary-tree](https://github.com/Sahilll15/DSA/tree/master/1544-count-good-nodes-in-binary-tree) |
 ## Bit Manipulation
