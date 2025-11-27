@@ -2,34 +2,17 @@
 class Solution {
 public:
     int kthSmallest(TreeNode* root, int k) {
-        priority_queue<int, vector<int>, greater<int>> pq;
-        int ans;
-        if(root==nullptr){
-            return 0;
-        }
-        pq.push(root->val);
-
-        traversal(root->left,pq);
-        if(pq.size()<k){
-            traversal(root->right, pq);
-        }
-
-
-        while(k>0){
-            ans=pq.top();
-            pq.pop();
-            k--;
-        }
-        return ans;
+        vector<int> inorder;
+        traversal(root,inorder);
+        return inorder[k-1];
     }
 
-    void traversal(TreeNode* root,priority_queue<int, vector<int>, greater<int>>& pq){
+    void traversal(TreeNode* root,vector<int>& inorder){
         if(root==nullptr){
             return;
         }
-
-        pq.push(root->val);
-        traversal(root->left,pq);
-        traversal(root->right,pq);
+        traversal(root->left,inorder);
+        inorder.push_back(root->val);
+        traversal(root->right,inorder);
     }
 };
