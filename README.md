@@ -529,6 +529,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0144-binary-tree-preorder-traversal](https://github.com/Sahilll15/DSA/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/Sahilll15/DSA/tree/master/0145-binary-tree-postorder-traversal) |
 | [0155-min-stack](https://github.com/Sahilll15/DSA/tree/master/0155-min-stack) |
+| [0173-binary-search-tree-iterator](https://github.com/Sahilll15/DSA/tree/master/0173-binary-search-tree-iterator) |
 | [0234-palindrome-linked-list](https://github.com/Sahilll15/DSA/tree/master/0234-palindrome-linked-list) |
 | [0394-decode-string](https://github.com/Sahilll15/DSA/tree/master/0394-decode-string) |
 | [0402-remove-k-digits](https://github.com/Sahilll15/DSA/tree/master/0402-remove-k-digits) |
@@ -1004,6 +1005,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0124-binary-tree-maximum-path-sum](https://github.com/Sahilll15/DSA/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0144-binary-tree-preorder-traversal](https://github.com/Sahilll15/DSA/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/Sahilll15/DSA/tree/master/0145-binary-tree-postorder-traversal) |
+| [0173-binary-search-tree-iterator](https://github.com/Sahilll15/DSA/tree/master/0173-binary-search-tree-iterator) |
 | [0199-binary-tree-right-side-view](https://github.com/Sahilll15/DSA/tree/master/0199-binary-tree-right-side-view) |
 | [0222-count-complete-tree-nodes](https://github.com/Sahilll15/DSA/tree/master/0222-count-complete-tree-nodes) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/Sahilll15/DSA/tree/master/0230-kth-smallest-element-in-a-bst) |
@@ -1033,6 +1035,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0124-binary-tree-maximum-path-sum](https://github.com/Sahilll15/DSA/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0144-binary-tree-preorder-traversal](https://github.com/Sahilll15/DSA/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/Sahilll15/DSA/tree/master/0145-binary-tree-postorder-traversal) |
+| [0173-binary-search-tree-iterator](https://github.com/Sahilll15/DSA/tree/master/0173-binary-search-tree-iterator) |
 | [0199-binary-tree-right-side-view](https://github.com/Sahilll15/DSA/tree/master/0199-binary-tree-right-side-view) |
 | [0222-count-complete-tree-nodes](https://github.com/Sahilll15/DSA/tree/master/0222-count-complete-tree-nodes) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/Sahilll15/DSA/tree/master/0230-kth-smallest-element-in-a-bst) |
@@ -1160,6 +1163,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0155-min-stack](https://github.com/Sahilll15/DSA/tree/master/0155-min-stack) |
+| [0173-binary-search-tree-iterator](https://github.com/Sahilll15/DSA/tree/master/0173-binary-search-tree-iterator) |
 | [0303-range-sum-query-immutable](https://github.com/Sahilll15/DSA/tree/master/0303-range-sum-query-immutable) |
 | [0380-insert-delete-getrandom-o1](https://github.com/Sahilll15/DSA/tree/master/0380-insert-delete-getrandom-o1) |
 | [0729-my-calendar-i](https://github.com/Sahilll15/DSA/tree/master/0729-my-calendar-i) |
@@ -1272,6 +1276,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Binary Search Tree
 |  |
 | ------- |
+| [0173-binary-search-tree-iterator](https://github.com/Sahilll15/DSA/tree/master/0173-binary-search-tree-iterator) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/Sahilll15/DSA/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/Sahilll15/DSA/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0450-delete-node-in-a-bst](https://github.com/Sahilll15/DSA/tree/master/0450-delete-node-in-a-bst) |
@@ -1338,4 +1343,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [1014-k-closest-points-to-origin](https://github.com/Sahilll15/DSA/tree/master/1014-k-closest-points-to-origin) |
+## Iterator
+|  |
+| ------- |
+| [0173-binary-search-tree-iterator](https://github.com/Sahilll15/DSA/tree/master/0173-binary-search-tree-iterator) |
 <!---LeetCode Topics End-->
