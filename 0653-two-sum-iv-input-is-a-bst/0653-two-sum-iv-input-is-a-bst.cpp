@@ -1,29 +1,26 @@
+
 class Solution {
 public:
-    vector<int> values;
-    
-    void Traversal(TreeNode* root) {
-        if (root == nullptr) {
-            return;
-        }
-
-        values.push_back(root->val);
-        Traversal(root->left);
-        Traversal(root->right);
-    }
-    
     bool findTarget(TreeNode* root, int k) {
-        Traversal(root);
-        
-        int n = values.size();
-        for (int i = 0; i < n; ++i) {
-            for (int j = i + 1; j < n; ++j) {
-                if (values[i] + values[j] == k) {
-                    return true;
-                }
+        unordered_map<int,int> mp;
+
+        traversal(root,mp);
+
+        for(auto it: mp){
+            if(mp.count(k-it.first) && (it.first != k-it.first)){
+                return true;
             }
         }
 
         return false;
+    }
+
+    void traversal(TreeNode* root, unordered_map<int,int> &mp){
+        if(root==nullptr) return;
+        
+        mp[root->val]=1;
+
+        traversal(root->left,mp);
+        traversal(root->right,mp);
     }
 };
