@@ -5,19 +5,14 @@ public:
         int n=grid.size();
         int m=grid[0].size();
 
-        vector<vector<int>>vis(n,vector<int>(m,0));
         int cntFresh=0;
         queue<pair<pair<int, int>, int>> q;
         for(int i=0;i<n;i++){
             for(int j=0;j<m;j++){
                 if(grid[i][j]==2){
-                    vis[i][j]=2;
                     q.push({{i,j},0});
                 }else if(grid[i][j]==1){
                     cntFresh++;
-                    vis[i][j]=0;
-                    }else{
-                    vis[i][j]=0;
                 }
             }
         }
@@ -37,10 +32,9 @@ public:
                 int ncol=c+dcol[i];
 
                if(nrow >= 0 && nrow < n && ncol >= 0 && ncol < m &&
-                   grid[nrow][ncol] == 1 && vis[nrow][ncol] == 0) {
-
+                   grid[nrow][ncol] == 1 ) {
+                     grid[nrow][ncol] = 2; 
                     q.push({{nrow, ncol}, t + 1});
-                    vis[nrow][ncol] = 1;
                     cntFresh--;
                 }
             }
