@@ -1,36 +1,36 @@
 class Solution {
 public:
-    void dfs(int node,vector<int> &visited,vector<vector<int>>&adjList){
-        visited[node]=1;
-        for(int next:adjList[node]){
-            if(!visited[next]){
-                dfs(next,visited,adjList);
+    void dfs(int node, vector<vector<int>>& adjList, vector<int>& visited) {
+        visited[node] = 1;
+        for (int neighbor : adjList[node]) {
+            if (!visited[neighbor]) {
+                dfs(neighbor, adjList, visited);
             }
         }
     }
-    int findCircleNum(vector<vector<int>>& isConnected) {
-        int n=isConnected.size();
-        vector<vector<int>> adjList(n);
 
-        for(int i=0;i<n;i++){
-            for(int j=0;j<n;j++){
-               if (isConnected[i][j] == 1) {
+    int findCircleNum(vector<vector<int>>& isConnected) {
+        int n = isConnected.size();
+        vector<vector<int>> adjList(n);
+        vector<int> visited(n, 0);
+
+        for (int i = 0; i < n; i++) {
+            for (int j = i + 1; j < n; j++) {
+                if (isConnected[i][j] == 1) {
                     adjList[i].push_back(j);
                     adjList[j].push_back(i);
                 }
             }
         }
 
-        vector<int> visited(n,0);
-        int count=0;
-
-        for(int i=0;i<n;i++){
-            if(!visited[i]){
-                count++;
-                dfs(i,visited,adjList);
+        int cnt = 0;
+        for (int i = 0; i < n; i++) {
+            if (!visited[i]) {
+                cnt++;
+                dfs(i, adjList, visited);
             }
         }
 
-        return count;
+        return cnt;
     }
 };
