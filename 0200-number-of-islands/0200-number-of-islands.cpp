@@ -1,44 +1,39 @@
 class Solution {
 public:
-    void dfs(int i, int j, vector<vector<char>>& grid) {
-        if (i < 0 || i >= grid.size() || j < 0 || j >= grid[0].size() || grid[i][j] != '1') {
-            return;
+
+    void dfs(vector<vector<char>>& grid,int row,int col){
+        int rows=grid.size();
+        int cols=grid[0].size();
+
+        if(row<0 || row>=rows || col<0 || col >=cols || grid[row][col]=='0'){
+            return ;
         }
 
-        // Mark the cell as visited by setting it to '0'
-        grid[i][j] = '0';
+        grid[row][col]='0';
 
-        // Possible directions to move in the grid
-        int delRow[] = {0, +1, 0, -1};
-        int delCol[] = {-1, 0, +1, 0};
+        int dr[]={-1,0,+1,0};
+        int dc[]={0,1,0,-1};
 
-        // Move in all possible directions
-        for (int k = 0; k < 4; k++) {
-            int nrow = i + delRow[k];
-            int ncol = j + delCol[k];
-
-            dfs(nrow, ncol, grid);
+        for( int i=0;i<4;i++){
+            dfs(grid,dr[i]+row,dc[i]+col);
         }
     }
-
     int numIslands(vector<vector<char>>& grid) {
-        if (grid.empty() || grid[0].empty()) {
-            return 0;
-        }
+        int ans=0;  
+        int lands=0;
 
-        int numOfIslands = 0;
-        int n = grid.size();
-        int m = grid[0].size();
+        int rows=grid.size();
+        int cols=grid[0].size();
 
-        for (int i = 0; i < n; i++) {
-            for (int j = 0; j < m; j++) {
-                if (grid[i][j] == '1') {
-                    dfs(i, j, grid);
-                    numOfIslands++; 
+        for(int i=0;i<rows;i++){
+            for(int j=0;j<cols;j++){
+                if(grid[i][j]=='1'){
+                    lands++;
+                    dfs(grid,i,j);
                 }
             }
         }
 
-        return numOfIslands;
+        return lands;
     }
 };
