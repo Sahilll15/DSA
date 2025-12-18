@@ -1,13 +1,11 @@
 class Solution {
 public:
+    vector<int> dr={-1,0,+1,0};
+    vector<int> dc={0,+1,0,-1};
 
     void dfs(int row,int col, vector<vector<int>>& image,vector<vector<int>> & ans,int color,int initColor){
         
         ans[row][col]=color;
-
-        vector<int> dr={-1,0,+1,0};
-        vector<int> dc={0,+1,0,-1};
-
         int rows=image.size();
         int cols=image[0].size();
 
@@ -17,7 +15,6 @@ public:
 
             if(nrow>=0 && nrow < rows && ncol>=0 && ncol< cols && image[nrow][ncol]==initColor && ans[nrow][ncol]!=color ){
                 dfs(nrow, ncol, image, ans, color, initColor);
-
             }
         }
     }
