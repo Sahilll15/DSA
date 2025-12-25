@@ -515,6 +515,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2727-number-of-senior-citizens](https://github.com/Sahilll15/DSA/tree/master/2727-number-of-senior-citizens) |
 | [2755-extra-characters-in-a-string](https://github.com/Sahilll15/DSA/tree/master/2755-extra-characters-in-a-string) |
 | [2847-find-maximum-number-of-string-pairs](https://github.com/Sahilll15/DSA/tree/master/2847-find-maximum-number-of-string-pairs) |
+| [3075-maximize-happiness-of-selected-children](https://github.com/Sahilll15/DSA/tree/master/3075-maximize-happiness-of-selected-children) |
 | [3242-count-elements-with-maximum-frequency](https://github.com/Sahilll15/DSA/tree/master/3242-count-elements-with-maximum-frequency) |
 | [3329-find-the-length-of-the-longest-common-prefix](https://github.com/Sahilll15/DSA/tree/master/3329-find-the-length-of-the-longest-common-prefix) |
 | [3469-maximum-height-of-a-triangle](https://github.com/Sahilll15/DSA/tree/master/3469-maximum-height-of-a-triangle) |
@@ -585,6 +586,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1741-sort-array-by-increasing-frequency](https://github.com/Sahilll15/DSA/tree/master/1741-sort-array-by-increasing-frequency) |
 | [2502-sort-the-people](https://github.com/Sahilll15/DSA/tree/master/2502-sort-the-people) |
 | [2524-largest-positive-integer-that-exists-with-its-negative](https://github.com/Sahilll15/DSA/tree/master/2524-largest-positive-integer-that-exists-with-its-negative) |
+| [3075-maximize-happiness-of-selected-children](https://github.com/Sahilll15/DSA/tree/master/3075-maximize-happiness-of-selected-children) |
 | [3276-minimum-number-of-pushes-to-type-word-ii](https://github.com/Sahilll15/DSA/tree/master/3276-minimum-number-of-pushes-to-type-word-ii) |
 ## Monotonic Stack
 |  |
@@ -1195,6 +1197,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0624-maximum-distance-in-arrays](https://github.com/Sahilll15/DSA/tree/master/0624-maximum-distance-in-arrays) |
 | [0890-lemonade-change](https://github.com/Sahilll15/DSA/tree/master/0890-lemonade-change) |
 | [1700-minimum-time-to-make-rope-colorful](https://github.com/Sahilll15/DSA/tree/master/1700-minimum-time-to-make-rope-colorful) |
+| [3075-maximize-happiness-of-selected-children](https://github.com/Sahilll15/DSA/tree/master/3075-maximize-happiness-of-selected-children) |
 | [3275-minimum-number-of-pushes-to-type-word-i](https://github.com/Sahilll15/DSA/tree/master/3275-minimum-number-of-pushes-to-type-word-i) |
 | [3276-minimum-number-of-pushes-to-type-word-ii](https://github.com/Sahilll15/DSA/tree/master/3276-minimum-number-of-pushes-to-type-word-ii) |
 ## Design
