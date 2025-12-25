@@ -6,14 +6,11 @@ public:
         sort(happiness.begin(), happiness.end(), greater<int>());
 
         int n = happiness.size();
-        int dec = 0;  
-
         for (int count = 0; count < k && count < n; count++) {
-            int curr = happiness[count] - dec;
+            int curr = happiness[count] - count;
             if (curr <= 0) break;
 
-            ans += curr;
-            dec++;  
+            ans += curr; 
         }
 
         return ans;
