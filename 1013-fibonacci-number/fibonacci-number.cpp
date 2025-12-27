@@ -1,12 +1,13 @@
 class Solution {
 public:
-    int fib(int n) {
-        if(n<=1){
-            return n;
-        }
+    int fibonacci(int n,vector<int>& dp){
+        if(n<=1) return n;
+        if(dp[n]!=-1) return dp[n];
 
-        int last=fib(n-1);
-        int slast=fib(n-2);
-        return last+slast;
+        return dp[n]=fibonacci(n-1,dp)+fibonacci(n-2,dp);
+    }
+    int fib(int n) {
+        vector<int> dp(n+1,-1);
+        return fibonacci(n,dp);
     }
 };
