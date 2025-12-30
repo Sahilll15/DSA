@@ -1,15 +1,22 @@
 class Solution {
 public:
+    int func(int i, int j, vector<vector<int>>& triangle,
+             int n, vector<vector<int>>& dp) {
+
+        if (i == n - 1) return triangle[i][j];
+
+        if (dp[i][j] != 1e9) return dp[i][j];
+
+        int down = triangle[i][j] + func(i + 1, j, triangle, n, dp);
+        int downRight = triangle[i][j] + func(i + 1, j + 1, triangle, n, dp);
+
+        return dp[i][j] = min(down, downRight);
+    }
+
     int minimumTotal(vector<vector<int>>& triangle) {
         int n = triangle.size();
+        vector<vector<int>> dp(n, vector<int>(n, 1e9));
 
-        for (int row = n - 2; row >= 0; row--) {
-            for (int col = 0; col < triangle[row].size(); col++) {
-                triangle[row][col] += min(triangle[row + 1][col], 
-                                          triangle[row + 1][col + 1]);
-            }
-        }
-
-        return triangle[0][0];
+        return func(0, 0, triangle, n, dp);
     }
 };
