@@ -15,7 +15,7 @@ public:
         while(l<r){
             int sum=paired[l].first+paired[r].first;
             if(sum == target) return {paired[l].second,paired[r].second};
-            if(sum<target) l++;
+            else if(sum<target) l++;
             else r--;
         }
 
