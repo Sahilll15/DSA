@@ -3,17 +3,21 @@ public:
     bool isAnagram(string s, string t) {
         if(s.size()!=t.size()) return false;
 
-        unordered_map<char,int> cnt;
+        int freq[26]={0};
 
-        for(char c:s){
-            cnt[c]++;
+        for(char c: s){
+            freq[c-'a']++;
         }
-
+        
         for(char c: t){
-            cnt[c]--; 
-            if(cnt[c]<0) return false;
+            freq[c-'a']--;
+            if(freq[c-'a']<0){
+                return false;
+            }
         }
 
-        return true;
+
+    return true;
+
     }
 };
