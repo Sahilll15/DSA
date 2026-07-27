@@ -11,8 +11,8 @@ public:
             strMap[s].push_back(Str);
         }
 
-        for(auto it:strMap){
-            ans.push_back(it.second);
+        for(auto& it:strMap){
+            ans.push_back(move(it.second));
         }
 
         return ans;
