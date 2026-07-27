@@ -11,8 +11,9 @@ public:
         }
 
         for(int i=0;i<nums.size();i++){
-            int required=target-nums[i];
-            if(Mymap.find(required)!=Mymap.end() && Mymap[required]!=i){
+        int required=target-nums[i];
+        auto it = Mymap.find(required);
+        if (it != Mymap.end() && it->second != i){
                 ans.push_back(i);
                 ans.push_back(Mymap[required]);
                 break;
