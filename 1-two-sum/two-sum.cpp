@@ -1,24 +1,24 @@
 class Solution {
 public:
     vector<int> twoSum(vector<int>& nums, int target) {
+        
+        vector<int> ans;
 
-        vector<pair<int,int>> paired;
+        unordered_map<int,int> Mymap;
 
         for(int i=0;i<nums.size();i++){
-            paired.push_back({nums[i],i});
-        }
-        sort(paired.begin(),paired.end());
-
-        int l=0;
-        int r=paired.size()-1;
-
-        while(l<r){
-            int sum=paired[l].first+paired[r].first;
-            if(sum == target) return {paired[l].second,paired[r].second};
-            else if(sum<target) l++;
-            else r--;
+            Mymap[nums[i]]=i;
         }
 
-        return {};
+        for(int i=0;i<nums.size();i++){
+            int required=target-nums[i];
+            if(Mymap.find(required)!=Mymap.end() && Mymap[required]!=i){
+                ans.push_back(i);
+                ans.push_back(Mymap[required]);
+                break;
+            }
+        }
+
+        return ans;
     }
 };
