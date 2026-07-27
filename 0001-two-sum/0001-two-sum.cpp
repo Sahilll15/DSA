@@ -6,7 +6,7 @@ public:
         for(int i=0;i<nums.size();i++){
             int need=target-nums[i];
             auto it=seen.find(need);
-            if(it!=seen.end()) return {it->second,i};
+            if(it!=seen.end()) return {i,it->second};
             seen[nums[i]]=i;
         }
         
