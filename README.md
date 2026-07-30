@@ -1417,4 +1417,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0912-sort-an-array](https://github.com/Sahilll15/DSA/tree/master/0912-sort-an-array) |
+## Union-Find
+|  |
+| ------- |
+| [0128-longest-consecutive-sequence](https://github.com/Sahilll15/DSA/tree/master/0128-longest-consecutive-sequence) |
 <!---LeetCode Topics End-->
