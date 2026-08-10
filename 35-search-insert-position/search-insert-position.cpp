@@ -1,23 +1,27 @@
 class Solution {
 public:
-   
-int searchInsert(vector<int>& arr, int x) {
-    int n = arr.size(); // size of the array
-    int low = 0, high = n - 1;
-    int ans = n;
+    int searchInsert(vector<int>& nums, int target) {
+        int low=0;
+        int high=nums.size()-1;
 
-    while (low <= high) {
-        int mid = (low + high) / 2;
-        // maybe an answer
-        if (arr[mid] >= x) {
-            ans = mid;
-            //look for smaller index on the left
-            high = mid - 1;
+        if(target<nums[low]){
+            return low;
+        }else if(target>nums[high]){
+            return high+1;
         }
-        else {
-            low = mid + 1; // look on the right
+
+        while(low<=high){
+            int mid=low+(high-low)/2;
+
+            if(nums[mid]==target){
+                return mid;
+            }else if(nums[mid]<target){
+                low=mid+1;
+            }else{
+                high=mid-1;
+            }
         }
+
+        return low;
     }
-    return ans;
-}
 };
