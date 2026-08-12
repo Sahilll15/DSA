@@ -11,7 +11,7 @@ public:
             int mid=low+(high-low)/2;
             int sum=0;
             for(int i=0;i<n;i++){
-                sum += (nums[i] + mid - 1) / mid;
+                sum += ceil((float)nums[i]/mid);
             } 
 
             if(sum<=threshold){
