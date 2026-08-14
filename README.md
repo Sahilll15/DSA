@@ -425,6 +425,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0349-intersection-of-two-arrays](https://github.com/Sahilll15/DSA/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Sahilll15/DSA/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0380-insert-delete-getrandom-o1](https://github.com/Sahilll15/DSA/tree/master/0380-insert-delete-getrandom-o1) |
+| [0410-split-array-largest-sum](https://github.com/Sahilll15/DSA/tree/master/0410-split-array-largest-sum) |
 | [0416-partition-equal-subset-sum](https://github.com/Sahilll15/DSA/tree/master/0416-partition-equal-subset-sum) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/Sahilll15/DSA/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0455-assign-cookies](https://github.com/Sahilll15/DSA/tree/master/0455-assign-cookies) |
@@ -624,6 +625,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0268-missing-number](https://github.com/Sahilll15/DSA/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/Sahilll15/DSA/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Sahilll15/DSA/tree/master/0350-intersection-of-two-arrays-ii) |
+| [0410-split-array-largest-sum](https://github.com/Sahilll15/DSA/tree/master/0410-split-array-largest-sum) |
 | [0540-single-element-in-a-sorted-array](https://github.com/Sahilll15/DSA/tree/master/0540-single-element-in-a-sorted-array) |
 | [0719-find-k-th-smallest-pair-distance](https://github.com/Sahilll15/DSA/tree/master/0719-find-k-th-smallest-pair-distance) |
 | [0729-my-calendar-i](https://github.com/Sahilll15/DSA/tree/master/0729-my-calendar-i) |
@@ -698,6 +700,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0198-house-robber](https://github.com/Sahilll15/DSA/tree/master/0198-house-robber) |
 | [0213-house-robber-ii](https://github.com/Sahilll15/DSA/tree/master/0213-house-robber-ii) |
 | [0264-ugly-number-ii](https://github.com/Sahilll15/DSA/tree/master/0264-ugly-number-ii) |
+| [0410-split-array-largest-sum](https://github.com/Sahilll15/DSA/tree/master/0410-split-array-largest-sum) |
 | [0416-partition-equal-subset-sum](https://github.com/Sahilll15/DSA/tree/master/0416-partition-equal-subset-sum) |
 | [0542-01-matrix](https://github.com/Sahilll15/DSA/tree/master/0542-01-matrix) |
 | [0647-palindromic-substrings](https://github.com/Sahilll15/DSA/tree/master/0647-palindromic-substrings) |
@@ -1216,6 +1219,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0134-gas-station](https://github.com/Sahilll15/DSA/tree/master/0134-gas-station) |
 | [0179-largest-number](https://github.com/Sahilll15/DSA/tree/master/0179-largest-number) |
 | [0402-remove-k-digits](https://github.com/Sahilll15/DSA/tree/master/0402-remove-k-digits) |
+| [0410-split-array-largest-sum](https://github.com/Sahilll15/DSA/tree/master/0410-split-array-largest-sum) |
 | [0455-assign-cookies](https://github.com/Sahilll15/DSA/tree/master/0455-assign-cookies) |
 | [0624-maximum-distance-in-arrays](https://github.com/Sahilll15/DSA/tree/master/0624-maximum-distance-in-arrays) |
 | [0890-lemonade-change](https://github.com/Sahilll15/DSA/tree/master/0890-lemonade-change) |
@@ -1247,6 +1251,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0209-minimum-size-subarray-sum](https://github.com/Sahilll15/DSA/tree/master/0209-minimum-size-subarray-sum) |
 | [0238-product-of-array-except-self](https://github.com/Sahilll15/DSA/tree/master/0238-product-of-array-except-self) |
 | [0303-range-sum-query-immutable](https://github.com/Sahilll15/DSA/tree/master/0303-range-sum-query-immutable) |
+| [0410-split-array-largest-sum](https://github.com/Sahilll15/DSA/tree/master/0410-split-array-largest-sum) |
 | [0523-continuous-subarray-sum](https://github.com/Sahilll15/DSA/tree/master/0523-continuous-subarray-sum) |
 | [0525-contiguous-array](https://github.com/Sahilll15/DSA/tree/master/0525-contiguous-array) |
 | [0560-subarray-sum-equals-k](https://github.com/Sahilll15/DSA/tree/master/0560-subarray-sum-equals-k) |
