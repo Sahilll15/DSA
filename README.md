@@ -702,6 +702,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0264-ugly-number-ii](https://github.com/Sahilll15/DSA/tree/master/0264-ugly-number-ii) |
 | [0410-split-array-largest-sum](https://github.com/Sahilll15/DSA/tree/master/0410-split-array-largest-sum) |
 | [0416-partition-equal-subset-sum](https://github.com/Sahilll15/DSA/tree/master/0416-partition-equal-subset-sum) |
+| [0509-fibonacci-number](https://github.com/Sahilll15/DSA/tree/master/0509-fibonacci-number) |
 | [0542-01-matrix](https://github.com/Sahilll15/DSA/tree/master/0542-01-matrix) |
 | [0647-palindromic-substrings](https://github.com/Sahilll15/DSA/tree/master/0647-palindromic-substrings) |
 | [0650-2-keys-keyboard](https://github.com/Sahilll15/DSA/tree/master/0650-2-keys-keyboard) |
@@ -1039,6 +1040,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0273-integer-to-english-words](https://github.com/Sahilll15/DSA/tree/master/0273-integer-to-english-words) |
 | [0326-power-of-three](https://github.com/Sahilll15/DSA/tree/master/0326-power-of-three) |
 | [0394-decode-string](https://github.com/Sahilll15/DSA/tree/master/0394-decode-string) |
+| [0509-fibonacci-number](https://github.com/Sahilll15/DSA/tree/master/0509-fibonacci-number) |
 | [1013-fibonacci-number](https://github.com/Sahilll15/DSA/tree/master/1013-fibonacci-number) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/Sahilll15/DSA/tree/master/1951-find-the-winner-of-the-circular-game) |
 ## Graph
@@ -1145,6 +1147,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0273-integer-to-english-words](https://github.com/Sahilll15/DSA/tree/master/0273-integer-to-english-words) |
 | [0326-power-of-three](https://github.com/Sahilll15/DSA/tree/master/0326-power-of-three) |
 | [0380-insert-delete-getrandom-o1](https://github.com/Sahilll15/DSA/tree/master/0380-insert-delete-getrandom-o1) |
+| [0509-fibonacci-number](https://github.com/Sahilll15/DSA/tree/master/0509-fibonacci-number) |
 | [0523-continuous-subarray-sum](https://github.com/Sahilll15/DSA/tree/master/0523-continuous-subarray-sum) |
 | [0539-minimum-time-difference](https://github.com/Sahilll15/DSA/tree/master/0539-minimum-time-difference) |
 | [0564-find-the-closest-palindrome](https://github.com/Sahilll15/DSA/tree/master/0564-find-the-closest-palindrome) |
@@ -1333,6 +1336,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Memoization
 |  |
 | ------- |
+| [0509-fibonacci-number](https://github.com/Sahilll15/DSA/tree/master/0509-fibonacci-number) |
 | [1013-fibonacci-number](https://github.com/Sahilll15/DSA/tree/master/1013-fibonacci-number) |
 ## Enumeration
 |  |
