@@ -1,27 +1,24 @@
 class Solution {
 public:
-    vector<string> generateParenthesis(int n) {
-        vector<string> ans;
-        stack<tuple<string, int, int>> stk; // tuple to store current string, open count, and close count
-        stk.push({"(", 1, 0}); 
-        while (!stk.empty()) {
-            auto [current, openCnt, closeCnt] = stk.top();
-            stk.pop();
-
-            if (openCnt == n && closeCnt == n) {
-                ans.push_back(current);
-                continue;
-            }
-
-            if (openCnt < n) {
-                stk.push({current + '(', openCnt + 1, closeCnt});
-            }
-
-            if (closeCnt < openCnt) {
-                stk.push({current + ')', openCnt, closeCnt + 1});
-            }
+    void generate(int open,int close,int n,string s,vector<string> &ans){
+           
+        if(open==close && (open+close)==2*n){
+            ans.push_back(s);
+            return;
         }
 
+
+        if(open<n){
+            generate(open+1,close,n,s+"(",ans);
+        }
+
+        if(close<open){
+            generate(open,close+1,n,s+")",ans);
+        }
+    }
+    vector<string> generateParenthesis(int n) {
+        vector<string> ans;
+        generate(0,0,n,"",ans);
         return ans;
     }
 };
