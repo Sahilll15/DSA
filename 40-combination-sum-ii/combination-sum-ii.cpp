@@ -1,7 +1,9 @@
 class Solution {
 public:
+
     vector<vector<int>> ans;
-    void solve(int index,vector<int> &current,vector<int>& candidates, int target){
+
+    void solve(int index,vector<int>&current,vector<int>&candidates,int target){
         if(target==0){
             ans.push_back(current);
             return;
@@ -10,8 +12,8 @@ public:
         }
 
         for(int i=index;i<candidates.size();i++){
-            if(i > index && candidates[i] == candidates[i - 1]) continue;
-            if (candidates[i] > target) break;
+            if(i>index && candidates[i]==candidates[i-1]) continue;
+            if(candidates[i]>target) break;
             current.push_back(candidates[i]);
             solve(i+1,current,candidates,target-candidates[i]);
             current.pop_back();
@@ -22,5 +24,5 @@ public:
         vector<int> current;
         solve(0,current,candidates,target);
         return ans;
-    }
+    }   
 };
