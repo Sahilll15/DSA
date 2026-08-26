@@ -2,12 +2,14 @@
 class Solution {
 public:
     ListNode *detectCycle(ListNode *head) {
-        ListNode* slow=head;
         ListNode* fast=head;
+        ListNode* slow=head;
+
         bool loop=false;
         while(fast!=nullptr && fast->next!=nullptr){
             fast=fast->next->next;
             slow=slow->next;
+
             if(fast==slow){
                 loop=true;
                 break;
