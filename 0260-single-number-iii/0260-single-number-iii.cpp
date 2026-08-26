@@ -1,20 +1,30 @@
 class Solution {
 public:
     vector<int> singleNumber(vector<int>& nums) {
-        unordered_map<int,int>mpp;
+       int n=nums.size();
+            
+            long XOR=0;
 
-        for(int i=0;i<nums.size();i++){
-            mpp[nums[i]]++;
-        }
+            for(int i=0;i<n;i++){
+                XOR=XOR^nums[i];
+            }
 
-        vector<int>ans;
+            int rightmost=(XOR & (XOR-1)) ^ XOR;
 
-        for(auto it:mpp){
-            if(it.second == 1){
-                ans.push_back(it.first);
+            int XOR1=0,XOR2=0;
+
+             // Traverse the array
+        for(int i=0; i < n; i++) {
+        
+            if(nums[i] & rightmost) {
+                XOR1 = XOR1 ^ nums[i];
+            }
+            else {
+                XOR2 = XOR2 ^ nums[i];
             }
         }
 
-        return ans;
-    }
+          if(XOR1 < XOR2) return {XOR1, XOR2};
+        return {XOR2, XOR1};
+        }
 };
