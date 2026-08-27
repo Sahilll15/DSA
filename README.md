@@ -1142,6 +1142,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0476-number-complement](https://github.com/Sahilll15/DSA/tree/master/0476-number-complement) |
 | [1435-xor-queries-of-a-subarray](https://github.com/Sahilll15/DSA/tree/master/1435-xor-queries-of-a-subarray) |
 | [1473-find-the-longest-substring-containing-vowels-in-even-counts](https://github.com/Sahilll15/DSA/tree/master/1473-find-the-longest-substring-containing-vowels-in-even-counts) |
+| [1486-xor-operation-in-an-array](https://github.com/Sahilll15/DSA/tree/master/1486-xor-operation-in-an-array) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/Sahilll15/DSA/tree/master/1786-count-the-number-of-consistent-strings) |
 | [2323-minimum-bit-flips-to-convert-number](https://github.com/Sahilll15/DSA/tree/master/2323-minimum-bit-flips-to-convert-number) |
 | [2503-longest-subarray-with-maximum-bitwise-and](https://github.com/Sahilll15/DSA/tree/master/2503-longest-subarray-with-maximum-bitwise-and) |
@@ -1173,6 +1174,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1014-k-closest-points-to-origin](https://github.com/Sahilll15/DSA/tree/master/1014-k-closest-points-to-origin) |
 | [1240-stone-game-ii](https://github.com/Sahilll15/DSA/tree/master/1240-stone-game-ii) |
 | [1430-find-the-k-beauty-of-a-number](https://github.com/Sahilll15/DSA/tree/master/1430-find-the-k-beauty-of-a-number) |
+| [1486-xor-operation-in-an-array](https://github.com/Sahilll15/DSA/tree/master/1486-xor-operation-in-an-array) |
 | [1636-number-of-substrings-with-only-1s](https://github.com/Sahilll15/DSA/tree/master/1636-number-of-substrings-with-only-1s) |
 | [1642-water-bottles](https://github.com/Sahilll15/DSA/tree/master/1642-water-bottles) |
 | [1693-sum-of-all-odd-length-subarrays](https://github.com/Sahilll15/DSA/tree/master/1693-sum-of-all-odd-length-subarrays) |
