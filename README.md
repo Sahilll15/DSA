@@ -452,6 +452,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0792-binary-search](https://github.com/Sahilll15/DSA/tree/master/0792-binary-search) |
 | [0859-design-circular-deque](https://github.com/Sahilll15/DSA/tree/master/0859-design-circular-deque) |
 | [0860-design-circular-queue](https://github.com/Sahilll15/DSA/tree/master/0860-design-circular-queue) |
+| [0860-lemonade-change](https://github.com/Sahilll15/DSA/tree/master/0860-lemonade-change) |
 | [0870-magic-squares-in-grid](https://github.com/Sahilll15/DSA/tree/master/0870-magic-squares-in-grid) |
 | [0875-koko-eating-bananas](https://github.com/Sahilll15/DSA/tree/master/0875-koko-eating-bananas) |
 | [0882-peak-index-in-a-mountain-array](https://github.com/Sahilll15/DSA/tree/master/0882-peak-index-in-a-mountain-array) |
@@ -1242,6 +1243,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0410-split-array-largest-sum](https://github.com/Sahilll15/DSA/tree/master/0410-split-array-largest-sum) |
 | [0455-assign-cookies](https://github.com/Sahilll15/DSA/tree/master/0455-assign-cookies) |
 | [0624-maximum-distance-in-arrays](https://github.com/Sahilll15/DSA/tree/master/0624-maximum-distance-in-arrays) |
+| [0860-lemonade-change](https://github.com/Sahilll15/DSA/tree/master/0860-lemonade-change) |
 | [0890-lemonade-change](https://github.com/Sahilll15/DSA/tree/master/0890-lemonade-change) |
 | [1700-minimum-time-to-make-rope-colorful](https://github.com/Sahilll15/DSA/tree/master/1700-minimum-time-to-make-rope-colorful) |
 | [3075-maximize-happiness-of-selected-children](https://github.com/Sahilll15/DSA/tree/master/3075-maximize-happiness-of-selected-children) |
