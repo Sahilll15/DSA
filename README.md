@@ -428,6 +428,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0380-insert-delete-getrandom-o1](https://github.com/Sahilll15/DSA/tree/master/0380-insert-delete-getrandom-o1) |
 | [0410-split-array-largest-sum](https://github.com/Sahilll15/DSA/tree/master/0410-split-array-largest-sum) |
 | [0416-partition-equal-subset-sum](https://github.com/Sahilll15/DSA/tree/master/0416-partition-equal-subset-sum) |
+| [0435-non-overlapping-intervals](https://github.com/Sahilll15/DSA/tree/master/0435-non-overlapping-intervals) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/Sahilll15/DSA/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0455-assign-cookies](https://github.com/Sahilll15/DSA/tree/master/0455-assign-cookies) |
 | [0485-max-consecutive-ones](https://github.com/Sahilll15/DSA/tree/master/0485-max-consecutive-ones) |
@@ -580,6 +581,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0347-top-k-frequent-elements](https://github.com/Sahilll15/DSA/tree/master/0347-top-k-frequent-elements) |
 | [0349-intersection-of-two-arrays](https://github.com/Sahilll15/DSA/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Sahilll15/DSA/tree/master/0350-intersection-of-two-arrays-ii) |
+| [0435-non-overlapping-intervals](https://github.com/Sahilll15/DSA/tree/master/0435-non-overlapping-intervals) |
 | [0455-assign-cookies](https://github.com/Sahilll15/DSA/tree/master/0455-assign-cookies) |
 | [0539-minimum-time-difference](https://github.com/Sahilll15/DSA/tree/master/0539-minimum-time-difference) |
 | [0692-top-k-frequent-words](https://github.com/Sahilll15/DSA/tree/master/0692-top-k-frequent-words) |
@@ -705,6 +707,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0264-ugly-number-ii](https://github.com/Sahilll15/DSA/tree/master/0264-ugly-number-ii) |
 | [0410-split-array-largest-sum](https://github.com/Sahilll15/DSA/tree/master/0410-split-array-largest-sum) |
 | [0416-partition-equal-subset-sum](https://github.com/Sahilll15/DSA/tree/master/0416-partition-equal-subset-sum) |
+| [0435-non-overlapping-intervals](https://github.com/Sahilll15/DSA/tree/master/0435-non-overlapping-intervals) |
 | [0509-fibonacci-number](https://github.com/Sahilll15/DSA/tree/master/0509-fibonacci-number) |
 | [0542-01-matrix](https://github.com/Sahilll15/DSA/tree/master/0542-01-matrix) |
 | [0647-palindromic-substrings](https://github.com/Sahilll15/DSA/tree/master/0647-palindromic-substrings) |
@@ -1241,6 +1244,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0179-largest-number](https://github.com/Sahilll15/DSA/tree/master/0179-largest-number) |
 | [0402-remove-k-digits](https://github.com/Sahilll15/DSA/tree/master/0402-remove-k-digits) |
 | [0410-split-array-largest-sum](https://github.com/Sahilll15/DSA/tree/master/0410-split-array-largest-sum) |
+| [0435-non-overlapping-intervals](https://github.com/Sahilll15/DSA/tree/master/0435-non-overlapping-intervals) |
 | [0455-assign-cookies](https://github.com/Sahilll15/DSA/tree/master/0455-assign-cookies) |
 | [0624-maximum-distance-in-arrays](https://github.com/Sahilll15/DSA/tree/master/0624-maximum-distance-in-arrays) |
 | [0860-lemonade-change](https://github.com/Sahilll15/DSA/tree/master/0860-lemonade-change) |
