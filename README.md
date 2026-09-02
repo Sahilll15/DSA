@@ -518,6 +518,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2255-minimum-swaps-to-group-all-1s-together-ii](https://github.com/Sahilll15/DSA/tree/master/2255-minimum-swaps-to-group-all-1s-together-ii) |
 | [2324-find-triangular-sum-of-an-array](https://github.com/Sahilll15/DSA/tree/master/2324-find-triangular-sum-of-an-array) |
 | [2411-spiral-matrix-iv](https://github.com/Sahilll15/DSA/tree/master/2411-spiral-matrix-iv) |
+| [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/Sahilll15/DSA/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
 | [2494-sum-of-prefix-scores-of-strings](https://github.com/Sahilll15/DSA/tree/master/2494-sum-of-prefix-scores-of-strings) |
 | [2502-sort-the-people](https://github.com/Sahilll15/DSA/tree/master/2502-sort-the-people) |
 | [2503-longest-subarray-with-maximum-bitwise-and](https://github.com/Sahilll15/DSA/tree/master/2503-longest-subarray-with-maximum-bitwise-and) |
@@ -774,6 +775,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2116-count-number-of-pairs-with-absolute-difference-k](https://github.com/Sahilll15/DSA/tree/master/2116-count-number-of-pairs-with-absolute-difference-k) |
 | [2122-count-special-quadruplets](https://github.com/Sahilll15/DSA/tree/master/2122-count-special-quadruplets) |
 | [2163-kth-distinct-string-in-an-array](https://github.com/Sahilll15/DSA/tree/master/2163-kth-distinct-string-in-an-array) |
+| [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/Sahilll15/DSA/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
 | [2502-sort-the-people](https://github.com/Sahilll15/DSA/tree/master/2502-sort-the-people) |
 | [2524-largest-positive-integer-that-exists-with-its-negative](https://github.com/Sahilll15/DSA/tree/master/2524-largest-positive-integer-that-exists-with-its-negative) |
 | [2552-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/Sahilll15/DSA/tree/master/2552-maximum-sum-of-distinct-subarrays-with-length-k) |
@@ -863,6 +865,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1538-maximum-points-you-can-obtain-from-cards](https://github.com/Sahilll15/DSA/tree/master/1538-maximum-points-you-can-obtain-from-cards) |
 | [2211-k-radius-subarray-averages](https://github.com/Sahilll15/DSA/tree/master/2211-k-radius-subarray-averages) |
 | [2255-minimum-swaps-to-group-all-1s-together-ii](https://github.com/Sahilll15/DSA/tree/master/2255-minimum-swaps-to-group-all-1s-together-ii) |
+| [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/Sahilll15/DSA/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
 | [2552-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/Sahilll15/DSA/tree/master/2552-maximum-sum-of-distinct-subarrays-with-length-k) |
 | [3592-find-x-sum-of-all-k-long-subarrays-ii](https://github.com/Sahilll15/DSA/tree/master/3592-find-x-sum-of-all-k-long-subarrays-ii) |
 | [3610-find-x-sum-of-all-k-long-subarrays-i](https://github.com/Sahilll15/DSA/tree/master/3610-find-x-sum-of-all-k-long-subarrays-i) |
