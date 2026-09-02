@@ -6,15 +6,18 @@ public:
         int left = 0;
         unordered_map<int, int> numsMap;
         for (int right = 0; right < nums.size(); right++) {
+        //add current item to current sum
         sum += nums[right];
         numsMap[nums[right]]++;
-            
+
+        //if already exists in the window them remove the preious one and also reduce them sum
        while (numsMap[nums[right]] > 1) {
                 sum -= nums[left];
                 numsMap[nums[left]]--;
                 left++;
             }
 
+        //if the window is full then remove one element from the left and then set the maximum
         if(right-left+1==k){
             maximum=max(maximum,sum);
             numsMap[nums[left]]--;
