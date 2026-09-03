@@ -1,26 +1,25 @@
 class Solution {
 public:
     bool checkInclusion(string s1, string s2) {
-        vector<int> s1Char(26,0);
-        vector<int> windowChar(26,0);
+        int window=s1.size();
+        vector<int> s1Freq(26, 0);
+        vector<int> windowFreq(26, 0);
 
-        for(char ch:s1){
-            s1Char[ch-'a']++;
+        for(int i=0;i<s1.size();i++){
+            s1Freq[s1[i]-'a']++;
         }
-        int i=0;
-        for(int j=0;j<s2.size();j++){
-            char ch=s2[j];
-            windowChar[ch-'a']++;
-
-            if(j-i+1 > s1.size()){
-                windowChar[s2[i]-'a']--;
-                i++;
-            }
-
-            if(windowChar==s1Char){
-                return true;
+        int left=0;
+        for(int right=0;right<s2.size();right++){
+            windowFreq[s2[right]-'a']++;
+            if(right-left+1==window){
+                if(windowFreq==s1Freq){
+                    return true;
+                }
+                windowFreq[s2[left]-'a']--;
+                left++;
             }
         }
+
         return false;
     }
 };
