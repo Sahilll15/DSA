@@ -526,6 +526,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2524-largest-positive-integer-that-exists-with-its-negative](https://github.com/Sahilll15/DSA/tree/master/2524-largest-positive-integer-that-exists-with-its-negative) |
 | [2552-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/Sahilll15/DSA/tree/master/2552-maximum-sum-of-distinct-subarrays-with-length-k) |
 | [2634-minimum-common-value](https://github.com/Sahilll15/DSA/tree/master/2634-minimum-common-value) |
+| [2653-sliding-subarray-beauty](https://github.com/Sahilll15/DSA/tree/master/2653-sliding-subarray-beauty) |
 | [2727-number-of-senior-citizens](https://github.com/Sahilll15/DSA/tree/master/2727-number-of-senior-citizens) |
 | [2755-extra-characters-in-a-string](https://github.com/Sahilll15/DSA/tree/master/2755-extra-characters-in-a-string) |
 | [2847-find-maximum-number-of-string-pairs](https://github.com/Sahilll15/DSA/tree/master/2847-find-maximum-number-of-string-pairs) |
@@ -781,6 +782,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2524-largest-positive-integer-that-exists-with-its-negative](https://github.com/Sahilll15/DSA/tree/master/2524-largest-positive-integer-that-exists-with-its-negative) |
 | [2552-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/Sahilll15/DSA/tree/master/2552-maximum-sum-of-distinct-subarrays-with-length-k) |
 | [2634-minimum-common-value](https://github.com/Sahilll15/DSA/tree/master/2634-minimum-common-value) |
+| [2653-sliding-subarray-beauty](https://github.com/Sahilll15/DSA/tree/master/2653-sliding-subarray-beauty) |
 | [2755-extra-characters-in-a-string](https://github.com/Sahilll15/DSA/tree/master/2755-extra-characters-in-a-string) |
 | [2847-find-maximum-number-of-string-pairs](https://github.com/Sahilll15/DSA/tree/master/2847-find-maximum-number-of-string-pairs) |
 | [3242-count-elements-with-maximum-frequency](https://github.com/Sahilll15/DSA/tree/master/3242-count-elements-with-maximum-frequency) |
@@ -869,6 +871,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2255-minimum-swaps-to-group-all-1s-together-ii](https://github.com/Sahilll15/DSA/tree/master/2255-minimum-swaps-to-group-all-1s-together-ii) |
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/Sahilll15/DSA/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
 | [2552-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/Sahilll15/DSA/tree/master/2552-maximum-sum-of-distinct-subarrays-with-length-k) |
+| [2653-sliding-subarray-beauty](https://github.com/Sahilll15/DSA/tree/master/2653-sliding-subarray-beauty) |
 | [3592-find-x-sum-of-all-k-long-subarrays-ii](https://github.com/Sahilll15/DSA/tree/master/3592-find-x-sum-of-all-k-long-subarrays-ii) |
 | [3610-find-x-sum-of-all-k-long-subarrays-i](https://github.com/Sahilll15/DSA/tree/master/3610-find-x-sum-of-all-k-long-subarrays-i) |
 ## Depth-First Search
