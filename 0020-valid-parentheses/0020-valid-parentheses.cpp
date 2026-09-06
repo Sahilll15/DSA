@@ -5,17 +5,21 @@ public:
         stack<char> st;
 
         map<char, char> chars = {{'}', '{'}, {']', '['}, {')', '('}};
+
         for(int i=0;i<s.size();i++){
-            int ch=s[i];
-            if(ch =='(' || ch=='{' || ch=='['){
-                st.push(ch);
+            if(s[i]=='('|| s[i]=='{' || s[i]=='['){
+                st.push(s[i]);
             }else{
-                if(st.empty() || st.top() !=chars[ch] ){
+                if(st.empty()){
                     return false;
                 }
-                st.pop();
+
+                if(st.top()==chars[s[i]]){
+                    st.pop();
+                }else{
+                    return false;
+                }
             }
-            
         }
 
         return st.empty();
