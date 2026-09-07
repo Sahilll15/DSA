@@ -17,14 +17,11 @@ public:
 
     bool checkSame(TreeNode* p,TreeNode* q){
         if(p==nullptr && q==nullptr) return true;
+        if(p==nullptr || q==nullptr)return false;
 
-        if(p==nullptr || q==nullptr) return false;
-
-        if(p->val!=q->val) return false;
-
-        bool leftSame=checkSame(p->left,q->left);
-        bool rightSame=checkSame(p->right,q->right);
-
-        return leftSame && rightSame;
+        if(p->val !=q->val) return false;
+        bool rightcheck=checkSame(p->right,q->right);
+         bool leftcheck=checkSame(p->left,q->left);
+         return rightcheck && leftcheck;
     }
 };
