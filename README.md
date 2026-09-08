@@ -1207,6 +1207,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3275-minimum-number-of-pushes-to-type-word-i](https://github.com/Sahilll15/DSA/tree/master/3275-minimum-number-of-pushes-to-type-word-i) |
 | [3476-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/Sahilll15/DSA/tree/master/3476-find-minimum-operations-to-make-all-elements-divisible-by-three) |
 | [3581-the-two-sneaky-numbers-of-digitville](https://github.com/Sahilll15/DSA/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
+| [3870-count-commas-in-range](https://github.com/Sahilll15/DSA/tree/master/3870-count-commas-in-range) |
 ## String Matching
 |  |
 | ------- |
