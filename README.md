@@ -564,6 +564,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0776-n-ary-tree-postorder-traversal](https://github.com/Sahilll15/DSA/tree/master/0776-n-ary-tree-postorder-traversal) |
 | [0874-backspace-string-compare](https://github.com/Sahilll15/DSA/tree/master/0874-backspace-string-compare) |
 | [0883-car-fleet](https://github.com/Sahilll15/DSA/tree/master/0883-car-fleet) |
+| [0901-online-stock-span](https://github.com/Sahilll15/DSA/tree/master/0901-online-stock-span) |
 | [1019-next-greater-node-in-linked-list](https://github.com/Sahilll15/DSA/tree/master/1019-next-greater-node-in-linked-list) |
 | [1128-remove-all-adjacent-duplicates-in-string](https://github.com/Sahilll15/DSA/tree/master/1128-remove-all-adjacent-duplicates-in-string) |
 | [1298-reverse-substrings-between-each-pair-of-parentheses](https://github.com/Sahilll15/DSA/tree/master/1298-reverse-substrings-between-each-pair-of-parentheses) |
@@ -619,6 +620,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0503-next-greater-element-ii](https://github.com/Sahilll15/DSA/tree/master/0503-next-greater-element-ii) |
 | [0739-daily-temperatures](https://github.com/Sahilll15/DSA/tree/master/0739-daily-temperatures) |
 | [0883-car-fleet](https://github.com/Sahilll15/DSA/tree/master/0883-car-fleet) |
+| [0901-online-stock-span](https://github.com/Sahilll15/DSA/tree/master/0901-online-stock-span) |
 | [1019-next-greater-node-in-linked-list](https://github.com/Sahilll15/DSA/tree/master/1019-next-greater-node-in-linked-list) |
 | [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/Sahilll15/DSA/tree/master/1475-final-prices-with-a-special-discount-in-a-shop) |
 ## Binary Search
@@ -1284,6 +1286,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0789-kth-largest-element-in-a-stream](https://github.com/Sahilll15/DSA/tree/master/0789-kth-largest-element-in-a-stream) |
 | [0859-design-circular-deque](https://github.com/Sahilll15/DSA/tree/master/0859-design-circular-deque) |
 | [0860-design-circular-queue](https://github.com/Sahilll15/DSA/tree/master/0860-design-circular-queue) |
+| [0901-online-stock-span](https://github.com/Sahilll15/DSA/tree/master/0901-online-stock-span) |
 | [1497-design-a-stack-with-increment-operation](https://github.com/Sahilll15/DSA/tree/master/1497-design-a-stack-with-increment-operation) |
 | [1582-design-browser-history](https://github.com/Sahilll15/DSA/tree/master/1582-design-browser-history) |
 ## Randomized
@@ -1406,6 +1409,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0789-kth-largest-element-in-a-stream](https://github.com/Sahilll15/DSA/tree/master/0789-kth-largest-element-in-a-stream) |
+| [0901-online-stock-span](https://github.com/Sahilll15/DSA/tree/master/0901-online-stock-span) |
 | [1582-design-browser-history](https://github.com/Sahilll15/DSA/tree/master/1582-design-browser-history) |
 ## Game Theory
 |  |
