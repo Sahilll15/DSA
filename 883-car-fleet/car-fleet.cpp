@@ -1,32 +1,30 @@
-#include <vector>
-#include <algorithm>
-#include <stack>
-
-using namespace std;
-
 class Solution {
 public:
     int carFleet(int target, vector<int>& position, vector<int>& speed) {
-        vector<pair<int, int>> nums;
+        int n=position.size();
 
-        for (int i = 0; i < position.size(); i++) {
-            nums.push_back({position[i], speed[i]});
+
+  vector<pair<int,int>> cars;
+        cars.reserve(n);
+
+
+        for(int i=0;i<n;i++){
+            cars.push_back({position[i],speed[i]});
         }
 
-        sort(nums.begin(), nums.end(), [](const pair<int, int>& a, const pair<int, int>& b) {
-            return a.first > b.first;
-        });
+        sort(cars.begin(),cars.end());
 
-        stack<double> stk;
+        stack<double>st;
 
-        for (int i = 0; i < nums.size(); i++) {
-            double t = (double)(target - nums[i].first) / nums[i].second;
+        for(int i=0;i<n;i++){
+            double time=(target-cars[i].first)/(double)cars[i].second;
 
-            if (stk.empty() || stk.top() < t) {
-                stk.push(t);
+            while(!st.empty() && st.top()<=time){
+                st.pop();
             }
-        }
 
-        return stk.size();
+            st.push(time);
+        }
+        return st.size();
     }
 };
