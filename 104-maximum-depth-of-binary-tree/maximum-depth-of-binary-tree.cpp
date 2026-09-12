@@ -1,23 +1,22 @@
 
 class Solution {
 public:
-    int maxDepth(TreeNode* root) {
-        int maxVal=0;
-        int ans=0;
+    int countDepth(TreeNode* root){
+        if(root==nullptr) return 0;
+        int left=0;
+        int right=0;
 
-         getDepth(root,ans+1,maxVal);
-
-         return maxVal;
-    }
-
-    void  getDepth(TreeNode* root, int ans, int& maxVal){
-        if(root==nullptr) return ;
-
-        if(ans>maxVal){
-            maxVal=ans;
+        if(root->left!=nullptr){
+            left=countDepth(root->left);
         }
 
-        if(root->left) getDepth(root->left,ans+1,maxVal);
-        if(root->right) getDepth(root->right,ans+1,maxVal);
+        if(root->right!=nullptr){
+            right=countDepth(root->right);
+        }
+
+        return 1+max(left,right);
+    }
+    int maxDepth(TreeNode* root) {
+        return countDepth(root);
     }
 };
