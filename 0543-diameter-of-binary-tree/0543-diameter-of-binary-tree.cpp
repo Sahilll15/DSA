@@ -1,23 +1,18 @@
 
 class Solution {
 public:
-    int diameterOfBinaryTree(TreeNode* root) {
-        int maxVal=0;
-
-        if(root==nullptr) return 0;
-        getHeight(root,maxVal);
-        return maxVal;
+    int diameterOfBinaryTree(TreeNode* root) {  
+        int maxValue=0;
+        getHeight(root,maxValue);
+        return maxValue;        
     }
 
-    int getHeight(TreeNode* root,int& maxVal){
+    int getHeight(TreeNode* root,int& maxValue){
         if(root==nullptr) return 0;
+        int leftHeight=getHeight(root->left,maxValue);
+        int rightHeight= getHeight(root->right,maxValue);
 
-        int leftHeight = getHeight(root->left, maxVal);
-        int rightHeight = getHeight(root->right, maxVal);
-
-        maxVal=max(maxVal,leftHeight+rightHeight);
-
-        return max(leftHeight,rightHeight)+1;
+        maxValue=max(maxValue,leftHeight+rightHeight);
+        return 1+max(leftHeight,rightHeight);
     }
-
 };
