@@ -2,27 +2,17 @@
 class Solution {
 public:
     bool isSymmetric(TreeNode* root) {
-        if(root==nullptr) return false;
-
-
-        return isSame(root->left,root->right) == 1  ;
+        if(root==nullptr) return true;
+        return checkSymmetry(root->left,root->right);        
     }
 
-    int isSame(TreeNode* root1,TreeNode* root2){
-        if(root1==nullptr && root2==nullptr) return 1;
-        
-        if(root1==nullptr || root2==nullptr) return -1;
+    bool checkSymmetry(TreeNode* p,TreeNode* q){
+        if(p==nullptr && q==nullptr) return true;
 
-        if(root1->val != root2->val){
-            return -1;
-        }
-        int val1=isSame(root1->left,root2->right);
-        int val2=isSame(root1->right,root2->left); 
+        if(p==nullptr || q==nullptr) return false;
 
-        if(val1 == -1 || val2==-1){
-            return -1;
-        }
+        if(p->val != q->val) return false;
 
-        return 1;
+        return checkSymmetry(p->left,q->right) && checkSymmetry(p->right,q->left);
     }
 };
