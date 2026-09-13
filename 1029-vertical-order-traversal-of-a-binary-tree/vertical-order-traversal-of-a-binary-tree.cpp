@@ -1,35 +1,27 @@
 class Solution {
 public:
+    map<int,vector<pair<int,int>>> myMap;
+    void traversal(TreeNode* root,int verticalLevel,int level){
+        if(root==nullptr) return;
+        myMap[verticalLevel].push_back({level,root->val});
+
+        if(root->left!=nullptr)traversal(root->left,verticalLevel-1,level+1);
+        if(root->right!=nullptr)traversal(root->right,verticalLevel+1,level+1);
+    }
     vector<vector<int>> verticalTraversal(TreeNode* root) {
         vector<vector<int>> ans;
-        map<int, vector<pair<int,int>>> mp;
+        if(root==nullptr) return ans;
+        traversal(root,0,0);
 
-        queue<TreeNode*> q;
-        traversal(root, 0, 0,mp);
-
-       for (auto &p : mp) {
-         sort(p.second.begin(), p.second.end());
-            
-            vector<int> col;
-            for (auto &node : p.second)
-                col.push_back(node.second); 
-            
-            ans.push_back(col);
-     }
-
+        for(auto it:myMap){
+            sort(it.second.begin(),it.second.end());
+            vector<int> newAns;
+            for(int i=0;i<it.second.size();i++){
+                newAns.push_back(it.second[i].second);
+            }
+            ans.push_back(newAns);
+        }   
 
         return ans;
-    }
-
-    void traversal(TreeNode* node, int level, int column,
-                    map<int,vector<pair<int,int>>>& map) {
-        if (node == nullptr)
-            return;
-
-        map[column].push_back({level,node->val});
-        if (node->left)
-            traversal(node->left, level + 1, column - 1, map);
-        if (node->right)
-            traversal(node->right, level + 1, column + 1, map);
     }
 };
