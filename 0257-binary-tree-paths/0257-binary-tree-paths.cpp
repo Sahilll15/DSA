@@ -1,28 +1,26 @@
+
 class Solution {
 public:
-    vector<string> ans;
-    
-    void getPaths(TreeNode* root, string path) {
-        if (root == nullptr) {
+    void generatePath(TreeNode* root,vector<string>&allPaths,string path){
+        if(root==nullptr)return;
+
+        path+=to_string(root->val);
+        if(root->left==nullptr && root->right==nullptr){
+            allPaths.push_back(path);
             return;
         }
-        
-        path += to_string(root->val);
-        
-        if (root->left == nullptr && root->right == nullptr) {
-            ans.push_back(path);
-        } else {
-            path += "->";
-            getPaths(root->left, path);
-            getPaths(root->right, path);
-        }
+        path+="->";
+       
+        if(root->left) generatePath(root->left,allPaths,path);
+        if(root->right)generatePath(root->right,allPaths,path);
+
     }
-    
     vector<string> binaryTreePaths(TreeNode* root) {
-        if (root == nullptr) {
-            return ans;
-        }
-        getPaths(root, "");
-        return ans;
+        vector<string> allPaths;
+
+        string path="";
+        generatePath(root,allPaths,path);
+
+        return allPaths;
     }
 };
