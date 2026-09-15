@@ -1,4 +1,6 @@
-<h2><a href="https://leetcode.com/problems/binary-tree-paths">Binary Tree Paths</a></h2> <img src='https://img.shields.io/badge/Difficulty-Easy-brightgreen' alt='Difficulty: Easy' /><hr><p>Given the <code>root</code> of a binary tree, return <em>all root-to-leaf paths in <strong>any order</strong></em>.</p>
+<h2><a href="https://leetcode.com/problems/binary-tree-paths">Binary Tree Paths</a></h2> <img src='https://img.shields.io/badge/Difficulty-Easy-brightgreen' alt='Difficulty: Easy' /><hr><p>You are given the <code>root</code> of a binary tree.</p>
+
+<p>Return all <strong>root-to-leaf</strong> paths<em> </em>in <strong>any order</strong>.</p>
 
 <p>A <strong>leaf</strong> is a node with no children.</p>
 
