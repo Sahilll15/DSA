@@ -1,36 +1,26 @@
 
 class Solution {
 public:
+    map<int,vector<unsigned long unsigned long>> mp;
+    
+    void traversal(TreeNode* root,int level,unsigned long unsigned long verticalLevel){
+        if(root==nullptr) return;
+
+        mp[level].push_back(verticalLevel);
+        if(root->left)traversal(root->left,level+1,verticalLevel*2);
+        if(root->right)traversal(root->right,level+1,verticalLevel*2+1);
+
+    }
     int widthOfBinaryTree(TreeNode* root) {
-        if (!root) return 0;
+        if(root==nullptr) return 0;
+         mp.clear();
+        int maxWidth=0;
+        traversal(root,1,1);
 
-        long long maxWidth = 0;
-        queue<pair<TreeNode*, long long>> q;
-
-        q.push({root,1});
-
-        while(!q.empty()){
-            int size = q.size();
-            long long start=q.front().second;
-            long long end=start;
-
-            for(int i=0;i<size;i++){
-                 auto [node, idx] = q.front();
-                 q.pop();
-
-                 idx -= start;
-
-                 end = idx;
-
-                 if(node->left){
-                    q.push({node->left,2*idx});
-                 }
-                  if(node->right){
-                    q.push({node->right,2*idx+1});
-                 }
-            }
-
-            maxWidth=max(maxWidth,end+1);
+        for(auto it:mp){
+            unsigned long unsigned long minimum=*min_element(it.second.begin(),it.second.end());
+            unsigned long unsigned long maximum=*max_element(it.second.begin(),it.second.end());
+            maxWidth = max(maxWidth,(int)(maximum - minimum+1) );
         }
 
         return maxWidth;
