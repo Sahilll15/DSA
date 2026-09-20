@@ -1,36 +1,39 @@
+
 class Solution {
 public:
+
+    bool LCA(TreeNode* root,vector<TreeNode*> &path,TreeNode* node){
+        if(root==nullptr)return false;
+
+        path.push_back(root);
+        if(root->val == node->val)return true;
+        if(LCA(root->left,path,node)){
+            return true;
+        }
+        if(LCA(root->right,path,node)) return true;
+
+        path.pop_back();
+
+        return false;
+    }
     TreeNode* lowestCommonAncestor(TreeNode* root, TreeNode* p, TreeNode* q) {
-        TreeNode* ans = nullptr;
+        vector<TreeNode*> pathP;
+        vector<TreeNode*> pathQ;
 
-  
-        if ((root->val >= min(p->val, q->val)) &&
-            (root->val <= max(p->val, q->val))) {
-            return root;
-        }
+        TreeNode* ans;
+        LCA(root, pathP, p);
+        LCA(root, pathQ, q);
 
-        if (root->val > p->val && root->val > q->val) {
-            find(root->left, p, q, ans);
-        } else if (root->val < p->val && root->val < q->val) {
-            find(root->right, p, q, ans);
-        }
+        int i=0;
+        while(i<pathP.size() && i<pathQ.size()){
+            if(pathP[i]->val==pathQ[i]->val){
+                ans=pathP[i];
+                i++;
+            }else{
+                break;
+            }
+        } 
 
         return ans;
-    }
-
-    void find(TreeNode* root, TreeNode* p, TreeNode* q, TreeNode*& ans) {
-        if (!root) return;
-
-        if ((root->val >= min(p->val, q->val)) &&
-            (root->val <= max(p->val, q->val))) {
-            ans = root;
-            return;
-        }
-
-        if (root->val > p->val && root->val > q->val) {
-            find(root->left, p, q, ans);
-        } else if (root->val < p->val && root->val < q->val) {
-            find(root->right, p, q, ans);
-        }
     }
 };
