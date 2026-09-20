@@ -1,57 +1,99 @@
+
 class Solution {
 public:
-    TreeNode* deleteNode(TreeNode* root, int key) {
-        if (root == nullptr) return root;
-        if (root->val == key) {
-            return helper(root);
-        }
+     pair<TreeNode*, TreeNode*>  searchNode(TreeNode* root,int key){
+            TreeNode* curr = root;
+        TreeNode* parent = nullptr;
 
-        TreeNode* curr = root;
-
-      
-        while (curr != nullptr) {
-
-            
-            if (key < curr->val) {
-                if (curr->left != nullptr && curr->left->val == key) {
-                    curr->left = helper(curr->left);
-                    break;
-                }
-                curr = curr->left;
+        while (curr) {
+            if (curr->val == key) {
+                return {curr, parent};
             }
 
-           
-            else {
-                if (curr->right != nullptr && curr->right->val == key) {
-                    curr->right = helper(curr->right);
-                    break;
-                }
+            parent = curr;
+
+            if (curr->val > key) {
+                curr = curr->left;
+            } else {
                 curr = curr->right;
             }
         }
 
-        return root;
+        return {nullptr, nullptr};
     }
+    TreeNode* deleteNode(TreeNode* root, int key) {
+          if (root == nullptr) return nullptr;
 
-    TreeNode* helper(TreeNode* node){
-        if (node->left == nullptr) {
-            return node->right;
+        auto [node, parent] = searchNode(root, key);
+
+        
+        if (node == nullptr) {
+            return root;
         }
-        if (node->right == nullptr) {
-            return node->left;
+        if (node->left == nullptr && node->right == nullptr) {
+            if (parent == nullptr) {
+                delete node;
+                return nullptr;
+            }
+
+            if (parent->left == node) {
+                parent->left = nullptr;
+            } else {
+                parent->right = nullptr;
+            }
+
+            delete node;
+            return root;
+        }
+        
+
+        if(node->left && node->right){
+            TreeNode* successorParent = node;
+            TreeNode* successor = node->right;
+
+            while(successor->left){
+                successorParent=successor;
+                successor=successor->left;
+            }
+
+            node->val=successor->val;
+             if (successorParent->left == successor) {
+                successorParent->left = successor->right;
+            } else {
+                successorParent->right = successor->right;
+            }
+
+            delete successor;
+
+            return root;
+
         }
 
-        TreeNode* rightChild = node->right;
-        TreeNode* rightMost = findRightNode(node->left);
+        TreeNode* child;
 
-        rightMost->right = rightChild;
-        return node->left;
-    }
-
-    TreeNode* findRightNode(TreeNode* root){
-        while (root->right != nullptr) {
-            root = root->right;
+        if (node->left) {
+            child = node->left;
+        } else {
+            child = node->right;
         }
+
+        // Node is root
+        if (parent == nullptr) {
+            delete node;
+            return child;
+        }
+
+        // Connect parent directly to child
+        if (parent->left == node) {
+            parent->left = child;
+        } else {
+            parent->right = child;
+        }
+
+        delete node;
+
         return root;
+
+
     }
 };
