@@ -1,17 +1,18 @@
+
 class Solution {
 public:
-    bool isValidBST(TreeNode* root) {
-        return validate(root, LLONG_MIN, LLONG_MAX);
-    }
-
-    bool validate(TreeNode* root, long long minVAL, long long maxVAL){
-        if(root == nullptr) return true;
-
-        if(root->val <= minVAL || root->val >= maxVAL){
+    bool validate(TreeNode* curr,long long low,long long high){
+         if (curr == nullptr)
+            return true;
+        
+        if(curr->val <=low || curr->val >=high){
             return false;
         }
 
-        return validate(root->left, minVAL, root->val) &&
-               validate(root->right, root->val, maxVAL);
+        return validate(curr->left,low,curr->val) && validate(curr->right,curr->val,high);
+    }
+    bool isValidBST(TreeNode* root) {
+        if(root==nullptr)return true;
+        return validate(root, LLONG_MIN, LLONG_MAX);
     }
 };
