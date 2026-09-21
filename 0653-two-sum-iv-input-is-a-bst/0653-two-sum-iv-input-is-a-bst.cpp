@@ -1,22 +1,27 @@
 
 class Solution {
 public:
-    bool findTarget(TreeNode* root, int k) {
-        unordered_set<int> st;
+    unordered_map<int,int>map;
+    void traversal(TreeNode* root){
+        if(root==nullptr)return ;
 
-        return traversal(root, st,k);
+        map[root->val]++;
+        traversal(root->left);
+        traversal(root->right);
     }
+    bool findTarget(TreeNode* root, int k) {
+        if(root==nullptr)return false;
+        if(!root->left && !root->right && root->val!=k)return false;
 
-    bool traversal(TreeNode* root, unordered_set<int> &st, int k) {
-        if (root == nullptr)
-            return false;
-
-        if(st.count(k-root->val)){
-            return true;
+        traversal(root);
+        
+        for(auto it:map){
+            int target=k-it.first;
+            if(map.find(target)!=map.end() && it.first!=target){
+                return true;
+            }
         }
-
-        st.insert(root->val);
-
-        return traversal(root->left, st,k) ||traversal(root->right, st,k);
+       
+        return false;
     }
 };
