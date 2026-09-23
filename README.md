@@ -1535,6 +1535,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0128-longest-consecutive-sequence](https://github.com/Sahilll15/DSA/tree/master/0128-longest-consecutive-sequence) |
+| [0547-number-of-provinces](https://github.com/Sahilll15/DSA/tree/master/0547-number-of-provinces) |
 | [2685-count-the-number-of-complete-components](https://github.com/Sahilll15/DSA/tree/master/2685-count-the-number-of-complete-components) |
 ## Newton's Method
 |  |
@@ -1576,5 +1577,6 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Graph Theory
 |  |
 | ------- |
+| [0547-number-of-provinces](https://github.com/Sahilll15/DSA/tree/master/0547-number-of-provinces) |
 | [2685-count-the-number-of-complete-components](https://github.com/Sahilll15/DSA/tree/master/2685-count-the-number-of-complete-components) |
 <!---LeetCode Topics End-->
