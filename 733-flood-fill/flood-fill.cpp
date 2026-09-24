@@ -1,33 +1,41 @@
 class Solution {
 public:
+    void dfs(int sr, int sc, vector<vector<int>>& image, int color, int startingColor) {
+        int row = image.size();
+        int col = image[0].size();
+      
+        if (sr < 0 || sr >= row || sc < 0 || sc >= col ||
+            image[sr][sc] != startingColor) {
+            return;
+        }
 
-    void dfs(int row,int col, vector<vector<int>>& image,vector<vector<int>> & ans,int color,int initColor){
-        
-        ans[row][col]=color;
+          if (image[sr][sc] == startingColor) {
+            image[sr][sc] = color;
+        }
 
-        vector<int> dr={-1,0,+1,0};
-        vector<int> dc={0,+1,0,-1};
 
-        int rows=image.size();
-        int cols=image[0].size();
+        int r[] = {-1, 0, +1, 0};
+        int c[] = {0, +1, 0, -1};
 
-        for(int i=0;i<4;i++){
-            int nrow=row+dr[i];
-            int ncol=col+dc[i];
-
-            if(nrow>=0 && nrow < rows && ncol>=0 && ncol< cols && image[nrow][ncol]==initColor && ans[nrow][ncol]!=color ){
-                dfs(nrow, ncol, image, ans, color, initColor);
-
-            }
+        for (int i = 0; i < 4; i++) {
+                dfs(r[i] + sr, c[i] + sc, image, color, startingColor);
         }
     }
-    vector<vector<int>> floodFill(vector<vector<int>>& image, int sr, int sc, int color) {
-        vector<vector<int>> ans=image;
+    vector<vector<int>> floodFill(vector<vector<int>>& image, int sr, int sc,
+                                  int color) {
 
-        int initColor=image[sr][sc];
+        int row = image.size();
+        int col = image[0].size();
 
-        dfs(sr,sc,image,ans,color,initColor);
+        int startingColor = image[sr][sc];
 
-        return ans;
+       if (startingColor == color) {
+            return image;
+        }
+
+        dfs(sr, sc, image, color, startingColor);
+
+        return image;
+
     }
 };
