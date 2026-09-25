@@ -1,58 +1,75 @@
 class Solution {
 public:
-    int orangesRotting(vector<vector<int>>& grid) {
-        int ans=0;
-        int n=grid.size();
-        int m=grid[0].size();
 
-        vector<vector<int>>vis(n,vector<int>(m,0));
-        int cntFresh=0;
-        queue<pair<pair<int, int>, int>> q;
-        for(int i=0;i<n;i++){
-            for(int j=0;j<m;j++){
-                if(grid[i][j]==2){
-                    vis[i][j]=2;
-                    q.push({{i,j},0});
-                }else if(grid[i][j]==1){
-                    cntFresh++;
-                    vis[i][j]=0;
-                    }else{
-                    vis[i][j]=0;
-                }
-            }
-        }
+    int bfs(vector<vector<int>>& grid, queue<pair<int,int>>& q,
+            int& fresh) {
 
+        int n = grid.size();
+        int m = grid[0].size();
 
-        int drow[]={-1,0,+1,0};
-        int dcol[]={0,+1,0,-1};
-        int time=0;
-        while(!q.empty()){
-            int r=q.front().first.first;
-            int c=q.front().first.second;
-            int t=q.front().second;
-            q.pop();
-            time=max(time,t);
-            for(int i=0;i<4;i++){
-                int nrow=r+drow[i];
-                int ncol=c+dcol[i];
+        int minutes = 0;
 
-               if(nrow >= 0 && nrow < n && ncol >= 0 && ncol < m &&
-                   grid[nrow][ncol] == 1 && vis[nrow][ncol] == 0) {
+        int dr[] = {-1, 0, 1, 0};
+        int dc[] = {0, 1, 0, -1};
 
-                    q.push({{nrow, ncol}, t + 1});
-                    vis[nrow][ncol] = 1;
-                    cntFresh--;
+        while (!q.empty() && fresh > 0) {
+
+            int size = q.size();
+
+            while (size--) {
+
+                auto [r, c] = q.front();
+                q.pop();
+
+                for (int i = 0; i < 4; i++) {
+
+                    int nr = r + dr[i];
+                    int nc = c + dc[i];
+
+                    if (nr >= 0 && nr < n &&
+                        nc >= 0 && nc < m &&
+                        grid[nr][nc] == 1) {
+
+                        grid[nr][nc] = 2;
+                        fresh--;
+
+                        q.push({nr, nc});
+                    }
                 }
             }
 
+            minutes++;
         }
 
-
-        if(cntFresh==0){
-            return time;
+        if (fresh == 0) {
+            return minutes;
         }
 
         return -1;
     }
 
+    int orangesRotting(vector<vector<int>>& grid) {
+
+        int n = grid.size();
+        int m = grid[0].size();
+
+        queue<pair<int,int>> q;
+
+        int fresh = 0;
+
+        for (int i = 0; i < n; i++) {
+            for (int j = 0; j < m; j++) {
+
+                if (grid[i][j] == 1) {
+                    fresh++;
+                }
+
+                if (grid[i][j] == 2) {
+                    q.push({i, j});
+                }
+            }
+        }
+
+        return bfs(grid, q, fresh);
+    }
 };
