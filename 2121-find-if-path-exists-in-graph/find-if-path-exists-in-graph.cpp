@@ -1,38 +1,35 @@
 class Solution {
 public:
-    void dfs(int node,vector<int>adj[],vector<int> &visited){
-        visited[node]=1;
+    bool dfs(int curr,int destination,vector<vector<int>>& adjList,vector<bool>& visited ){
+        
+        if(curr==destination)return true;
+        visited[curr]=true;
 
-        for(auto neig:adj[node]){
-            if(visited[neig] == 0){
-                dfs(neig,adj,visited);
+        for (int neighbor : adjList[curr]) {
+        if (!visited[neighbor]) {
+            if (dfs(neighbor, destination, adjList, visited)) {
+                return true;
             }
         }
+        }
+
+        return false;
+        
     }
     bool validPath(int n, vector<vector<int>>& edges, int source, int destination) {
-            vector<int> adj[n];
+    
+        vector<vector<int>> adjList(n);
+        vector<bool> visited(n, false);
+        
+        
+        for(auto edge:edges){
+           int u=edge[0];
+           int v=edge[1];
 
-            vector<int> visited(n,0);
-
-             for(auto it : edges)
-        {
-            int u = it[0];
-            int v = it[1];
-
-            adj[u].push_back(v);
-            adj[v].push_back(u);
+           adjList[u].push_back(v);
+           adjList[v].push_back(u);
         }
 
-         dfs(source , adj , visited);
-
-        if(visited[destination] == 0)
-        {
-            return false;
-        }
-        else
-        {
-            return true;
-        }
-
+        return dfs(source, destination, adjList, visited);
     }
 };
