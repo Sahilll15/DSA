@@ -1579,5 +1579,6 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0547-number-of-provinces](https://github.com/Sahilll15/DSA/tree/master/0547-number-of-provinces) |
+| [1791-find-center-of-star-graph](https://github.com/Sahilll15/DSA/tree/master/1791-find-center-of-star-graph) |
 | [2685-count-the-number-of-complete-components](https://github.com/Sahilll15/DSA/tree/master/2685-count-the-number-of-complete-components) |
 <!---LeetCode Topics End-->
